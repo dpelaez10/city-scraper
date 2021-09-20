@@ -3,7 +3,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-with open('test.csv', 'r') as f:
+with open('remainder.csv', 'r') as f:
     reader = csv.reader(f)
     queue = 1 
     total_emails = 0
@@ -39,7 +39,7 @@ with open('test.csv', 'r') as f:
         queue += 1
         time.sleep(1)
         data = [city, state, email_string]
-        with open('1k-cities-emails.csv', 'a') as e:
+        with open('1k-cities-emails-remainder.csv', 'a') as e:
             writer = csv.writer(e)
             writer.writerow(data)
         
