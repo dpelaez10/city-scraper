@@ -1,0 +1,5549 @@
+city,state,pop,query
+Azusa,CA,50000,Azusa CA
+Newark,OH,49934,Newark OH
+Lincoln,CA,49757,Lincoln CA
+East Brunswick,NJ,49715,East Brunswick NJ
+Euclid,OH,49692,Euclid OH
+Rockwall,TX,49669,Rockwall TX
+Wake Forest,NC,49657,Wake Forest NC
+Cerritos,CA,49578,Cerritos CA
+Biloxi,MS,49449,Biloxi MS
+Jeffersonville,IN,49447,Jeffersonville IN
+Lawrence,IN,49370,Lawrence IN
+Dublin,OH,49328,Dublin OH
+Ceres,CA,49302,Ceres CA
+Sheboygan,WI,49288,Sheboygan WI
+Coral Gables,FL,49248,Coral Gables FL
+Winter Haven,FL,49219,Winter Haven FL
+Bedford,TX,49187,Bedford TX
+St Louis Park,MN,49158,St Louis Park MN
+Everett,MA,49075,Everett MA
+Barnstable,MA,48916,Barnstable MA
+West Orange,NJ,48843,West Orange NJ
+Poway,CA,48841,Poway CA
+Titusville,FL,48789,Titusville FL
+Hattiesburg,MS,48730,Hattiesburg MS
+Glenview,IL,48705,Glenview IL
+Washington Township,NJ,48677,Washington Township NJ
+Niagara Falls,NY,48671,Niagara Falls NY
+Monroe Township,NJ,48594,Monroe Township NJ
+Cedar Hill,TX,48557,Cedar Hill TX
+Roswell,NM,48422,Roswell NM
+Stillwater ,OK,48394,Stillwater  OK
+Bothell,WA,48161,Bothell WA
+Charleston ,WV,48018,Charleston  WV
+La Mirada,CA,48008,La Mirada CA
+Binghamton,NY,47969,Binghamton NY
+Rancho Santa Margarita,CA,47949,Rancho Santa Margarita CA
+Egg Harbor Township,NJ,47842,Egg Harbor Township NJ
+Minot,ND,47789,Minot ND
+Wilson ,NC,47731,Wilson  NC
+Middletown,CT,47717,Middletown CT
+Monroe,LA,47702,Monroe LA
+Mansfield,OH,47534,Mansfield OH
+Newark,CA,47529,Newark CA
+Chesterfield,MO,47484,Chesterfield MO
+Mentor,OH,47450,Mentor OH
+Cleveland,TN,47356,Cleveland TN
+Brea,CA,47325,Brea CA
+Fort Pierce,FL,47297,Fort Pierce FL
+Ocoee,FL,47295,Ocoee FL
+East Providence,RI,47139,East Providence RI
+Oro Valley,AZ,47070,Oro Valley AZ
+San Luis Obispo,CA,47063,San Luis Obispo CA
+South Brunswick,NJ,47043,South Brunswick NJ
+Winter Garden,FL,46964,Winter Garden FL
+Salina ,KS,46889,Salina  KS
+Evesham Township,NJ,46826,Evesham Township NJ
+Prescott Valley,AZ,46785,Prescott Valley AZ
+Farmington,NM,46624,Farmington NM
+Beavercreek,OH,46549,Beavercreek OH
+Strongsville,OH,46491,Strongsville OH
+Attleboro,MA,46461,Attleboro MA
+Westfield,IN,46410,Westfield IN
+Wauwatosa,WI,46396,Wauwatosa WI
+Arlington,MA,46308,Arlington MA
+Huntsville,TX,46288,Huntsville TX
+Altamonte Springs,FL,46231,Altamonte Springs FL
+Alexandria,LA,46180,Alexandria LA
+Hackensack,NJ,46030,Hackensack NJ
+Huntington ,WV,46025,Huntington  WV
+Bridgewater Township,NJ,45977,Bridgewater Township NJ
+Goose Creek,SC,45946,Goose Creek SC
+Prescott,AZ,45827,Prescott AZ
+Elmhurst,IL,45786,Elmhurst IL
+Bountiful,UT,45762,Bountiful UT
+Haltom City,TX,45746,Haltom City TX
+Littleton,CO,45652,Littleton CO
+Urbandale,IA,45580,Urbandale IA
+Los Banos,CA,45532,Los Banos CA
+Morgan Hill,CA,45483,Morgan Hill CA
+Cutler Bay,FL,45425,Cutler Bay FL
+Keller,TX,45397,Keller TX
+Brentwood,TN,45373,Brentwood TN
+Charlottesville,VA,45373,Charlottesville VA
+Sayreville,NJ,45345,Sayreville NJ
+Cleveland Heights,OH,45312,Cleveland Heights OH
+Sierra Vista,AZ,45308,Sierra Vista AZ
+Riverton,UT,45285,Riverton UT
+Manchester Township,NJ,45115,Manchester Township NJ
+The Colony,TX,45000,The Colony TX
+Fairfield,OH,44907,Fairfield OH
+Sherman,TX,44873,Sherman TX
+York,PA,44800,York PA
+North Lauderdale,FL,44794,North Lauderdale FL
+Plainfield,IL,44762,Plainfield IL
+Mankato ,MN,44693,Mankato  MN
+Moorhead ,MN,44668,Moorhead  MN
+Mount Laurel,NJ,44633,Mount Laurel NJ
+West Lafayette,IN,44595,West Lafayette IN
+Palm Springs,CA,44575,Palm Springs CA
+Shakopee ,MN,44547,Shakopee  MN
+Salem,MA,44480,Salem MA
+Lombard,IL,44476,Lombard IL
+Freeport,NY,44472,Freeport NY
+Lompoc,CA,44444,Lompoc CA
+Gallatin,TN,44431,Gallatin TN
+Wallingford,CT,44396,Wallingford CT
+Rohnert Park,CA,44390,Rohnert Park CA
+WilkesBarre,PA,44328,WilkesBarre PA
+El Centro,CA,44322,El Centro CA
+Oakland Park,FL,44229,Oakland Park FL
+Greenacres,FL,43990,Greenacres FL
+Concord,NH,43976,Concord NH
+Altoona,PA,43963,Altoona PA
+Campbell,CA,43959,Campbell CA
+Pittsfield,MA,43927,Pittsfield MA
+San Bruno,CA,43908,San Bruno CA
+North Brunswick,NJ,43905,North Brunswick NJ
+Leominster,MA,43782,Leominster MA
+Berkeley Township,NJ,43754,Berkeley Township NJ
+Linden,NJ,43738,Linden NJ
+North Miami Beach,FL,43676,North Miami Beach FL
+Eagle Mountain,UT,43623,Eagle Mountain UT
+Danville,CA,43582,Danville CA
+Hickory,NC,43532,Hickory NC
+Hagerstown,MD,43527,Hagerstown MD
+Holly Springs,NC,43524,Holly Springs NC
+Bremerton,WA,43505,Bremerton WA
+Southington,CT,43501,Southington CT
+Ormond Beach,FL,43475,Ormond Beach FL
+Sumter,SC,43463,Sumter SC
+Huber Heights,OH,43439,Huber Heights OH
+Waxahachie,TX,43368,Waxahachie TX
+Oakley,CA,43357,Oakley CA
+Hillsborough Township,NJ,43276,Hillsborough Township NJ
+Woonsocket,RI,43240,Woonsocket RI
+Buffalo Grove,IL,43212,Buffalo Grove IL
+Jefferson City ,MO,43079,Jefferson City  MO
+Clermont,FL,43021,Clermont FL
+Fond du Lac,WI,43021,Fond du Lac WI
+Moline,IL,42985,Moline IL
+Puyallup,WA,42973,Puyallup WA
+Edmonds,WA,42853,Edmonds WA
+Beverly,MA,42670,Beverly MA
+Manassas,VA,42642,Manassas VA
+Schertz,TX,42622,Schertz TX
+Spanish Fork,UT,42602,Spanish Fork UT
+Newnan ,GA,42549,Newnan  GA
+Belleville,IL,42404,Belleville IL
+Gainesville ,GA,42296,Gainesville  GA
+Rancho Palos Verdes,CA,42287,Rancho Palos Verdes CA
+Peachtree Corners,GA,42243,Peachtree Corners GA
+Danville,VA,42229,Danville VA
+Coppell,TX,42221,Coppell TX
+Lake Worth Beach,FL,42219,Lake Worth Beach FL
+Enfield,CT,42141,Enfield CT
+Billerica,MA,42119,Billerica MA
+Kearny,NJ,41999,Kearny NJ
+Fitchburg,MA,41946,Fitchburg MA
+Coachella,CA,41941,Coachella CA
+Marlborough,MA,41793,Marlborough MA
+Columbia,TN,41690,Columbia TN
+Hollister,CA,41678,Hollister CA
+Marion,IA,41535,Marion IA
+Marlboro Township,NJ,41502,Marlboro Township NJ
+Bullhead City,AZ,41348,Bullhead City AZ
+Germantown,TN,41333,Germantown TN
+Delaware,OH,41302,Delaware OH
+Milton,GA,41296,Milton GA
+Pine Bluff,AK,41253,Pine Bluff AK
+Pine Bluff,AR,41253,Pine Bluff AR
+Grove City,OH,41252,Grove City OH
+Teaneck,NJ,41246,Teaneck NJ
+Hallandale Beach,FL,41217,Hallandale Beach FL
+Bartlett,IL,41105,Bartlett IL
+Reynoldsburg,OH,41076,Reynoldsburg OH
+Weslaco,TX,41024,Weslaco TX
+Friendswood,TX,41004,Friendswood TX
+Covington,KY,40961,Covington KY
+Indian Trail,NC,40953,Indian Trail NC
+Maplewood,MN,40940,Maplewood MN
+Montclair,NJ,40921,Montclair NJ
+Manalapan Township,NJ,40905,Manalapan Township NJ
+Woburn,MA,40876,Woburn MA
+Shelton,CT,40869,Shelton CT
+Westfield,MA,40834,Westfield MA
+Annapolis,MD,40812,Annapolis MD
+Chelsea,MA,40787,Chelsea MA
+Culver City,CA,40779,Culver City CA
+Lake Oswego,OR,40732,Lake Oswego OR
+Lancaster,TX,40728,Lancaster TX
+Cedar Falls,IA,40713,Cedar Falls IA
+Valley Stream,NY,40634,Valley Stream NY
+Lancaster,OH,40552,Lancaster OH
+Hobbs,NM,40508,Hobbs NM
+Findlay,OH,40313,Findlay OH
+DeKalb,IL,40290,DeKalb IL
+Crystal Lake,IL,40269,Crystal Lake IL
+Aventura,FL,40242,Aventura FL
+Fort Lee,NJ,40191,Fort Lee NJ
+Florence,AL,40184,Florence AL
+Norwich,CT,40125,Norwich CT
+Brighton,CO,40083,Brighton CO
+Oviedo,FL,40059,Oviedo FL
+Hurst,TX,40055,Hurst TX
+Issaquah,WA,40051,Issaquah WA
+Hutchinson ,KS,40006,Hutchinson  KS
+Cottage Grove,MN,39926,Cottage Grove MN
+Winslow Township,NJ,39907,Winslow Township NJ
+Florence,SC,39899,Florence SC
+Romeoville,IL,39863,Romeoville IL
+Carol Stream,IL,39854,Carol Stream IL
+Duncanville,TX,39797,Duncanville TX
+Plant City,FL,39764,Plant City FL
+Olive Branch,MS,39711,Olive Branch MS
+Park Ridge,IL,39656,Park Ridge IL
+New Berlin,WI,39584,New Berlin WI
+Streamwood,IL,39577,Streamwood IL
+San Gabriel,CA,39568,San Gabriel CA
+Bell Gardens,CA,39501,Bell Gardens CA
+West Fargo,ND,39487,West Fargo ND
+Rosenberg,TX,39468,Rosenberg TX
+Quincy,IL,39463,Quincy IL
+Rexburg ,ID,39409,Rexburg  ID
+Dover,DE,39403,Dover DE
+Keizer,OR,39376,Keizer OR
+Roy,UT,39306,Roy UT
+Mount Juliet,TN,39289,Mount Juliet TN
+Amherst,MA,39263,Amherst MA
+Warren,OH,39201,Warren OH
+Westerville,OH,39190,Westerville OH
+Grants Pass ,OR,39189,Grants Pass  OR
+Braintree,MA,39143,Braintree MA
+Wheeling,IL,39137,Wheeling IL
+Wausau,WI,39106,Wausau WI
+Vestavia Hills,AL,39102,Vestavia Hills AL
+Bettendorf,IA,39102,Bettendorf IA
+Royal Palm Beach,FL,38932,Royal Palm Beach FL
+Phenix City,AL,38816,Phenix City AL
+Spartanburg,SC,38732,Spartanburg SC
+La Vergne,TN,38719,La Vergne TN
+Pacifica,CA,38640,Pacifica CA
+Calexico,CA,38633,Calexico CA
+Lynnwood,WA,38568,Lynnwood WA
+Clovis,NM,38567,Clovis NM
+Apache Junction,AZ,38499,Apache Junction AZ
+Atlantic City,NJ,38497,Atlantic City NJ
+Post Falls,ID,38485,Post Falls ID
+Lebanon,TN,38431,Lebanon TN
+Groton,CT,38411,Groton CT
+East Point,GA,38358,East Point GA
+Winter Springs,FL,38342,Winter Springs FL
+Urbana,IL,38336,Urbana IL
+Shrewsbury,MA,38325,Shrewsbury MA
+Peachtree City,GA,38244,Peachtree City GA
+Owasso,OK,38240,Owasso OK
+Holyoke,MA,38238,Holyoke MA
+Belleville,NJ,38222,Belleville NJ
+Northglenn,CO,38131,Northglenn CO
+La Puente,CA,38062,La Puente CA
+Adelanto,CA,38046,Adelanto CA
+Carpentersville,IL,37983,Carpentersville IL
+Stanton,CA,37962,Stanton CA
+Cape Girardeau,MO,37941,Cape Girardeau MO
+Monrovia,CA,37931,Monrovia CA
+Hot Springs,AK,37930,Hot Springs AK
+Hot Springs,AR,37930,Hot Springs AR
+Portage,IN,37926,Portage IN
+Tupelo,MS,37923,Tupelo MS
+Brookfield,WI,37920,Brookfield WI
+Montclair,CA,37865,Montclair CA
+New Albany,IN,37841,New Albany IN
+Longview,WA,37818,Longview WA
+Galloway Township,NJ,37813,Galloway Township NJ
+Prattville,AL,37781,Prattville AL
+Pleasant Grove,UT,37726,Pleasant Grove UT
+Rome ,GA,37713,Rome  GA
+Saratoga Springs,UT,37696,Saratoga Springs UT
+Hilton Head Island,SC,37661,Hilton Head Island SC
+Riviera Beach,FL,37604,Riviera Beach FL
+Oregon City ,OR,37572,Oregon City  OR
+La Quinta,CA,37558,La Quinta CA
+Hanover Park,IL,37470,Hanover Park IL
+DeLand,FL,37351,DeLand FL
+Leavenworth ,KS,37351,Leavenworth  KS
+Bartlesville ,OK,37290,Bartlesville  OK
+Martinez,CA,37287,Martinez CA
+Claremont,CA,37266,Claremont CA
+Ewing Township,NJ,37264,Ewing Township NJ
+Lewiston,ME,37121,Lewiston ME
+Monroe Township,NJ,37117,Monroe Township NJ
+Hilliard,OH,37114,Hilliard OH
+Rock Island,IL,37108,Rock Island IL
+Georgetown,KY,37086,Georgetown KY
+Pennsauken Township,NJ,37074,Pennsauken Township NJ
+Midlothian,TX,37053,Midlothian TX
+Copperas Cove,TX,37041,Copperas Cove TX
+Natick,MA,37006,Natick MA
+Tucker,GA,37005,Tucker GA
+Beloit,WI,36966,Beloit WI
+Estero,FL,36939,Estero FL
+Muskogee ,OK,36878,Muskogee  OK
+Wildomar,CA,36875,Wildomar CA
+Trumbull,CT,36827,Trumbull CT
+Upper Arlington,OH,36800,Upper Arlington OH
+FuquayVarina,NC,36736,FuquayVarina NC
+Kearns,UT,36723,Kearns UT
+Greenfield,WI,36720,Greenfield WI
+Andover,MA,36569,Andover MA
+Richfield,MN,36527,Richfield MN
+Temple City,CA,36494,Temple City CA
+Merrillville,IN,36444,Merrillville IN
+Farmers Branch,TX,36442,Farmers Branch TX
+Cumberland,RI,36405,Cumberland RI
+Chelmsford,MA,36392,Chelmsford MA
+Moorpark,CA,36284,Moorpark CA
+Socorro,TX,36236,Socorro TX
+Dunedin,FL,36068,Dunedin FL
+Calumet City,IL,36033,Calumet City IL
+Midvale,UT,36028,Midvale UT
+Texarkana,TX,36017,Texarkana TX
+Marion,OH,35999,Marion OH
+La Porte,TX,35964,La Porte TX
+Lauderdale Lakes,FL,35954,Lauderdale Lakes FL
+Roseville,MN,35874,Roseville MN
+El Mirage,AZ,35805,El Mirage AZ
+Salisbury ,NC,35760,Salisbury  NC
+West Hollywood,CA,35757,West Hollywood CA
+Tooele,UT,35742,Tooele UT
+Gahanna,OH,35726,Gahanna OH
+Richmond,IN,35720,Richmond IN
+Addison,IL,35702,Addison IL
+Coventry,RI,35688,Coventry RI
+Myrtle Beach,SC,35682,Myrtle Beach SC
+Lake Stevens,WA,35630,Lake Stevens WA
+Lima,OH,35579,Lima OH
+San Juan,TX,35577,San Juan TX
+Inver Grove Heights,MN,35541,Inver Grove Heights MN
+Wildwood,MO,35517,Wildwood MO
+Torrington,CT,35515,Torrington CT
+Wenatchee,WA,35508,Wenatchee WA
+Manhattan Beach,CA,35506,Manhattan Beach CA
+Franklin,WI,35451,Franklin WI
+Brunswick,OH,35426,Brunswick OH
+University City,MO,35371,University City MO
+Freehold Township,NJ,35369,Freehold Township NJ
+Watertown,MA,35329,Watertown MA
+Greer,SC,35308,Greer SC
+North Ridgeville,OH,35280,North Ridgeville OH
+Springville,UT,35268,Springville UT
+San Luis,AZ,35257,San Luis AZ
+Cedar City,UT,35235,Cedar City UT
+Northbrook,IL,35222,Northbrook IL
+Mount Vernon,WA,35219,Mount Vernon WA
+San Juan Capistrano,CA,35196,San Juan Capistrano CA
+Glastonbury,CT,35159,Glastonbury CT
+Woodstock,GA,35065,Woodstock GA
+Meridian,MS,35052,Meridian MS
+Long Beach,NY,35029,Long Beach NY
+Benton,AK,35014,Benton AK
+Benton,AR,35014,Benton AR
+Randolph,MA,34984,Randolph MA
+Fair Lawn,NJ,34927,Fair Lawn NJ
+San Dimas,CA,34924,San Dimas CA
+Hinesville ,GA,34891,Hinesville  GA
+Monroe ,NC,34888,Monroe  NC
+University Place,WA,34866,University Place WA
+Cookeville,TN,34842,Cookeville TN
+Mason,OH,34792,Mason OH
+College Park,MD,34740,College Park MD
+Parkland,FL,34670,Parkland FL
+Douglasville ,GA,34650,Douglasville  GA
+Plainfield,IN,34625,Plainfield IN
+Pleasant Hill,CA,34613,Pleasant Hill CA
+Oswego,IL,34585,Oswego IL
+Richmond,KY,34585,Richmond KY
+Del Rio,TX,34584,Del Rio TX
+Goshen,IN,34517,Goshen IN
+Fairborn,OH,34510,Fairborn OH
+Butte,MT,34494,Butte MT
+Stow,OH,34483,Stow OH
+Lexington,MA,34454,Lexington MA
+Oak Creek,WI,34451,Oak Creek WI
+Orange,NJ,34447,Orange NJ
+Dalton ,GA,34417,Dalton  GA
+Cooper City,FL,34401,Cooper City FL
+McMinnville ,OR,34319,McMinnville  OR
+Derry,NH,34317,Derry NH
+Westlake,OH,34228,Westlake OH
+Lewiston ,ID,34203,Lewiston  ID
+Woodridge,IL,34158,Woodridge IL
+Valparaiso,IN,34151,Valparaiso IN
+Prosper,TX,34136,Prosper TX
+Sahuarita,AZ,34134,Sahuarita AZ
+North Providence,RI,34114,North Providence RI
+Lufkin,TX,34074,Lufkin TX
+Walla Walla,WA,34060,Walla Walla WA
+Gadsden,AL,33945,Gadsden AL
+Leawood,KS,33902,Leawood KS
+Crown Point,IN,33899,Crown Point IN
+Foster City,CA,33805,Foster City CA
+Kearney,NE,33790,Kearney NE
+Dartmouth,MA,33783,Dartmouth MA
+Menlo Park,CA,33780,Menlo Park CA
+Manitowoc,WI,33736,Manitowoc WI
+Weatherford,TX,33710,Weatherford TX
+Deer Park,TX,33676,Deer Park TX
+Englewood,CO,33659,Englewood CO
+Cottonwood Heights,UT,33617,Cottonwood Heights UT
+Harker Heights,TX,33560,Harker Heights TX
+Bell,CA,33559,Bell CA
+Los Gatos,CA,33529,Los Gatos CA
+Cibolo,TX,33475,Cibolo TX
+Statesboro ,GA,33438,Statesboro  GA
+Houma,LA,33406,Houma LA
+Gillette,WY,33403,Gillette WY
+Petersburg,VA,33394,Petersburg VA
+American Fork,UT,33337,American Fork UT
+Alabaster,AL,33284,Alabaster AL
+Redmond,OR,33274,Redmond OR
+Franklin,MA,33261,Franklin MA
+Glendale Heights,IL,33176,Glendale Heights IL
+Dana Point,CA,33107,Dana Point CA
+St Charles,IL,33081,St Charles IL
+Lawrence Township,NJ,33077,Lawrence Township NJ
+Spring Valley,NY,33066,Spring Valley NY
+Salisbury,MD,33050,Salisbury MD
+Kennesaw,GA,33036,Kennesaw GA
+Savage,MN,32983,Savage MN
+Canton ,GA,32973,Canton  GA
+Kiryas Joel,NY,32954,Kiryas Joel NY
+Kaysville,UT,32945,Kaysville UT
+Panama City,FL,32939,Panama City FL
+Andover,MN,32926,Andover MN
+Pullman,WA,32901,Pullman WA
+Des Moines,WA,32888,Des Moines WA
+Brooklyn Center,MN,32880,Brooklyn Center MN
+Elk Grove Village,IL,32812,Elk Grove Village IL
+Goldsboro ,NC,32749,Goldsboro  NC
+Dover,NH,32741,Dover NH
+Sherwood,AK,32731,Sherwood AK
+Sherwood,AR,32731,Sherwood AR
+Windsor,CO,32716,Windsor CO
+Beverly Hills,CA,32701,Beverly Hills CA
+Goleta,CA,32690,Goleta CA
+Kingman,AZ,32689,Kingman AZ
+Garfield,NJ,32655,Garfield NJ
+Dracut,MA,32617,Dracut MA
+Chester,PA,32605,Chester PA
+Falmouth,MA,32517,Falmouth MA
+Desert Hot Springs,CA,32512,Desert Hot Springs CA
+Rochester,NH,32492,Rochester NH
+North Olmsted,OH,32442,North Olmsted OH
+Wheat Ridge,CO,32398,Wheat Ridge CO
+Seaside,CA,32366,Seaside CA
+OFallon,IL,32289,OFallon IL
+Carlsbad,NM,32238,Carlsbad NM
+Massillon,OH,32146,Massillon OH
+Syracuse,UT,32141,Syracuse UT
+San Pablo,CA,32127,San Pablo CA
+Rome,NY,32127,Rome NY
+Nacogdoches,TX,32118,Nacogdoches TX
+Ithaca,NY,32108,Ithaca NY
+Needham,MA,32091,Needham MA
+Helena,MT,32091,Helena MT
+Michigan City,IN,32075,Michigan City IN
+Aiken,SC,32025,Aiken SC
+Cleburne,TX,31999,Cleburne TX
+Deptford Township,NJ,31977,Deptford Township NJ
+Atwater,CA,31970,Atwater CA
+Holladay,UT,31965,Holladay UT
+Florence,KY,31946,Florence KY
+Garner,NC,31935,Garner NC
+South Kingstown,RI,31931,South Kingstown RI
+Clearfield,UT,31909,Clearfield UT
+Maryville,TN,31907,Maryville TN
+Willingboro Township,NJ,31889,Willingboro Township NJ
+Duluth,GA,31873,Duluth GA
+Lawndale,CA,31807,Lawndale CA
+Bangor,ME,31753,Bangor ME
+Pekin,IL,31731,Pekin IL
+Dania Beach,FL,31723,Dania Beach FL
+Port Chester,NY,31693,Port Chester NY
+Long Branch,NJ,31667,Long Branch NJ
+Cornelius,NC,31650,Cornelius NC
+Los Altos,CA,31625,Los Altos CA
+Norwood,MA,31611,Norwood MA
+Poughkeepsie,NY,31577,Poughkeepsie NY
+Mundelein,IL,31560,Mundelein IL
+Naugatuck,CT,31519,Naugatuck CT
+Paso Robles,CA,31490,Paso Robles CA
+SeaTac,WA,31454,SeaTac WA
+Laramie,WY,31407,Laramie WY
+Oak Ridge,TN,31402,Oak Ridge TN
+Elizabethtown,KY,31394,Elizabethtown KY
+Burlingame,CA,31386,Burlingame CA
+Shawnee ,OK,31377,Shawnee  OK
+Laguna Hills,CA,31374,Laguna Hills CA
+New Bern ,NC,31346,New Bern  NC
+Tewksbury,MA,31342,Tewksbury MA
+La Verne,CA,31334,La Verne CA
+Livingston,NJ,31330,Livingston NJ
+North Royalton,OH,31322,North Royalton OH
+Morrisville,NC,31278,Morrisville NC
+Hopkinsville,KY,31180,Hopkinsville KY
+Northport,AL,31125,Northport AL
+Southlake,TX,31105,Southlake TX
+Nicholasville,KY,31093,Nicholasville KY
+West Bend,WI,31078,West Bend WI
+Voorhees Township,NJ,31069,Voorhees Township NJ
+Saratoga,CA,31051,Saratoga CA
+Westfield,NJ,31032,Westfield NJ
+West Warwick,RI,31012,West Warwick RI
+Opelika,AL,30995,Opelika AL
+North Andover,MA,30915,North Andover MA
+Niles,IL,30912,Niles IL
+Zionsville,IN,30903,Zionsville IN
+Seguin,TX,30902,Seguin TX
+Alamogordo,NM,30898,Alamogordo NM
+LaGrange ,GA,30858,LaGrange  GA
+Hutto,TX,30855,Hutto TX
+North Attleborough,MA,30834,North Attleborough MA
+Bowling Green,OH,30808,Bowling Green OH
+North Chicago,IL,30759,North Chicago IL
+San Carlos,CA,30722,San Carlos CA
+Gurnee,IL,30706,Gurnee IL
+Princeton,NJ,30681,Princeton NJ
+Sanford ,NC,30678,Sanford  NC
+Santa Paula,CA,30657,Santa Paula CA
+Lawrenceville ,GA,30629,Lawrenceville  GA
+Newark,DE,30601,Newark DE
+Newington,CT,30536,Newington CT
+North Tonawanda,NY,30496,North Tonawanda NY
+Miami Lakes,FL,30467,Miami Lakes FL
+Morristown,TN,30431,Morristown TN
+Lafayette,CO,30411,Lafayette CO
+Ballwin,MO,30404,Ballwin MO
+Milford,MA,30379,Milford MA
+Eagle,ID,30346,Eagle ID
+Middletown,NY,30345,Middletown NY
+Fridley,MN,30313,Fridley MN
+Monterey,CA,30218,Monterey CA
+Vernon,CT,30215,Vernon CT
+Highland Park,IL,30176,Highland Park IL
+Chamblee,GA,30164,Chamblee GA
+Nutley,NJ,30143,Nutley NJ
+New Smyrna Beach,FL,30142,New Smyrna Beach FL
+Bella Vista,AK,30104,Bella Vista AK
+Bella Vista,AR,30104,Bella Vista AR
+Salem,NH,30089,Salem NH
+Laurel,MD,30060,Laurel MD
+Galesburg,IL,30052,Galesburg IL
+East Windsor Township,NJ,30045,East Windsor Township NJ
+Erie,CO,30038,Erie CO
+East Palo Alto,CA,30034,East Palo Alto CA
+Hazleton,PA,29963,Hazleton PA
+Melrose,MA,29817,Melrose MA
+Fountain,CO,29802,Fountain CO
+Winter Park,FL,29795,Winter Park FL
+Garfield Heights,OH,29781,Garfield Heights OH
+Atascadero,CA,29773,Atascadero CA
+Hobart,IN,29752,Hobart IN
+Gloucester,MA,29729,Gloucester MA
+McCandless,PA,29709,McCandless PA
+Algonquin,IL,29700,Algonquin IL
+Greenville,MS,29670,Greenville MS
+Schererville,IN,29646,Schererville IN
+Matthews,NC,29623,Matthews NC
+Greenville,TX,29578,Greenville TX
+Northampton,MA,29571,Northampton MA
+Johnston,RI,29568,Johnston RI
+Central,LA,29565,Central LA
+Rahway,NJ,29556,Rahway NJ
+Wellesley,MA,29550,Wellesley MA
+Paragould,AK,29537,Paragould AK
+Paragould,AR,29537,Paragould AR
+Raytown,MO,29526,Raytown MO
+Suisun City,CA,29518,Suisun City CA
+West Windsor,NJ,29518,West Windsor NJ
+Banning,CA,29505,Banning CA
+Windsor,CT,29492,Windsor CT
+Jacksonville,AK,29477,Jacksonville AK
+Jacksonville,AR,29477,Jacksonville AR
+Burbank,IL,29439,Burbank IL
+Shaker Heights,OH,29439,Shaker Heights OH
+Parkersburg ,WV,29403,Parkersburg  WV
+Texarkana,AK,29387,Texarkana AK
+Texarkana,AR,29387,Texarkana AR
+Sun Prairie,WI,29364,Sun Prairie WI
+Englewood,NJ,29308,Englewood NJ
+Stoughton,MA,29281,Stoughton MA
+Magna,UT,29251,Magna UT
+Morgantown ,WV,29219,Morgantown  WV
+Danville,IL,29204,Danville IL
+Liberty ,MO,29149,Liberty  MO
+Lansing,IL,29076,Lansing IL
+Wentzville,MO,29070,Wentzville MO
+McDonough ,GA,29051,McDonough  GA
+Sachse,TX,29042,Sachse TX
+Lake in the Hills,IL,28982,Lake in the Hills IL
+Stockbridge,GA,28973,Stockbridge GA
+Brownsburg,IN,28973,Brownsburg IN
+Russellville,AK,28940,Russellville AK
+Russellville,AR,28940,Russellville AR
+Mount Olive Township,NJ,28886,Mount Olive Township NJ
+Newburgh,NY,28856,Newburgh NY
+Glen Ellyn,IL,28846,Glen Ellyn IL
+Statesville ,NC,28844,Statesville  NC
+West Springfield,MA,28835,West Springfield MA
+Casselberry,FL,28794,Casselberry FL
+Slidell,LA,28781,Slidell LA
+Fredericksburg,VA,28757,Fredericksburg VA
+Cheshire,CT,28733,Cheshire CT
+Jamestown,NY,28712,Jamestown NY
+Enterprise,AL,28711,Enterprise AL
+Lathrop,CA,28701,Lathrop CA
+Agawam,MA,28692,Agawam MA
+Independence,KY,28676,Independence KY
+Lacey Township,NJ,28655,Lacey Township NJ
+Converse,TX,28643,Converse TX
+Bridgewater,MA,28633,Bridgewater MA
+Milton,MA,28630,Milton MA
+Saugus,MA,28619,Saugus MA
+Stafford Township,NJ,28617,Stafford Township NJ
+Bixby,OK,28609,Bixby OK
+Frankfort,KY,28602,Frankfort KY
+Eagle Pass,TX,28596,Eagle Pass TX
+New Iberia,LA,28555,New Iberia LA
+Saratoga Springs,NY,28491,Saratoga Springs NY
+Jeffersontown,KY,28474,Jeffersontown KY
+Walnut,CA,28430,Walnut CA
+Glen Cove,NY,28365,Glen Cove NY
+Belmont,CA,28335,Belmont CA
+Aberdeen ,SD,28324,Aberdeen  SD
+Bergenfield,NJ,28321,Bergenfield NJ
+Marion,IN,28310,Marion IN
+Clayton,NC,28306,Clayton NC
+Branford,CT,28273,Branford CT
+Harrison,NY,28218,Harrison NY
+Kent,OH,28215,Kent OH
+Ramsey,MN,28202,Ramsey MN
+Wilmette,IL,28170,Wilmette IL
+Garden City ,KS,28151,Garden City  KS
+Easton,PA,28127,Easton PA
+New Milford,CT,28115,New Milford CT
+Anderson,SC,28106,Anderson SC
+Clinton,MS,28100,Clinton MS
+Danvers,MA,28087,Danvers MA
+Prior Lake,MN,28086,Prior Lake MN
+Twentynine Palms,CA,28065,Twentynine Palms CA
+Neptune Township,NJ,28061,Neptune Township NJ
+Chaska ,MN,28047,Chaska  MN
+Maple Valley,WA,28013,Maple Valley WA
+Washington,UT,27993,Washington UT
+Henderson,KY,27981,Henderson KY
+Oakdale,MN,27974,Oakdale MN
+Ridgecrest,CA,27959,Ridgecrest CA
+Tualatin,OR,27942,Tualatin OR
+Winchester,VA,27936,Winchester VA
+East Haven,CT,27923,East Haven CT
+Lake Jackson,TX,27879,Lake Jackson TX
+Bernards Township,NJ,27830,Bernards Township NJ
+Dodge City ,KS,27788,Dodge City  KS
+Williamsport,PA,27754,Williamsport PA
+Madison,MS,27747,Madison MS
+Huntley,IL,27740,Huntley IL
+North Kingstown,RI,27732,North Kingstown RI
+Bluffton,SC,27716,Bluffton SC
+Rockledge,FL,27678,Rockledge FL
+Ocean Township,NJ,27672,Ocean Township NJ
+Lemon Grove,CA,27627,Lemon Grove CA
+Marshalltown,IA,27591,Marshalltown IA
+Alvin,TX,27576,Alvin TX
+Ossining,NY,27551,Ossining NY
+Granite City,IL,27549,Granite City IL
+Kirkwood,MO,27540,Kirkwood MO
+Millville,NJ,27491,Millville NJ
+Hamilton Township,NJ,27484,Hamilton Township NJ
+Chicago Heights,IL,27480,Chicago Heights IL
+Oak Forest,IL,27478,Oak Forest IL
+Green,OH,27475,Green OH
+Maryland Heights,MO,27472,Maryland Heights MO
+Daphne,AL,27462,Daphne AL
+West Linn,OR,27373,West Linn OR
+New London,CT,27367,New London CT
+Mason City,IA,27338,Mason City IA
+Williston,ND,27332,Williston ND
+Wethersfield,CT,27298,Wethersfield CT
+Belmont,MA,27295,Belmont MA
+Bridgeton,NJ,27263,Bridgeton NJ
+Forney,TX,27256,Forney TX
+Round Lake Beach,IL,27252,Round Lake Beach IL
+Superior,WI,27244,Superior WI
+Wooster,OH,27232,Wooster OH
+New Lenox,IL,27214,New Lenox IL
+Thomasville,NC,27203,Thomasville NC
+Newtown,CT,27173,Newtown CT
+Balch Springs,TX,27160,Balch Springs TX
+Lindenhurst,NY,27148,Lindenhurst NY
+Bristol,TN,27147,Bristol TN
+Westport,CT,27141,Westport CT
+Fremont,NE,27141,Fremont NE
+Paducah,KY,27137,Paducah KY
+McHenry,IL,27135,McHenry IL
+Crestview,FL,27134,Crestview FL
+Benicia,CA,27131,Benicia CA
+Asheboro ,NC,27124,Asheboro  NC
+Pearl,MS,27115,Pearl MS
+Wakefield,MA,27090,Wakefield MA
+Wasco,CA,27047,Wasco CA
+Lemoore,CA,27038,Lemoore CA
+Leesburg,FL,27000,Leesburg FL
+South Pasadena,CA,26943,South Pasadena CA
+South Windsor,CT,26918,South Windsor CT
+Pemberton Township,NJ,26903,Pemberton Township NJ
+Palm Springs,FL,26890,Palm Springs FL
+Auburn,NY,26866,Auburn NY
+Vernon Hills,IL,26850,Vernon Hills IL
+Lebanon,PA,26814,Lebanon PA
+Edwardsville,IL,26808,Edwardsville IL
+Kernersville,NC,26793,Kernersville NC
+Florence,AZ,26785,Florence AZ
+South Salt Lake,UT,26777,South Salt Lake UT
+Carrollton ,GA,26738,Carrollton  GA
+Union City,GA,26738,Union City GA
+Horn Lake,MS,26736,Horn Lake MS
+Stevens Point,WI,26717,Stevens Point WI
+Farmington,CT,26712,Farmington CT
+Paramus,NJ,26698,Paramus NJ
+Temple Terrace,FL,26690,Temple Terrace FL
+Shoreview,MN,26670,Shoreview MN
+Haines City,FL,26669,Haines City FL
+Wilsonville,OR,26664,Wilsonville OR
+Rosemount,MN,26642,Rosemount MN
+Mint Hill,NC,26633,Mint Hill NC
+Merrimack,NH,26632,Merrimack NH
+Sanger,CA,26617,Sanger CA
+Cabot,AK,26569,Cabot AK
+Cabot,AR,26569,Cabot AR
+Wheeling ,WV,26568,Wheeling  WV
+Wall Township,NJ,26525,Wall Township NJ
+Elmira,NY,26523,Elmira NY
+Eureka,CA,26512,Eureka CA
+Randolph,NJ,26504,Randolph NJ
+South Portland,ME,26498,South Portland ME
+Key West,FL,26444,Key West FL
+Brawley,CA,26416,Brawley CA
+Homewood,AL,26414,Homewood AL
+Owatonna ,MN,26398,Owatonna  MN
+Walpole,MA,26383,Walpole MA
+Burlington,MA,26377,Burlington MA
+East Chicago,IN,26370,East Chicago IN
+Windsor,CA,26344,Windsor CA
+Norco,CA,26316,Norco CA
+Troy,OH,26305,Troy OH
+Austin ,MN,26225,Austin  MN
+Forest Grove,OR,26225,Forest Grove OR
+Lodi,NJ,26206,Lodi NJ
+Elk River ,MN,26192,Elk River  MN
+Imperial Beach,CA,26137,Imperial Beach CA
+Trussville,AL,26123,Trussville AL
+Batavia,IL,26098,Batavia IL
+Lockport,IL,26094,Lockport IL
+Medina,OH,26094,Medina OH
+Camas,WA,26065,Camas WA
+Chanhassen,MN,26037,Chanhassen MN
+Bessemer,AL,26019,Bessemer AL
+Hercules,CA,26016,Hercules CA
+Rockville Centre,NY,26016,Rockville Centre NY
+Woodburn,OR,26013,Woodburn OR
+Colleyville,TX,25986,Colleyville TX
+Ridgewood,NJ,25979,Ridgewood NJ
+Leland,NC,25974,Leland NC
+Winona ,MN,25964,Winona  MN
+El Cerrito,CA,25962,El Cerrito CA
+Jenks,OK,25949,Jenks OK
+West Melbourne,FL,25924,West Melbourne FL
+Staunton,VA,25904,Staunton VA
+Mansfield,CT,25892,Mansfield CT
+Londonderry,NH,25826,Londonderry NH
+Marshfield,MA,25825,Marshfield MA
+Mercer Island,WA,25748,Mercer Island WA
+Big Spring,TX,25735,Big Spring TX
+Pooler,GA,25711,Pooler GA
+Hazelwood,MO,25703,Hazelwood MO
+Cliffside Park,NJ,25693,Cliffside Park NJ
+Maplewood,NJ,25684,Maplewood NJ
+Alton,IL,25676,Alton IL
+Woodstock,IL,25630,Woodstock IL
+Derby,KS,25625,Derby KS
+West Chicago,IL,25614,West Chicago IL
+Marysville,OH,25571,Marysville OH
+Ottumwa,IA,25529,Ottumwa IA
+Salem,VA,25523,Salem VA
+Reading,MA,25518,Reading MA
+Neenah,WI,25501,Neenah WI
+Mahwah,NJ,25487,Mahwah NJ
+Venice,FL,25463,Venice FL
+Xenia,OH,25441,Xenia OH
+Moscow ,ID,25435,Moscow  ID
+Peekskill,NY,25431,Peekskill NY
+Oxford,MS,25416,Oxford MS
+Barstow,CA,25415,Barstow CA
+Gladstone,MO,25410,Gladstone MO
+Athens,AL,25406,Athens AL
+Hudson,NH,25394,Hudson NH
+Lafayette,CA,25391,Lafayette CA
+Galt,CA,25383,Galt CA
+Dedham,MA,25364,Dedham MA
+Tumwater,WA,25350,Tumwater WA
+Rockaway Township,NJ,25341,Rockaway Township NJ
+Belvidere,IL,25339,Belvidere IL
+Carteret,NJ,25326,Carteret NJ
+Franklin,IN,25313,Franklin IN
+Morton Grove,IL,25297,Morton Grove IL
+Fitchburg,WI,25260,Fitchburg WI
+Seal Beach,CA,25242,Seal Beach CA
+Reedley,CA,25227,Reedley CA
+Avon Lake,OH,25206,Avon Lake OH
+Corsicana,TX,25203,Corsicana TX
+Barberton,OH,25191,Barberton OH
+Denison,TX,25179,Denison TX
+Fulshear,TX,25169,Fulshear TX
+Dickinson,ND,25167,Dickinson ND
+Newport,RI,25163,Newport RI
+Hastings,NE,25152,Hastings NE
+Moses Lake,WA,25146,Moses Lake WA
+Maywood,CA,25138,Maywood CA
+Brandon,MS,25138,Brandon MS
+Newberg,OR,25138,Newberg OR
+Tarpon Springs,FL,25117,Tarpon Springs FL
+Sandusky,OH,25095,Sandusky OH
+Sugar Hill,GA,25076,Sugar Hill GA
+Kingsville,TX,25069,Kingsville TX
+Easton,MA,25058,Easton MA
+Sebastian,FL,25054,Sebastian FL
+Perrysburg,OH,25041,Perrysburg OH
+Ridgefield,CT,25033,Ridgefield CT
+Yarmouth,MA,25023,Yarmouth MA
+Scotch Plains,NJ,24968,Scotch Plains NJ
+Norfolk,NE,24955,Norfolk NE
+Decatur ,GA,24928,Decatur  GA
+Soledad,CA,24925,Soledad CA
+Greenbelt,MD,24921,Greenbelt MD
+Fort Dodge,IA,24871,Fort Dodge IA
+Riverbank,CA,24865,Riverbank CA
+West Milford,NJ,24862,West Milford NJ
+University Park,TX,24849,University Park TX
+Avon,OH,24847,Avon OH
+Fairfax,VA,24835,Fairfax VA
+Bainbridge Island,WA,24825,Bainbridge Island WA
+Conway,SC,24809,Conway SC
+Melrose Park,IL,24796,Melrose Park IL
+Loma Linda,CA,24791,Loma Linda CA
+San Benito,TX,24780,San Benito TX
+Zanesville,OH,24765,Zanesville OH
+Ardmore ,OK,24725,Ardmore  OK
+Mauldin,SC,24724,Mauldin SC
+Watertown,NY,24685,Watertown NY
+Selma,CA,24674,Selma CA
+Zion,IL,24655,Zion IL
+Westford,MA,24643,Westford MA
+Oak Harbor,WA,24622,Oak Harbor WA
+Benbrook,TX,24605,Benbrook TX
+Dinuba,CA,24563,Dinuba CA
+Kalispell,MT,24558,Kalispell MT
+Homer Glen,IL,24543,Homer Glen IL
+Farmington,UT,24531,Farmington UT
+Elmwood Park,IL,24521,Elmwood Park IL
+Fort Mill,SC,24521,Fort Mill SC
+West Memphis,AK,24520,West Memphis AK
+West Memphis,AR,24520,West Memphis AR
+Simsbury,CT,24517,Simsbury CT
+Medford,NJ,24497,Medford NJ
+Kerrville,TX,24477,Kerrville TX
+Grandview,MO,24475,Grandview MO
+Riverside,OH,24474,Riverside OH
+Clinton,IA,24469,Clinton IA
+Mandan,ND,24447,Mandan ND
+Palmetto Bay,FL,24439,Palmetto Bay FL
+Westmont,IL,24429,Westmont IL
+Windham,CT,24425,Windham CT
+Ponca City,OK,24424,Ponca City OK
+Faribault ,MN,24420,Faribault  MN
+Paris,TX,24407,Paris TX
+North Augusta,SC,24379,North Augusta SC
+Canton,MA,24370,Canton MA
+Collinsville,IL,24366,Collinsville IL
+Starkville,MS,24360,Starkville MS
+Ridgeland,MS,24340,Ridgeland MS
+South Plainfield,NJ,24338,South Plainfield NJ
+Pelham,AL,24318,Pelham AL
+Barnegat Township,NJ,24296,Barnegat Township NJ
+Hingham,MA,24284,Hingham MA
+Solon,OH,24262,Solon OH
+North Haven,CT,24253,North Haven CT
+Middleborough,MA,24245,Middleborough MA
+Centerville,OH,24240,Centerville OH
+Lisle,IL,24223,Lisle IL
+Rolling Meadows,IL,24200,Rolling Meadows IL
+Papillion,NE,24159,Papillion NE
+Emporia ,KS,24139,Emporia  KS
+Muskego,WI,24135,Muskego WI
+White Bear Lake,MN,24130,White Bear Lake MN
+Columbus,MS,24084,Columbus MS
+Plainsboro Township,NJ,24084,Plainsboro Township NJ
+Kingston,NY,24069,Kingston NY
+Johnston,IA,24064,Johnston IA
+Auburn,ME,24061,Auburn ME
+Kankakee,IL,24052,Kankakee IL
+Columbus,NE,24028,Columbus NE
+Acton,MA,24021,Acton MA
+Kuna,ID,24011,Kuna ID
+Saginaw,TX,24011,Saginaw TX
+Wadsworth,OH,24007,Wadsworth OH
+Katy,TX,24005,Katy TX
+Highland,IN,23984,Highland IN
+Burlington Township,NJ,23983,Burlington Township NJ
+Burlington,IA,23982,Burlington IA
+Freeport,IL,23973,Freeport IL
+Willoughby,OH,23959,Willoughby OH
+San Fernando,CA,23946,San Fernando CA
+Waukee,IA,23940,Waukee IA
+Kenmore,WA,23914,Kenmore WA
+Munster,IN,23894,Munster IN
+South Elgin,IL,23865,South Elgin IL
+Watertown,WI,23861,Watertown WI
+Mansfield,MA,23860,Mansfield MA
+Athens,OH,23849,Athens OH
+Cranford,NJ,23847,Cranford NJ
+Belton,TX,23845,Belton TX
+Jacksonville Beach,FL,23830,Jacksonville Beach FL
+Fountain Hills,AZ,23820,Fountain Hills AZ
+Celina,TX,23811,Celina TX
+De Pere,WI,23800,De Pere WI
+Muscatine,IA,23797,Muscatine IA
+Patterson,CA,23781,Patterson CA
+Happy Valley,OR,23733,Happy Valley OR
+Maple Heights,OH,23701,Maple Heights OH
+Montgomery Township,NJ,23690,Montgomery Township NJ
+Roseburg ,OR,23683,Roseburg  OR
+Yukon,OK,23630,Yukon OK
+Brookings ,SD,23577,Brookings  SD
+Lexington,SC,23568,Lexington SC
+Shelbyville,TN,23557,Shelbyville TN
+Farmington,MN,23534,Farmington MN
+Rock Springs,WY,23526,Rock Springs WY
+Maywood,IL,23512,Maywood IL
+Farragut,TN,23506,Farragut TN
+Greenfield,IN,23488,Greenfield IN
+Griffin ,GA,23478,Griffin  GA
+Champlin,MN,23478,Champlin MN
+Raritan Township,NJ,23447,Raritan Township NJ
+Loves Park,IL,23397,Loves Park IL
+North Platte,NE,23390,North Platte NE
+Clinton,UT,23386,Clinton UT
+Westerly,RI,23359,Westerly RI
+Simpsonville,SC,23354,Simpsonville SC
+Wilmington,MA,23349,Wilmington MA
+Bedford,NH,23322,Bedford NH
+Watauga,TX,23313,Watauga TX
+Wareham,MA,23303,Wareham MA
+Gardner,KS,23287,Gardner KS
+Garden City,NY,23272,Garden City NY
+Stoneham,MA,23244,Stoneham MA
+Calabasas,CA,23241,Calabasas CA
+Van Buren,AK,23218,Van Buren AK
+Van Buren,AR,23218,Van Buren AR
+Millbrae,CA,23216,Millbrae CA
+Middletown,DE,23192,Middletown DE
+Eustis,FL,23189,Eustis FL
+Cartersville ,GA,23187,Cartersville  GA
+Oakdale,CA,23181,Oakdale CA
+Horizon City,TX,23162,Horizon City TX
+Glassboro,NJ,23149,Glassboro NJ
+Mequon,WI,23132,Mequon WI
+Belton,MO,23116,Belton MO
+Hudson,OH,23110,Hudson OH
+Edgewater,FL,23097,Edgewater FL
+Pickerington,OH,23094,Pickerington OH
+Trotwood,OH,23070,Trotwood OH
+Hialeah Gardens,FL,23068,Hialeah Gardens FL
+Keene,NH,23047,Keene NH
+Radcliff,KY,23042,Radcliff KY
+Oxford,OH,23035,Oxford OH
+Laguna Beach,CA,23032,Laguna Beach CA
+Webster Groves,MO,22995,Webster Groves MO
+Morris Township,NJ,22974,Morris Township NJ
+Winchester,MA,22970,Winchester MA
+Hopewell,VA,22962,Hopewell VA
+Prairie Village,KS,22957,Prairie Village KS
+Machesney Park,IL,22950,Machesney Park IL
+Roxbury,NJ,22950,Roxbury NJ
+Searcy,AK,22937,Searcy AK
+Searcy,AR,22937,Searcy AR
+Junction City ,KS,22932,Junction City  KS
+Easley,SC,22921,Easley SC
+New Brighton,MN,22902,New Brighton MN
+Roselle,IL,22897,Roselle IL
+Fernley,NV,22895,Fernley NV
+Cudahy,CA,22811,Cudahy CA
+North Plainfield,NJ,22808,North Plainfield NJ
+Waynesboro,VA,22808,Waynesboro VA
+Watertown ,SD,22722,Watertown  SD
+Summit,NJ,22719,Summit NJ
+Crystal,MN,22711,Crystal MN
+Roselle,NJ,22695,Roselle NJ
+Duncan ,OK,22692,Duncan  OK
+Corinth,TX,22690,Corinth TX
+Marshall,TX,22662,Marshall TX
+Central Falls,RI,22583,Central Falls RI
+Blue Island,IL,22558,Blue Island IL
+Biddeford,ME,22552,Biddeford ME
+Greenwood,SC,22545,Greenwood SC
+Lincoln,RI,22529,Lincoln RI
+Lyndhurst,NJ,22519,Lyndhurst NJ
+Bristol,RI,22493,Bristol RI
+Bonney Lake,WA,22487,Bonney Lake WA
+East Peoria,IL,22484,East Peoria IL
+Fairhope,AL,22477,Fairhope AL
+La Porte,IN,22471,La Porte IN
+Mountain Brook,AL,22461,Mountain Brook AL
+Hillside,NJ,22456,Hillside NJ
+Montville,NJ,22450,Montville NJ
+Acworth,GA,22440,Acworth GA
+Albertville,AL,22386,Albertville AL
+Bloomingdale,IL,22382,Bloomingdale IL
+Marina,CA,22359,Marina CA
+Vernon Township,NJ,22358,Vernon Township NJ
+Sunny Isles Beach,FL,22342,Sunny Isles Beach FL
+Corcoran,CA,22339,Corcoran CA
+Clarksville,IN,22333,Clarksville IN
+Coralville,IA,22318,Coralville IA
+Villa Park,IL,22263,Villa Park IL
+DeBary,FL,22260,DeBary FL
+West Deptford Township,NJ,22197,West Deptford Township NJ
+Secaucus,NJ,22181,Secaucus NJ
+East Ridge,TN,22167,East Ridge TN
+Ruston,LA,22166,Ruston LA
+Evans,CO,22165,Evans CO
+Smithfield,RI,22118,Smithfield RI
+Watertown,CT,22105,Watertown CT
+Essex,VT,22094,Essex VT
+Guilford,CT,22073,Guilford CT
+Oxford,AL,22069,Oxford AL
+Chillicothe,OH,22059,Chillicothe OH
+Lower Township,NJ,22057,Lower Township NJ
+Darien,IL,22011,Darien IL
+Pascagoula,MS,22010,Pascagoula MS
+Sanford,ME,21982,Sanford ME
+Scarborough,ME,21982,Scarborough ME
+Portsmouth,NH,21956,Portsmouth NH
+Port Hueneme,CA,21954,Port Hueneme CA
+Shelby ,NC,21947,Shelby  NC
+Golden Valley,MN,21942,Golden Valley MN
+Sapulpa ,OK,21929,Sapulpa  OK
+New Castle,PA,21926,New Castle PA
+Hastings ,MN,21925,Hastings  MN
+North Salt Lake,UT,21907,North Salt Lake UT
+Gallup,NM,21899,Gallup NM
+South Euclid,OH,21883,South Euclid OH
+Carbondale,IL,21857,Carbondale IL
+American Canyon,CA,21837,American Canyon CA
+Columbia Heights,MN,21835,Columbia Heights MN
+Del City,OK,21822,Del City OK
+Klamath Falls ,OR,21813,Klamath Falls  OR
+Sulphur,LA,21809,Sulphur LA
+Tukwila,WA,21798,Tukwila WA
+Brunswick,ME,21756,Brunswick ME
+Rocky River,OH,21755,Rocky River OH
+Yucca Valley,CA,21738,Yucca Valley CA
+Duarte,CA,21727,Duarte CA
+Millburn,NJ,21710,Millburn NJ
+Dickinson,TX,21697,Dickinson TX
+Park Forest,IL,21687,Park Forest IL
+Waxhaw,NC,21673,Waxhaw NC
+Alliance,OH,21672,Alliance OH
+Lindenwold,NJ,21641,Lindenwold NJ
+Ashland,KY,21625,Ashland KY
+Lino Lakes,MN,21608,Lino Lakes MN
+Vicksburg,MS,21573,Vicksburg MS
+Seymour,IN,21569,Seymour IN
+Westborough,MA,21567,Westborough MA
+Anniston,AL,21564,Anniston AL
+Mukilteo,WA,21538,Mukilteo WA
+Bloomfield,CT,21535,Bloomfield CT
+Yorkville,IL,21533,Yorkville IL
+Clemmons,NC,21517,Clemmons NC
+Darien,CT,21499,Darien CT
+Avon,IN,21474,Avon IN
+South Holland,IL,21465,South Holland IL
+Dolton,IL,21426,Dolton IL
+Elmwood Park,NJ,21422,Elmwood Park NJ
+Otsego,MN,21401,Otsego MN
+Geneva,IL,21393,Geneva IL
+Sedalia ,MO,21387,Sedalia  MO
+East Moline,IL,21374,East Moline IL
+Ashland,OR,21360,Ashland OR
+New Hope,MN,21356,New Hope MN
+Moorestown,NJ,21355,Moorestown NJ
+South Lake Tahoe,CA,21330,South Lake Tahoe CA
+Carrboro,NC,21312,Carrboro NC
+Gardner,MA,21287,Gardner MA
+Mountlake Terrace,WA,21286,Mountlake Terrace WA
+Grayslake,IL,21248,Grayslake IL
+Louisville,CO,21226,Louisville CO
+Murphy,TX,21219,Murphy TX
+Ennis,TX,21210,Ennis TX
+Ferguson,MO,21203,Ferguson MO
+Stephenville,TX,21199,Stephenville TX
+Hyattsville,MD,21187,Hyattsville MD
+South Milwaukee,WI,21156,South Milwaukee WI
+Milwaukie,OR,21119,Milwaukie OR
+Hays ,KS,21116,Hays  KS
+Payson,UT,21101,Payson UT
+Willmar ,MN,21045,Willmar  MN
+Fate,TX,21013,Fate TX
+Ludlow,MA,21002,Ludlow MA
+Mill Creek,WA,20926,Mill Creek WA
+Fort Walton Beach,FL,20922,Fort Walton Beach FL
+Lomita,CA,20921,Lomita CA
+North Ogden,UT,20916,North Ogden UT
+Helena,AL,20914,Helena AL
+Lockport,NY,20876,Lockport NY
+Parma Heights,OH,20863,Parma Heights OH
+Rocky Hill,CT,20845,Rocky Hill CT
+Lebanon,OH,20841,Lebanon OH
+Bethany,OK,20831,Bethany OK
+West St Paul,MN,20822,West St Paul MN
+Arnold,MO,20808,Arnold MO
+Mineola,NY,20800,Mineola NY
+Suwanee,GA,20786,Suwanee GA
+Little Egg Harbor Township,NJ,20784,Little Egg Harbor Township NJ
+Covington,WA,20777,Covington WA
+Battle Ground,WA,20743,Battle Ground WA
+Northfield,MN,20729,Northfield MN
+Bryant,AK,20663,Bryant AK
+Bryant,AR,20663,Bryant AR
+Pittsburg,KS,20646,Pittsburg KS
+Pleasantville,NJ,20629,Pleasantville NJ
+Perry ,GA,20624,Perry  GA
+New Canaan,CT,20622,New Canaan CT
+Forest Lake,MN,20608,Forest Lake MN
+Sidney,OH,20589,Sidney OH
+Libertyville,IL,20579,Libertyville IL
+La Caada Flintridge,CA,20573,La Caada Flintridge CA
+Snellville,GA,20573,Snellville GA
+Elko,NV,20564,Elko NV
+Jefferson Township,NJ,20538,Jefferson Township NJ
+South St Paul,MN,20536,South St Paul MN
+Portland,TX,20536,Portland TX
+North Liberty,IA,20479,North Liberty IA
+Mesquite,NV,20471,Mesquite NV
+Crest Hill,IL,20459,Crest Hill IL
+Bourne,MA,20452,Bourne MA
+Sherwood,OR,20450,Sherwood OR
+Marblehead,MA,20441,Marblehead MA
+Lynbrook,NY,20438,Lynbrook NY
+Westbrook,ME,20400,Westbrook ME
+Golden,CO,20399,Golden CO
+Saco,ME,20381,Saco ME
+Middle Township,NJ,20380,Middle Township NJ
+Bethel,CT,20358,Bethel CT
+Piqua,OH,20354,Piqua OH
+Mayfield Heights,OH,20351,Mayfield Heights OH
+Tullahoma,TN,20339,Tullahoma TN
+Foley,AL,20335,Foley AL
+Hanahan,SC,20325,Hanahan SC
+Harvey,IL,20324,Harvey IL
+Painesville,OH,20312,Painesville OH
+St John,IN,20303,St John IN
+Agoura Hills,CA,20299,Agoura Hills CA
+Frankfort,IL,20296,Frankfort IL
+Palisades Park,NJ,20292,Palisades Park NJ
+Montrose,CO,20291,Montrose CO
+Albany,CA,20271,Albany CA
+Imperial,CA,20263,Imperial CA
+Montgomery,IL,20262,Montgomery IL
+Sandwich,MA,20259,Sandwich MA
+Anna,TX,20243,Anna TX
+Coronado,CA,20192,Coronado CA
+Forest Park,OH,20189,Forest Park OH
+Morristown,NJ,20180,Morristown NJ
+Berlin,CT,20175,Berlin CT
+Mamaroneck,NY,20151,Mamaroneck NY
+Whitehall,OH,20127,Whitehall OH
+Westminster,MD,20126,Westminster MD
+Hazlet,NJ,20125,Hazlet NJ
+Hudson,MA,20092,Hudson MA
+Shelbyville,IN,20067,Shelbyville IN
+Princeton,TX,20046,Princeton TX
+Oroville,CA,20042,Oroville CA
+Hurricane,UT,20036,Hurricane UT
+Alamo,TX,20017,Alamo TX
+Maple Shade Township,NJ,19980,Maple Shade Township NJ
+Port Angeles,WA,19960,Port Angeles WA
+Shafter,CA,19953,Shafter CA
+Oregon,OH,19950,Oregon OH
+Lackawanna,NY,19949,Lackawanna NY
+Evergreen Park,IL,19943,Evergreen Park IL
+Broadview Heights,OH,19936,Broadview Heights OH
+Forest Park,GA,19932,Forest Park GA
+Miamisburg,OH,19923,Miamisburg OH
+Holden,MA,19905,Holden MA
+Mokena,IL,19887,Mokena IL
+Southbury,CT,19879,Southbury CT
+Mustang,OK,19879,Mustang OK
+Sand Springs,OK,19874,Sand Springs OK
+Arlington,WA,19868,Arlington WA
+Plattsburgh,NY,19841,Plattsburgh NY
+Liberal ,KS,19825,Liberal  KS
+Universal City,TX,19808,Universal City TX
+Nogales,AZ,19770,Nogales AZ
+Lake Zurich,IL,19759,Lake Zurich IL
+Plainview,TX,19739,Plainview TX
+Hermosa Beach,CA,19728,Hermosa Beach CA
+Monroe,WA,19699,Monroe WA
+Grafton,MA,19664,Grafton MA
+Brigham City,UT,19650,Brigham City UT
+Hawthorne,NJ,19637,Hawthorne NJ
+Erlanger,KY,19611,Erlanger KY
+Sparta,NJ,19600,Sparta NJ
+Hammond,LA,19584,Hammond LA
+Claremore ,OK,19580,Claremore  OK
+Knightdale,NC,19576,Knightdale NC
+Waterford,CT,19571,Waterford CT
+South El Monte,CA,19567,South El Monte CA
+Altoona,IA,19565,Altoona IA
+Rolla ,MO,19559,Rolla  MO
+Kinston ,NC,19546,Kinston  NC
+Maitland,FL,19543,Maitland FL
+Madisonville,KY,19542,Madisonville KY
+Sartell,MN,19532,Sartell MN
+Lexington ,NC,19516,Lexington  NC
+Orinda,CA,19514,Orinda CA
+Arvin,CA,19495,Arvin CA
+Brookfield,IL,19476,Brookfield IL
+Punta Gorda,FL,19471,Punta Gorda FL
+Homewood,IL,19463,Homewood IL
+Harrison,NJ,19450,Harrison NJ
+Los Alamos,NM,19419,Los Alamos NM
+Angleton,TX,19401,Angleton TX
+Stillwater ,MN,19389,Stillwater  MN
+Lake Forest,IL,19367,Lake Forest IL
+Seminole,FL,19364,Seminole FL
+Sweetwater,FL,19363,Sweetwater FL
+Hermiston,OR,19354,Hermiston OR
+Highland,UT,19348,Highland UT
+Crowley,TX,19333,Crowley TX
+Aberdeen Township,NJ,19329,Aberdeen Township NJ
+Prichard,AL,19322,Prichard AL
+Zachary,LA,19316,Zachary LA
+Winthrop,MA,19316,Winthrop MA
+Bartow,FL,19309,Bartow FL
+Lakeway,TX,19300,Lakeway TX
+Maumelle,AK,19251,Maumelle AK
+Maumelle,AR,19251,Maumelle AR
+Twinsburg,OH,19248,Twinsburg OH
+Ashland,OH,19225,Ashland OH
+Santa Fe Springs,CA,19219,Santa Fe Springs CA
+Raymore,MO,19206,Raymore MO
+Norton,MA,19202,Norton MA
+Deerfield,IL,19196,Deerfield IL
+Tinton Falls,NJ,19181,Tinton Falls NJ
+Orange,TX,19169,Orange TX
+Winchester,KY,19134,Winchester KY
+Marshfield,WI,19118,Marshfield WI
+Naples,FL,19115,Naples FL
+Boerne,TX,19109,Boerne TX
+Cumberland,MD,19076,Cumberland MD
+Matteson,IL,19073,Matteson IL
+Durango,CO,19071,Durango CO
+Alsip,IL,19063,Alsip IL
+Scituate,MA,19063,Scituate MA
+Springboro,OH,19062,Springboro OH
+Norwood,OH,19043,Norwood OH
+Cocoa,FL,19041,Cocoa FL
+Chowchilla,CA,19039,Chowchilla CA
+Gautier,MS,19024,Gautier MS
+Pinole,CA,19022,Pinole CA
+Nixa,MO,19022,Nixa MO
+Sylvania,OH,19011,Sylvania OH
+Tavares,FL,19003,Tavares FL
+St Michael,MN,19001,St Michael MN
+Central Point,OR,18997,Central Point OR
+Dixon,CA,18988,Dixon CA
+Fayetteville ,GA,18957,Fayetteville  GA
+Point Pleasant,NJ,18941,Point Pleasant NJ
+Greenfield,CA,18937,Greenfield CA
+Sudbury,MA,18934,Sudbury MA
+Avon,CT,18932,Avon CT
+Ansonia,CT,18918,Ansonia CT
+Augusta,ME,18899,Augusta ME
+Thomasville ,GA,18881,Thomasville  GA
+Alton,TX,18860,Alton TX
+Arcata,CA,18857,Arcata CA
+Ottawa,IL,18840,Ottawa IL
+Warrensburg ,MO,18838,Warrensburg  MO
+Martinsburg ,WV,18835,Martinsburg  WV
+Rutherford,NJ,18834,Rutherford NJ
+Ashland,MA,18832,Ashland MA
+Monroe,CT,18825,Monroe CT
+Bensenville,IL,18813,Bensenville IL
+Weirton,WV,18813,Weirton WV
+Seagoville,TX,18805,Seagoville TX
+North Myrtle Beach,SC,18790,North Myrtle Beach SC
+Bellwood,IL,18789,Bellwood IL
+Springfield,TN,18782,Springfield TN
+Brownwood,TX,18770,Brownwood TX
+Hopkinton,MA,18758,Hopkinton MA
+Palestine,TX,18756,Palestine TX
+Sheridan,WY,18737,Sheridan WY
+Altus ,OK,18729,Altus  OK
+Round Lake,IL,18721,Round Lake IL
+La Marque,TX,18697,La Marque TX
+Lynn Haven,FL,18695,Lynn Haven FL
+East Lyme,CT,18693,East Lyme CT
+Ellensburg,WA,18666,Ellensburg WA
+Foxborough,MA,18618,Foxborough MA
+Newton ,KS,18602,Newton  KS
+Clive,IA,18601,Clive IA
+Brook Park,OH,18595,Brook Park OH
+Durant ,OK,18589,Durant  OK
+Sycamore,IL,18577,Sycamore IL
+Goffstown,NH,18577,Goffstown NH
+Sharon,MA,18575,Sharon MA
+Hopkins,MN,18573,Hopkins MN
+Terrell,TX,18567,Terrell TX
+Berea,OH,18545,Berea OH
+Palos Hills,IL,18530,Palos Hills IL
+Groveland,FL,18505,Groveland FL
+Wilton,CT,18503,Wilton CT
+Concord,MA,18491,Concord MA
+South Orange,NJ,18484,South Orange NJ
+East St Louis,IL,18469,East St Louis IL
+Franklin Park,IL,18467,Franklin Park IL
+Dover,NJ,18460,Dover NJ
+Lebanon,OR,18447,Lebanon OR
+Niles,OH,18443,Niles OH
+Arroyo Grande,CA,18441,Arroyo Grande CA
+Windham,ME,18434,Windham ME
+Albert Lea ,MN,18428,Albert Lea  MN
+Johnstown,PA,18411,Johnstown PA
+Tallmadge,OH,18394,Tallmadge OH
+Pinecrest,FL,18388,Pinecrest FL
+Montville,CT,18387,Montville CT
+Wisconsin Rapids,WI,18367,Wisconsin Rapids WI
+Logansport,IN,18366,Logansport IN
+Pembroke,MA,18361,Pembroke MA
+Winder ,GA,18338,Winder  GA
+Kingsland,GA,18337,Kingsland GA
+Gorham,ME,18336,Gorham ME
+Stonington,CT,18335,Stonington CT
+Nederland,TX,18331,Nederland TX
+Blythe,CA,18317,Blythe CA
+Somerset,MA,18303,Somerset MA
+Colonial Heights,VA,18294,Colonial Heights VA
+Newburyport,MA,18289,Newburyport MA
+Manor,TX,18285,Manor TX
+Cudahy,WI,18267,Cudahy WI
+North Aurora,IL,18261,North Aurora IL
+St Marys,GA,18256,St Marys GA
+Scarsdale,NY,18253,Scarsdale NY
+Portsmouth,OH,18252,Portsmouth OH
+Amsterdam,NY,18219,Amsterdam NY
+Cullman,AL,18213,Cullman AL
+Fairmont ,WV,18209,Fairmont  WV
+Washington Township,NJ,18197,Washington Township NJ
+Shorewood,IL,18186,Shorewood IL
+Centralia,WA,18183,Centralia WA
+McAlester ,OK,18171,McAlester  OK
+Canby,OR,18171,Canby OR
+Bourbonnais,IL,18164,Bourbonnais IL
+Steubenville,OH,18161,Steubenville OH
+South Hadley,MA,18150,South Hadley MA
+Cohoes,NY,18147,Cohoes NY
+Brenham,TX,18117,Brenham TX
+Panama City Beach,FL,18094,Panama City Beach FL
+Manchester,MO,18094,Manchester MO
+Mount Washington,KY,18090,Mount Washington KY
+White Settlement,TX,18084,White Settlement TX
+Natchitoches,LA,18039,Natchitoches LA
+Ashtabula,OH,17975,Ashtabula OH
+Selma,AL,17971,Selma AL
+Tiffin,OH,17953,Tiffin OH
+Hannibal,MO,17916,Hannibal MO
+Sevierville,TN,17889,Sevierville TN
+Pataskala,OH,17886,Pataskala OH
+Delran Township,NJ,17882,Delran Township NJ
+Bay City,TX,17882,Bay City TX
+Portsmouth,RI,17871,Portsmouth RI
+Dumont,NJ,17863,Dumont NJ
+Anoka ,MN,17847,Anoka  MN
+North Canton,OH,17842,North Canton OH
+Creve Coeur,MO,17833,Creve Coeur MO
+Cary,IL,17826,Cary IL
+Godfrey,IL,17825,Godfrey IL
+Ozark ,MO,17820,Ozark  MO
+Gretna,LA,17814,Gretna LA
+Rockland,MA,17803,Rockland MA
+Centerton,AK,17792,Centerton AK
+Centerton,AR,17792,Centerton AR
+Goodlettsville,TN,17789,Goodlettsville TN
+Webster,MA,17776,Webster MA
+Greenfield,MA,17768,Greenfield MA
+Alice,TX,17761,Alice TX
+El Dorado,AK,17756,El Dorado AK
+El Dorado,AR,17756,El Dorado AR
+Killingly,CT,17752,Killingly CT
+Southbridge,MA,17740,Southbridge MA
+Onalaska,WI,17736,Onalaska WI
+Troy,AL,17727,Troy AL
+McKeesport,PA,17727,McKeesport PA
+Ammon,ID,17694,Ammon ID
+Madison,CT,17691,Madison CT
+Clemson,SC,17681,Clemson SC
+New Philadelphia,OH,17677,New Philadelphia OH
+Eastlake,OH,17670,Eastlake OH
+Laguna Woods,CA,17644,Laguna Woods CA
+Anacortes,WA,17637,Anacortes WA
+Lemont,IL,17629,Lemont IL
+Takoma Park,MD,17629,Takoma Park MD
+Jacksonville,IL,17616,Jacksonville IL
+Coalinga,CA,17590,Coalinga CA
+Gainesville,TX,17576,Gainesville TX
+Cortland,NY,17556,Cortland NY
+St Matthews,KY,17534,St Matthews KY
+Brookfield,CT,17528,Brookfield CT
+Plainville,CT,17525,Plainville CT
+Colchester,VT,17524,Colchester VT
+Kirksville ,MO,17505,Kirksville  MO
+Hopewell Township,NJ,17491,Hopewell Township NJ
+South Ogden,UT,17488,South Ogden UT
+Ocean Springs,MS,17442,Ocean Springs MS
+Middleton,WI,17442,Middleton WI
+Fort Thomas,KY,17438,Fort Thomas KY
+Stuart,FL,17425,Stuart FL
+West Columbia,SC,17416,West Columbia SC
+Holmdel Township,NJ,17400,Holmdel Township NJ
+New Castle,IN,17396,New Castle IN
+Hinsdale,IL,17395,Hinsdale IL
+Amesbury,MA,17366,Amesbury MA
+Stafford,TX,17364,Stafford TX
+Menasha,WI,17353,Menasha WI
+Murray,KY,17307,Murray KY
+Conyers ,GA,17305,Conyers  GA
+Johnstown,CO,17303,Johnstown CO
+Fairview Park,OH,17291,Fairview Park OH
+Siloam Springs,AK,17287,Siloam Springs AK
+Siloam Springs,AR,17287,Siloam Springs AR
+Charleston,IL,17286,Charleston IL
+Shelbyville,KY,17282,Shelbyville KY
+El Segundo,CA,17272,El Segundo CA
+Streetsboro,OH,17260,Streetsboro OH
+Los Lunas,NM,17242,Los Lunas NM
+Aurora,OH,17239,Aurora OH
+Danville,KY,17234,Danville KY
+Norcross,GA,17209,Norcross GA
+Weehawken,NJ,17197,Weehawken NJ
+Zephyrhills,FL,17194,Zephyrhills FL
+Springfield Township,NJ,17178,Springfield Township NJ
+Laurel,MS,17161,Laurel MS
+Barrington,RI,17153,Barrington RI
+Buford,GA,17144,Buford GA
+Swansea,MA,17144,Swansea MA
+Caon City,CO,17141,Caon City CO
+Hernando,MS,17138,Hernando MS
+Glenn Heights,TX,17127,Glenn Heights TX
+Morton,IL,17117,Morton IL
+Massapequa Park,NY,17109,Massapequa Park NY
+Denville Township,NJ,17107,Denville Township NJ
+Pendleton ,OR,17107,Pendleton  OR
+Easton,MD,17101,Easton MD
+Middletown,RI,17075,Middletown RI
+Safety Harbor,FL,17072,Safety Harbor FL
+Milledgeville ,GA,17070,Milledgeville  GA
+Norwalk,OH,17068,Norwalk OH
+Defiance,OH,17066,Defiance OH
+Cinnaminson Township,NJ,17064,Cinnaminson Township NJ
+Abington,MA,17062,Abington MA
+Tifton ,GA,17045,Tifton  GA
+Washougal,WA,17039,Washougal WA
+Bridgeview,IL,17027,Bridgeview IL
+Beckley ,WV,17024,Beckley  WV
+Poplar Bluff ,MO,17023,Poplar Bluff  MO
+Huntington,IN,17022,Huntington IN
+Bluffdale,UT,17014,Bluffdale UT
+Aberdeen,WA,17013,Aberdeen WA
+Addison,TX,17012,Addison TX
+Rancho Mirage,CA,16999,Rancho Mirage CA
+El Reno ,OK,16989,El Reno  OK
+Bellaire,TX,16983,Bellaire TX
+Melissa,TX,16983,Melissa TX
+Bristol,VA,16975,Bristol VA
+Villa Rica,GA,16970,Villa Rica GA
+Mount Vernon,OH,16956,Mount Vernon OH
+Calhoun ,GA,16949,Calhoun  GA
+Bellingham,MA,16945,Bellingham MA
+Madison,NJ,16937,Madison NJ
+New Milford,NJ,16923,New Milford NJ
+Oswego,NY,16921,Oswego NY
+Groves,TX,16915,Groves TX
+Westchester,IL,16892,Westchester IL
+Auburn,MA,16889,Auburn MA
+Powder Springs,GA,16887,Powder Springs GA
+Centerville,UT,16884,Centerville UT
+Laconia,NH,16871,Laconia NH
+Moraga,CA,16870,Moraga CA
+Mattoon,IL,16870,Mattoon IL
+Heber City,UT,16856,Heber City UT
+Marion,IL,16855,Marion IL
+Dallas ,OR,16854,Dallas  OR
+Gatesville,TX,16854,Gatesville TX
+Donna,TX,16821,Donna TX
+Taylor,TX,16807,Taylor TX
+Lake Mary,FL,16798,Lake Mary FL
+Long Beach,MS,16780,Long Beach MS
+Hueytown,AL,16776,Hueytown AL
+Country Club Hills,IL,16775,Country Club Hills IL
+Red Wing ,MN,16763,Red Wing  MN
+Vincennes,IN,16759,Vincennes IN
+Seymour,CT,16748,Seymour CT
+La Vista,NE,16746,La Vista NE
+West Haven,UT,16739,West Haven UT
+Radford,VA,16738,Radford VA
+Truckee,CA,16729,Truckee CA
+Susanville,CA,16728,Susanville CA
+New Port Richey,FL,16728,New Port Richey FL
+Frankfort,IN,16715,Frankfort IN
+Fairview Heights,IL,16706,Fairview Heights IL
+Jasper,IN,16703,Jasper IN
+Manassas Park,VA,16703,Manassas Park VA
+Sunland Park,NM,16702,Sunland Park NM
+Belle Glade,FL,16698,Belle Glade FL
+Clearlake,CA,16685,Clearlake CA
+Lebanon,IN,16662,Lebanon IN
+Richmond Hill,GA,16633,Richmond Hill GA
+Ham Lake,MN,16627,Ham Lake MN
+Ukiah,CA,16607,Ukiah CA
+Rye,NY,16592,Rye NY
+Wyckoff,NJ,16585,Wyckoff NJ
+Millbrook,AL,16564,Millbrook AL
+Douglas,AZ,16534,Douglas AZ
+Griffith,IN,16528,Griffith IN
+Dyer,IN,16517,Dyer IN
+Calera,AL,16494,Calera AL
+Fairburn,GA,16483,Fairburn GA
+Ada ,OK,16481,Ada  OK
+Pampa,TX,16474,Pampa TX
+Opalocka,FL,16463,Opalocka FL
+North Arlington,NJ,16457,North Arlington NJ
+East Longmeadow,MA,16430,East Longmeadow MA
+Ellington,CT,16426,Ellington CT
+Fillmore,CA,16419,Fillmore CA
+Center Point,AL,16406,Center Point AL
+Humble,TX,16396,Humble TX
+Artesia,CA,16395,Artesia CA
+Buffalo ,MN,16386,Buffalo  MN
+Firestone,CO,16381,Firestone CO
+Franklin Township,NJ,16380,Franklin Township NJ
+Sunnyside,WA,16375,Sunnyside WA
+Lake Wales,FL,16361,Lake Wales FL
+Tiverton,RI,16359,Tiverton RI
+Vero Beach,FL,16354,Vero Beach FL
+Payson,AZ,16351,Payson AZ
+Mount Dora,FL,16341,Mount Dora FL
+Westport,MA,16339,Westport MA
+Northbridge,MA,16335,Northbridge MA
+La Grange,IL,16321,La Grange IL
+Sikeston,MO,16318,Sikeston MO
+Mercedes,TX,16312,Mercedes TX
+Crawfordsville,IN,16306,Crawfordsville IN
+Troutdale,OR,16300,Troutdale OR
+West Richland,WA,16295,West Richland WA
+Muscle Shoals,AL,16275,Muscle Shoals AL
+Westwood,MA,16266,Westwood MA
+Menomonie,WI,16264,Menomonie WI
+Aberdeen,MD,16254,Aberdeen MD
+Beaver Dam,WI,16243,Beaver Dam WI
+Farmington ,MO,16240,Farmington  MO
+Americus ,GA,16230,Americus  GA
+Hermitage,PA,16230,Hermitage PA
+Hampton,NH,16214,Hampton NH
+Holly Springs,GA,16213,Holly Springs GA
+Easthampton,MA,16211,Easthampton MA
+Tahlequah ,OK,16209,Tahlequah  OK
+Floral Park,NY,16172,Floral Park NY
+Saraland,AL,16171,Saraland AL
+Dyersburg,TN,16164,Dyersburg TN
+Bay Village,OH,16163,Bay Village OH
+Burrillville,RI,16158,Burrillville RI
+Wolcott,CT,16142,Wolcott CT
+Milford,NH,16131,Milford NH
+Hewitt,TX,16131,Hewitt TX
+Readington Township,NJ,16128,Readington Township NJ
+South River,NJ,16118,South River NJ
+Hugo,MN,16109,Hugo MN
+Duxbury,MA,16090,Duxbury MA
+Mount Pleasant,TX,16079,Mount Pleasant TX
+Hibbing,MN,16077,Hibbing MN
+Dublin ,GA,16074,Dublin  GA
+Washington,IL,16071,Washington IL
+Overland,MO,16062,Overland MO
+Prospect Heights,IL,16058,Prospect Heights IL
+Dickson,TN,16058,Dickson TN
+Chickasha ,OK,16051,Chickasha  OK
+Exeter,NH,16049,Exeter NH
+Gardendale,AL,16044,Gardendale AL
+Kerman,CA,16016,Kerman CA
+Ripon,CA,16013,Ripon CA
+The Dalles ,OR,16010,The Dalles  OR
+Middleburg Heights,OH,16004,Middleburg Heights OH
+Sulphur Springs,TX,15995,Sulphur Springs TX
+Coos Bay,OR,15985,Coos Bay OR
+Mountain Home ,ID,15979,Mountain Home  ID
+Royse City,TX,15978,Royse City TX
+Lady Lake,FL,15970,Lady Lake FL
+Highland Village,TX,15952,Highland Village TX
+Thibodaux,LA,15948,Thibodaux LA
+Clayton ,MO,15939,Clayton  MO
+Fremont,OH,15930,Fremont OH
+Youngsville,LA,15929,Youngsville LA
+Fairhaven,MA,15924,Fairhaven MA
+Warren Township,NJ,15923,Warren Township NJ
+Williamsburg,VA,15909,Williamsburg VA
+Palmview,TX,15884,Palmview TX
+South Houston,TX,15878,South Houston TX
+Westbury,NY,15864,Westbury NY
+Talladega,AL,15861,Talladega AL
+Longmeadow,MA,15853,Longmeadow MA
+Live Oak,TX,15840,Live Oak TX
+Indianola,IA,15833,Indianola IA
+Waterville,ME,15828,Waterville ME
+Windham,NH,15817,Windham NH
+Elkton,MD,15807,Elkton MD
+Warsaw,IN,15804,Warsaw IN
+Opelousas,LA,15786,Opelousas LA
+Clarksburg ,WV,15784,Clarksburg  WV
+Niceville,FL,15772,Niceville FL
+Marco Island,FL,15760,Marco Island FL
+Newton,IA,15760,Newton IA
+Suffield,CT,15752,Suffield CT
+Jamestown,ND,15750,Jamestown ND
+Lynden,WA,15749,Lynden WA
+Northborough,MA,15741,Northborough MA
+Wildwood,FL,15730,Wildwood FL
+Oconomowoc,WI,15712,Oconomowoc WI
+Greenwood Village,CO,15691,Greenwood Village CO
+Rio Grande City,TX,15670,Rio Grande City TX
+Buda,TX,15643,Buda TX
+Shively,KY,15636,Shively KY
+Eloy,AZ,15635,Eloy AZ
+Mitchell ,SD,15631,Mitchell  SD
+Auburndale,FL,15616,Auburndale FL
+Batavia,NY,15600,Batavia NY
+Port Orchard,WA,15587,Port Orchard WA
+New Haven,IN,15583,New Haven IN
+La Palma,CA,15581,La Palma CA
+Scottsboro,AL,15578,Scottsboro AL
+Grovetown,GA,15577,Grovetown GA
+Pequannock Township,NJ,15571,Pequannock Township NJ
+Chubbuck,ID,15570,Chubbuck ID
+Hayden,ID,15570,Hayden ID
+Colchester,CT,15555,Colchester CT
+North Reading,MA,15554,North Reading MA
+Clark,NJ,15544,Clark NJ
+Berea,KY,15539,Berea KY
+Seekonk,MA,15531,Seekonk MA
+Durham,NH,15490,Durham NH
+Greeneville,TN,15479,Greeneville TN
+Robbinsville Township,NJ,15476,Robbinsville Township NJ
+Kaukauna,WI,15462,Kaukauna WI
+Hartselle,AL,15455,Hartselle AL
+Yankton ,SD,15453,Yankton  SD
+Clinton,MA,15428,Clinton MA
+Bradley,IL,15419,Bradley IL
+Ledyard,CT,15413,Ledyard CT
+Monroe,OH,15412,Monroe OH
+Tenafly,NJ,15409,Tenafly NJ
+Haddon Township,NJ,15407,Haddon Township NJ
+Grimes,IA,15392,Grimes IA
+Red Oak,TX,15364,Red Oak TX
+Belchertown,MA,15350,Belchertown MA
+Johnson City,NY,15343,Johnson City NY
+Bennington,VT,15333,Bennington VT
+Uvalde,TX,15312,Uvalde TX
+Bemidji ,MN,15279,Bemidji  MN
+Dixon,IL,15274,Dixon IL
+Norridge,IL,15251,Norridge IL
+Phillipsburg,NJ,15249,Phillipsburg NJ
+Mantua Township,NJ,15235,Mantua Township NJ
+Canyon,TX,15221,Canyon TX
+Brunswick ,GA,15210,Brunswick  GA
+Vandalia,OH,15209,Vandalia OH
+Kenmore,NY,15205,Kenmore NY
+Asbury Park,NJ,15188,Asbury Park NJ
+Depew,NY,15178,Depew NY
+Raynham,MA,15142,Raynham MA
+Gloversville,NY,15131,Gloversville NY
+West Park,FL,15130,West Park FL
+Riverdale,GA,15129,Riverdale GA
+Tonawanda,NY,15129,Tonawanda NY
+Whitman,MA,15121,Whitman MA
+Swampscott,MA,15111,Swampscott MA
+Pacific Grove,CA,15090,Pacific Grove CA
+Longwood,FL,15087,Longwood FL
+Highland Park,NJ,15072,Highland Park NJ
+Mashpee,MA,15060,Mashpee MA
+Macomb,IL,15051,Macomb IL
+Metuchen,NJ,15049,Metuchen NJ
+Ferndale,WA,15048,Ferndale WA
+Fairview,NJ,15025,Fairview NJ
+Gulf Shores,AL,15014,Gulf Shores AL
+Glasgow,KY,15014,Glasgow KY
+River Falls,WI,15000,River Falls WI
+Holliston,MA,14996,Holliston MA
+Chelsea,AL,14982,Chelsea AL
+Greensburg,PA,14976,Greensburg PA
+California City,CA,14973,California City CA
+Plainfield,CT,14973,Plainfield CT
+Branchburg,NJ,14940,Branchburg NJ
+Clarksdale,MS,14903,Clarksdale MS
+Mineral Wells,TX,14902,Mineral Wells TX
+Oldsmar,FL,14898,Oldsmar FL
+Andover,KS,14892,Andover KS
+Boulder City,NV,14885,Boulder City NV
+Fort Payne,AL,14877,Fort Payne AL
+Hooksett,NH,14871,Hooksett NH
+Lockhart,TX,14844,Lockhart TX
+Alexander City,AL,14843,Alexander City AL
+Hanover,MA,14833,Hanover MA
+Glens Falls,NY,14830,Glens Falls NY
+Key Biscayne,FL,14809,Key Biscayne FL
+Havre de Grace,MD,14807,Havre de Grace MD
+Ramsey,NJ,14798,Ramsey NJ
+Worthington,OH,14786,Worthington OH
+Hereford,TX,14779,Hereford TX
+Sterling,IL,14764,Sterling IL
+Deming,NM,14758,Deming NM
+Clarkston,GA,14756,Clarkston GA
+Monroe ,GA,14756,Monroe  GA
+Republic,MO,14751,Republic MO
+Great Bend ,KS,14733,Great Bend  KS
+West University Place,TX,14724,West University Place TX
+Beech Grove,IN,14717,Beech Grove IN
+Jennings,MO,14712,Jennings MO
+Hammonton,NJ,14711,Hammonton NJ
+Red Bluff,CA,14710,Red Bluff CA
+Hanover Township,NJ,14677,Hanover Township NJ
+Dennis,MA,14674,Dennis MA
+Moultrie ,GA,14638,Moultrie  GA
+Middlesex,NJ,14636,Middlesex NJ
+Antioch,IL,14622,Antioch IL
+Corinth,MS,14622,Corinth MS
+Wilbraham,MA,14613,Wilbraham MA
+Mount Vernon,IL,14600,Mount Vernon IL
+Hutchinson,MN,14590,Hutchinson MN
+Falls Church,VA,14586,Falls Church VA
+Parlier,CA,14576,Parlier CA
+Jasper,AL,14572,Jasper AL
+Verona,NJ,14572,Verona NJ
+Monticello,MN,14564,Monticello MN
+Tolland,CT,14563,Tolland CT
+Arlington,TN,14549,Arlington TN
+Elizabethton,TN,14546,Elizabethton TN
+Lake St Louis,MO,14545,Lake St Louis MO
+Narragansett,RI,14532,Narragansett RI
+Natchez,MS,14520,Natchez MS
+Frederick,CO,14513,Frederick CO
+Hickory Hills,IL,14505,Hickory Hills IL
+Lilburn,GA,14502,Lilburn GA
+Greenwood,MS,14490,Greenwood MS
+Lebanon ,MO,14474,Lebanon  MO
+Bainbridge ,GA,14468,Bainbridge  GA
+North Mankato,MN,14448,North Mankato MN
+East Bridgewater,MA,14440,East Bridgewater MA
+Scottsbluff,NE,14436,Scottsbluff NE
+Chicago Ridge,IL,14433,Chicago Ridge IL
+Lindenhurst,IL,14406,Lindenhurst IL
+Washington Court House,OH,14401,Washington Court House OH
+Whitewater,WI,14390,Whitewater WI
+Swansea,IL,14386,Swansea IL
+Jacksonville,AL,14385,Jacksonville AL
+Pineville,LA,14384,Pineville LA
+Bedford,MA,14383,Bedford MA
+Federal Heights,CO,14382,Federal Heights CO
+Alexandria ,MN,14382,Alexandria  MN
+Carthage ,MO,14378,Carthage  MO
+Chatham,IL,14377,Chatham IL
+Ozark,AL,14368,Ozark AL
+Hopatcong,NJ,14362,Hopatcong NJ
+Forest Park,IL,14339,Forest Park IL
+Edgewater,NJ,14336,Edgewater NJ
+St Augustine,FL,14329,St Augustine FL
+Midlothian,IL,14325,Midlothian IL
+East Greenwich,RI,14312,East Greenwich RI
+Saddle Brook,NJ,14294,Saddle Brook NJ
+Dumas,TX,14290,Dumas TX
+Lebanon,NH,14282,Lebanon NH
+Orange,CT,14280,Orange CT
+Nantucket,MA,14255,Nantucket MA
+Brainerd ,MN,14255,Brainerd  MN
+Lone Tree,CO,14253,Lone Tree CO
+Beach Park,IL,14249,Beach Park IL
+Robbinsdale,MN,14245,Robbinsdale MN
+Chesterton,IN,14241,Chesterton IN
+Hidalgo,TX,14239,Hidalgo TX
+Mill Valley,CA,14231,Mill Valley CA
+Huron ,SD,14231,Huron  SD
+Cromwell,CT,14225,Cromwell CT
+Hartford,WI,14223,Hartford WI
+Pelham,NH,14222,Pelham NH
+Port Royal,SC,14220,Port Royal SC
+Willowick,OH,14204,Willowick OH
+Shepherdsville,KY,14201,Shepherdsville KY
+Somerton,AZ,14197,Somerton AZ
+Covington ,GA,14192,Covington  GA
+Collingswood,NJ,14186,Collingswood NJ
+Livingston,CA,14172,Livingston CA
+Morris,IL,14163,Morris IL
+Powell,OH,14163,Powell OH
+Uxbridge,MA,14162,Uxbridge MA
+McFarland,CA,14161,McFarland CA
+East Wenatchee,WA,14158,East Wenatchee WA
+Newport,KY,14150,Newport KY
+Hawaiian Gardens,CA,14149,Hawaiian Gardens CA
+Loganville,GA,14127,Loganville GA
+Snoqualmie,WA,14121,Snoqualmie WA
+Sharonville,OH,14117,Sharonville OH
+Bellefontaine,OH,14115,Bellefontaine OH
+Cedar Lake,IN,14106,Cedar Lake IN
+Shiloh,IL,14098,Shiloh IL
+New Ulm ,MN,14096,New Ulm  MN
+Wauconda,IL,14084,Wauconda IL
+Athens,TN,14084,Athens TN
+McPherson ,KS,14082,McPherson  KS
+Jacksonville,TX,14074,Jacksonville TX
+Lyndhurst,OH,14050,Lyndhurst OH
+South Sioux City,NE,14043,South Sioux City NE
+Dallas ,GA,14042,Dallas  GA
+Beachwood,OH,14040,Beachwood OH
+Fergus Falls ,MN,14029,Fergus Falls  MN
+Grass Valley,CA,14016,Grass Valley CA
+Wood Dale,IL,14012,Wood Dale IL
+Pierre ,SD,14000,Pierre  SD
+Washington,MO,13982,Washington MO
+Moberly,MO,13974,Moberly MO
+Roselle Park,NJ,13967,Roselle Park NJ
+Speedway,IN,13952,Speedway IN
+Wayland,MA,13943,Wayland MA
+Waycross ,GA,13942,Waycross  GA
+Olean,NY,13937,Olean NY
+Destin,FL,13931,Destin FL
+College Park,GA,13930,College Park GA
+Bexley,OH,13928,Bexley OH
+Circleville,OH,13927,Circleville OH
+University Heights,OH,13914,University Heights OH
+Lakeland,TN,13904,Lakeland TN
+Sauk Rapids,MN,13896,Sauk Rapids MN
+Maumee,OH,13896,Maumee OH
+New Franklin,OH,13877,New Franklin OH
+Miami Springs,FL,13859,Miami Springs FL
+Minneola,FL,13843,Minneola FL
+Glen Carbon,IL,13842,Glen Carbon IL
+Millbury,MA,13831,Millbury MA
+Nolensville,TN,13829,Nolensville TN
+Forest Hill,TX,13818,Forest Hill TX
+St Helens ,OR,13817,St Helens  OR
+Lumberton,TX,13802,Lumberton TX
+Bedford,IN,13792,Bedford IN
+East Cleveland,OH,13792,East Cleveland OH
+Warrensville Heights,OH,13789,Warrensville Heights OH
+McMinnville,TN,13788,McMinnville TN
+Ipswich,MA,13785,Ipswich MA
+Cayce,SC,13781,Cayce SC
+Auburn,CA,13776,Auburn CA
+Beacon,NY,13769,Beacon NY
+Jackson ,MO,13758,Jackson  MO
+Marion,AK,13752,Marion AK
+Marion,AR,13752,Marion AR
+Trophy Club,TX,13745,Trophy Club TX
+Sterling,CO,13735,Sterling CO
+Worthington ,MN,13726,Worthington  MN
+Santaquin,UT,13725,Santaquin UT
+Martinsville,VA,13725,Martinsville VA
+York,ME,13723,York ME
+New Carrollton,MD,13715,New Carrollton MD
+Kingston,MA,13708,Kingston MA
+Avenal,CA,13696,Avenal CA
+Glenpool,OK,13691,Glenpool OK
+Chippewa Falls,WI,13679,Chippewa Falls WI
+Endicott,NY,13667,Endicott NY
+New Providence,NJ,13650,New Providence NJ
+Marshall ,MN,13641,Marshall  MN
+Harrison Township,NJ,13641,Harrison Township NJ
+Beeville,TX,13641,Beeville TX
+Brecksville,OH,13635,Brecksville OH
+Lake Forest Park,WA,13630,Lake Forest Park WA
+Western Springs,IL,13629,Western Springs IL
+Beaufort,SC,13607,Beaufort SC
+Eatontown,NJ,13597,Eatontown NJ
+New Fairfield,CT,13579,New Fairfield CT
+Smithfield,UT,13571,Smithfield UT
+Bardstown,KY,13567,Bardstown KY
+Seabrook,TX,13560,Seabrook TX
+Warrenville,IL,13553,Warrenville IL
+North Branford,CT,13544,North Branford CT
+Azle,TX,13518,Azle TX
+Atlantic Beach,FL,13513,Atlantic Beach FL
+Clinton Township,NJ,13505,Clinton Township NJ
+Butler,PA,13502,Butler PA
+Henderson,TX,13502,Henderson TX
+Irondale,AL,13497,Irondale AL
+Woodland Park,NJ,13484,Woodland Park NJ
+La Grange Park,IL,13475,La Grange Park IL
+Lincolnwood,IL,13463,Lincolnwood IL
+Englewood,OH,13463,Englewood OH
+Harwich,MA,13440,Harwich MA
+Broussard,LA,13417,Broussard LA
+Port Neches,TX,13416,Port Neches TX
+Auburn,IN,13412,Auburn IN
+Blytheville,AK,13406,Blytheville AK
+Blytheville,AR,13406,Blytheville AR
+Braselton,GA,13403,Braselton GA
+Rogers,MN,13398,Rogers MN
+Fruita,CO,13395,Fruita CO
+Blue Ash,OH,13394,Blue Ash OH
+Marietta,OH,13385,Marietta OH
+Channahon,IL,13383,Channahon IL
+Kilgore,TX,13383,Kilgore TX
+Hazel Crest,IL,13382,Hazel Crest IL
+Andrews,TX,13370,Andrews TX
+Little Falls,NJ,13360,Little Falls NJ
+South Charleston,WV,13352,South Charleston WV
+Coatesville,PA,13350,Coatesville PA
+Palos Verdes Estates,CA,13347,Palos Verdes Estates CA
+Oxford,MA,13347,Oxford MA
+Pottsville,PA,13346,Pottsville PA
+King City,CA,13332,King City CA
+Connersville,IN,13324,Connersville IN
+Palmetto,FL,13323,Palmetto FL
+Charlton,MA,13315,Charlton MA
+Clayton,OH,13310,Clayton OH
+Loveland,OH,13307,Loveland OH
+Moncks Corner,SC,13297,Moncks Corner SC
+Lincoln,IL,13288,Lincoln IL
+Berkeley Heights,NJ,13285,Berkeley Heights NJ
+Carpinteria,CA,13264,Carpinteria CA
+Cheney,WA,13255,Cheney WA
+Canton,IL,13242,Canton IL
+Orangeburg,SC,13240,Orangeburg SC
+Lake Station,IN,13235,Lake Station IN
+Jefferson,GA,13233,Jefferson GA
+Steamboat Springs,CO,13224,Steamboat Springs CO
+Ridgefield Park,NJ,13224,Ridgefield Park NJ
+Coolidge,AZ,13218,Coolidge AZ
+Pewaukee,WI,13195,Pewaukee WI
+Mandeville,LA,13192,Mandeville LA
+Clinton,CT,13185,Clinton CT
+Washington,PA,13176,Washington PA
+Moody,AL,13170,Moody AL
+Las Vegas,NM,13166,Las Vegas NM
+North Palm Beach,FL,13162,North Palm Beach FL
+Portland,TN,13156,Portland TN
+Grand Terrace,CA,13150,Grand Terrace CA
+Bedford,OH,13149,Bedford OH
+Sharon,PA,13147,Sharon PA
+West Carrollton,OH,13129,West Carrollton OH
+Medway,MA,13115,Medway MA
+Dover,OH,13112,Dover OH
+West Monroe,LA,13103,West Monroe LA
+Cambridge,MD,13096,Cambridge MD
+Superior,CO,13094,Superior CO
+Florida City,FL,13085,Florida City FL
+Oneonta,NY,13079,Oneonta NY
+Waconia,MN,13071,Waconia MN
+SoddyDaisy,TN,13070,SoddyDaisy TN
+Harrison,AK,13069,Harrison AK
+Harrison,AR,13069,Harrison AR
+Woodinville,WA,13069,Woodinville WA
+Marshall ,MO,13065,Marshall  MO
+Larkspur,CA,13064,Larkspur CA
+Fernandina Beach,FL,13052,Fernandina Beach FL
+Meadville,PA,13050,Meadville PA
+Fostoria,OH,13046,Fostoria OH
+Callaway,FL,13045,Callaway FL
+La Grande ,OR,13026,La Grande  OR
+Trenton,OH,13021,Trenton OH
+Chino Valley,AZ,13020,Chino Valley AZ
+St Ann,MO,13020,St Ann MO
+Newcastle,WA,13017,Newcastle WA
+Forrest City,AK,13015,Forrest City AK
+Forrest City,AR,13015,Forrest City AR
+Lynnfield,MA,13000,Lynnfield MA
+White House,TN,12982,White House TN
+Cedar Grove,NJ,12980,Cedar Grove NJ
+Miami ,OK,12969,Miami  OK
+Guymon ,OK,12965,Guymon  OK
+North Adams,MA,12961,North Adams MA
+Holly Hill,FL,12958,Holly Hill FL
+Claremont,NH,12949,Claremont NH
+Mounds View,MN,12946,Mounds View MN
+Solana Beach,CA,12941,Solana Beach CA
+Pell City,AL,12939,Pell City AL
+Tehachapi,CA,12939,Tehachapi CA
+Red Bank,NJ,12936,Red Bank NJ
+Emeryville,CA,12905,Emeryville CA
+Lake Elmo,MN,12899,Lake Elmo MN
+Athens,TX,12890,Athens TX
+Smyrna,DE,12883,Smyrna DE
+Eufaula,AL,12882,Eufaula AL
+Artesia,NM,12875,Artesia NM
+Glendale,WI,12872,Glendale WI
+El Dorado ,KS,12870,El Dorado  KS
+South Daytona,FL,12865,South Daytona FL
+Grain Valley,MO,12854,Grain Valley MO
+Marysville,CA,12844,Marysville CA
+Northlake,IL,12840,Northlake IL
+Tega Cay,SC,12832,Tega Cay SC
+San Anselmo,CA,12830,San Anselmo CA
+Mountain Home,AK,12825,Mountain Home AK
+Mountain Home,AR,12825,Mountain Home AR
+Florence Township,NJ,12812,Florence Township NJ
+Geneva,NY,12812,Geneva NY
+Tomball,TX,12810,Tomball TX
+Lumberton,NJ,12803,Lumberton NJ
+Norwalk,IA,12799,Norwalk IA
+Medfield,MA,12799,Medfield MA
+Fulton ,MO,12790,Fulton  MO
+Greenville,OH,12786,Greenville OH
+Santa Fe,TX,12783,Santa Fe TX
+Richton Park,IL,12775,Richton Park IL
+Gaffney,SC,12764,Gaffney SC
+Minooka,IL,12758,Minooka IL
+Robinson,TX,12755,Robinson TX
+Oakland,NJ,12748,Oakland NJ
+Winnetka,IL,12744,Winnetka IL
+Dunkirk,NY,12743,Dunkirk NY
+St Marys,PA,12738,St Marys PA
+DIberville,MS,12721,DIberville MS
+Kelso,WA,12720,Kelso WA
+Hudson,WI,12719,Hudson WI
+East Hampton,CT,12717,East Hampton CT
+Bloomsburg,PA,12711,Bloomsburg PA
+Oxford,CT,12706,Oxford CT
+Grover Beach,CA,12701,Grover Beach CA
+Grenada,MS,12700,Grenada MS
+Cornelius,OR,12694,Cornelius OR
+Cloquet,MN,12686,Cloquet MN
+Pennsville Township,NJ,12684,Pennsville Township NJ
+Amherst,OH,12681,Amherst OH
+Pecos,TX,12673,Pecos TX
+Byram,MS,12666,Byram MS
+Levelland,TX,12665,Levelland TX
+Wilmington,OH,12664,Wilmington OH
+Lindsay,CA,12659,Lindsay CA
+Paradise Valley,AZ,12658,Paradise Valley AZ
+Wickliffe,OH,12652,Wickliffe OH
+Orange City,FL,12632,Orange City FL
+Ottawa ,KS,12625,Ottawa  KS
+Vadnais Heights,MN,12623,Vadnais Heights MN
+Grantsville,UT,12617,Grantsville UT
+Windsor Locks,CT,12613,Windsor Locks CT
+Sandy,OR,12612,Sandy OR
+Stoughton,WI,12611,Stoughton WI
+North St Paul,MN,12608,North St Paul MN
+Justice,IL,12600,Justice IL
+Mendota,CA,12595,Mendota CA
+North Smithfield,RI,12588,North Smithfield RI
+Florham Park,NJ,12585,Florham Park NJ
+Poquoson,VA,12582,Poquoson VA
+Sylacauga,AL,12578,Sylacauga AL
+Woolwich Township,NJ,12577,Woolwich Township NJ
+Harrison,OH,12563,Harrison OH
+Haddonfield,NJ,12550,Haddonfield NJ
+Vineyard,UT,12543,Vineyard UT
+Enumclaw,WA,12543,Enumclaw WA
+Upper Township,NJ,12539,Upper Township NJ
+Freehold Borough,NJ,12538,Freehold Borough NJ
+Fortuna,CA,12516,Fortuna CA
+San Marino,CA,12513,San Marino CA
+Kewanee,IL,12509,Kewanee IL
+Rehoboth,MA,12502,Rehoboth MA
+Streator,IL,12500,Streator IL
+Boone,IA,12460,Boone IA
+Baker,LA,12455,Baker LA
+Palmer,MA,12448,Palmer MA
+Falmouth,ME,12444,Falmouth ME
+SedroWoolley,WA,12421,SedroWoolley WA
+Borger,TX,12419,Borger TX
+McComb,MS,12413,McComb MS
+Patchogue,NY,12408,Patchogue NY
+Kingsburg,CA,12380,Kingsburg CA
+Tyngsborough,MA,12380,Tyngsborough MA
+Commerce,CA,12378,Commerce CA
+Rantoul,IL,12371,Rantoul IL
+Fort Atkinson,WI,12368,Fort Atkinson WI
+Spearfish,SD,12358,Spearfish SD
+Madison,IN,12357,Madison IN
+Manvel,TX,12355,Manvel TX
+Herrin,IL,12352,Herrin IL
+Newman,CA,12351,Newman CA
+Jerome ,ID,12349,Jerome  ID
+Blackfoot ,ID,12346,Blackfoot  ID
+Somerville,NJ,12346,Somerville NJ
+Lake City,FL,12329,Lake City FL
+Edgewood,WA,12327,Edgewood WA
+Derby,CT,12325,Derby CT
+Leeds,AL,12324,Leeds AL
+Haverstraw,NY,12323,Haverstraw NY
+Conneaut,OH,12318,Conneaut OH
+Garden City,ID,12316,Garden City ID
+Greensburg,IN,12312,Greensburg IN
+Box Elder,SD,12310,Box Elder SD
+El Campo,TX,12290,El Campo TX
+Lewisburg,TN,12288,Lewisburg TN
+Beatrice,NE,12261,Beatrice NE
+Effingham,IL,12252,Effingham IL
+Coventry,CT,12235,Coventry CT
+Richmond,TX,12233,Richmond TX
+Gonzales,LA,12231,Gonzales LA
+Scotts Valley,CA,12224,Scotts Valley CA
+Manchester,TN,12212,Manchester TN
+Big Lake,MN,12198,Big Lake MN
+Webster,TX,12193,Webster TX
+Babylon,NY,12188,Babylon NY
+Brattleboro,VT,12184,Brattleboro VT
+Centralia,IL,12182,Centralia IL
+Choctaw,OK,12182,Choctaw OK
+Wrentham,MA,12178,Wrentham MA
+New Kensington,PA,12170,New Kensington PA
+Macedonia,OH,12168,Macedonia OH
+Camp Verde,AZ,12147,Camp Verde AZ
+Moss Point,MS,12147,Moss Point MS
+Portales,NM,12137,Portales NM
+Glen Rock,NJ,12133,Glen Rock NJ
+Woodward ,OK,12133,Woodward  OK
+Hasbrouck Heights,NJ,12125,Hasbrouck Heights NJ
+Cahokia,IL,12096,Cahokia IL
+Weatherford,OK,12076,Weatherford OK
+Crossville,TN,12071,Crossville TN
+Palos Heights,IL,12068,Palos Heights IL
+River Edge,NJ,12049,River Edge NJ
+Baraboo,WI,12048,Baraboo WI
+East Bethel,MN,12038,East Bethel MN
+Cottonwood,AZ,12029,Cottonwood AZ
+Gig Harbor,WA,12029,Gig Harbor WA
+South Miami,FL,12026,South Miami FL
+Washington,IN,12017,Washington IN
+Guttenberg,NJ,12017,Guttenberg NJ
+Gladstone,OR,12017,Gladstone OR
+Liberty Lake,WA,12003,Liberty Lake WA
+Spencer,MA,11992,Spencer MA
+Bound Brook,NJ,11988,Bound Brook NJ
+West Plains ,MO,11986,West Plains  MO
+Poulsbo,WA,11975,Poulsbo WA
+Arkansas City,KS,11974,Arkansas City KS
+Maryville ,MO,11972,Maryville  MO
+Athol,MA,11945,Athol MA
+Martinsville,IN,11932,Martinsville IN
+Minden,LA,11928,Minden LA
+Somerset,KY,11924,Somerset KY
+Dudley,MA,11921,Dudley MA
+Salem,OH,11915,Salem OH
+Crestwood,MO,11912,Crestwood MO
+Red Bank,TN,11899,Red Bank TN
+Picayune,MS,11885,Picayune MS
+Hanover,NH,11870,Hanover NH
+Wallington,NJ,11868,Wallington NJ
+Tarrytown,NY,11860,Tarrytown NY
+Somersworth,NH,11855,Somersworth NH
+Weston,MA,11851,Weston MA
+Signal Hill,CA,11848,Signal Hill CA
+Plano,IL,11847,Plano IL
+Neosho ,MO,11835,Neosho  MO
+Green River,WY,11825,Green River WY
+Vermillion ,SD,11802,Vermillion  SD
+Half Moon Bay,CA,11795,Half Moon Bay CA
+Bordentown Township,NJ,11791,Bordentown Township NJ
+Gulfport,FL,11783,Gulfport FL
+Lunenburg,MA,11782,Lunenburg MA
+Los Alamitos,CA,11780,Los Alamitos CA
+Winfield ,KS,11777,Winfield  KS
+Lower Burrell,PA,11758,Lower Burrell PA
+Amherst,NH,11753,Amherst NH
+Evanston,WY,11747,Evanston WY
+Ringwood,NJ,11735,Ringwood NJ
+Show Low,AZ,11732,Show Low AZ
+Lawrenceburg,KY,11728,Lawrenceburg KY
+Douglas ,GA,11722,Douglas  GA
+Seven Hills,OH,11720,Seven Hills OH
+River Forest,IL,11717,River Forest IL
+Two Rivers,WI,11712,Two Rivers WI
+Crowley,LA,11710,Crowley LA
+Schiller Park,IL,11709,Schiller Park IL
+St Peter ,MN,11707,St Peter  MN
+Bellmawr,NJ,11707,Bellmawr NJ
+East Greenwich Township,NJ,11706,East Greenwich Township NJ
+Burley ,ID,11704,Burley  ID
+Franklin,OH,11690,Franklin OH
+Bucyrus,OH,11684,Bucyrus OH
+Brookhaven,MS,11674,Brookhaven MS
+Norton,OH,11673,Norton OH
+Plymouth,CT,11671,Plymouth CT
+Lovington,NM,11668,Lovington NM
+Mendota Heights,MN,11665,Mendota Heights MN
+Norfolk,MA,11662,Norfolk MA
+Markham,IL,11661,Markham IL
+Carver,MA,11645,Carver MA
+Ontario,OR,11645,Ontario OR
+Lawrenceburg,TN,11633,Lawrenceburg TN
+James Island,SC,11621,James Island SC
+Selma,TX,11619,Selma TX
+Hartsville,TN,11615,Hartsville TN
+Pepperell,MA,11604,Pepperell MA
+Festus,MO,11602,Festus MO
+Fort Morgan,CO,11597,Fort Morgan CO
+Irmo,SC,11569,Irmo SC
+Miami Shores,FL,11567,Miami Shores FL
+Covington,LA,11564,Covington LA
+Elk City,OK,11561,Elk City OK
+Oskaloosa,IA,11558,Oskaloosa IA
+Bridgeton,MO,11550,Bridgeton MO
+Yorktown,IN,11548,Yorktown IN
+Mexico ,MO,11543,Mexico  MO
+Dobbs Ferry,NY,11541,Dobbs Ferry NY
+Kennebunk,ME,11536,Kennebunk ME
+Woodbury,NY,11526,Woodbury NY
+Lakeville,MA,11523,Lakeville MA
+Roma,TX,11505,Roma TX
+Lantana,FL,11504,Lantana FL
+Ridgefield,NJ,11501,Ridgefield NJ
+Dardenne Prairie,MO,11494,Dardenne Prairie MO
+Gloucester City,NJ,11484,Gloucester City NJ
+Stafford,CT,11472,Stafford CT
+Morgan City,LA,11472,Morgan City LA
+Leon Valley,TX,11463,Leon Valley TX
+Suffern,NY,11441,Suffern NY
+Wilton Manors,FL,11426,Wilton Manors FL
+Campbellsville,KY,11426,Campbellsville KY
+Granbury,TX,11424,Granbury TX
+Cedarburg,WI,11412,Cedarburg WI
+Woods Cross,UT,11410,Woods Cross UT
+Holbrook,MA,11405,Holbrook MA
+Griswold,CT,11402,Griswold CT
+Lindon,UT,11397,Lindon UT
+Fulton,NY,11389,Fulton NY
+Hillsborough,CA,11387,Hillsborough CA
+Mapleton,UT,11365,Mapleton UT
+Brooklyn,OH,11359,Brooklyn OH
+Cocoa Beach,FL,11354,Cocoa Beach FL
+Norwell,MA,11351,Norwell MA
+Healdsburg,CA,11340,Healdsburg CA
+Waupun,WI,11340,Waupun WI
+Spencer,IA,11325,Spencer IA
+Anderson,CA,11323,Anderson CA
+Ravenna,OH,11323,Ravenna OH
+Okmulgee ,OK,11322,Okmulgee  OK
+Wanaque,NJ,11317,Wanaque NJ
+Groton,MA,11315,Groton MA
+Wells,ME,11314,Wells ME
+Westwood,NJ,11282,Westwood NJ
+Piedmont,CA,11270,Piedmont CA
+Storm Lake,IA,11269,Storm Lake IA
+Sierra Madre,CA,11268,Sierra Madre CA
+Snyder,TX,11264,Snyder TX
+Haysville,KS,11262,Haysville KS
+Port Lavaca,TX,11259,Port Lavaca TX
+Port Washington,WI,11250,Port Washington WI
+Lansing,KS,11239,Lansing KS
+Ocean City,NJ,11229,Ocean City NJ
+Satellite Beach,FL,11226,Satellite Beach FL
+Platteville,WI,11224,Platteville WI
+Grand Rapids ,MN,11220,Grand Rapids  MN
+Cleveland,MS,11199,Cleveland MS
+Burr Ridge,IL,11192,Burr Ridge IL
+Batesville,AK,11191,Batesville AK
+Batesville,AR,11191,Batesville AR
+East Windsor,CT,11190,East Windsor CT
+Milford,DE,11190,Milford DE
+Abbeville,LA,11186,Abbeville LA
+Orono,ME,11183,Orono ME
+Union City,TN,11170,Union City TN
+Magnolia,AK,11162,Magnolia AK
+Magnolia,AR,11162,Magnolia AR
+Summit,IL,11161,Summit IL
+Pontiac,IL,11150,Pontiac IL
+Warren,RI,11147,Warren RI
+Great Neck,NY,11145,Great Neck NY
+Pompton Lakes,NJ,11127,Pompton Lakes NJ
+Star,ID,11117,Star ID
+Urbana,OH,11115,Urbana OH
+North Branch,MN,11113,North Branch MN
+Collegedale,TN,11109,Collegedale TN
+East Hanover Township,NJ,11105,East Hanover Township NJ
+Monmouth,OR,11100,Monmouth OR
+Merriam,KS,11098,Merriam KS
+Van Wert,OH,11092,Van Wert OH
+Leicester,MA,11087,Leicester MA
+Excelsior Springs,MO,11084,Excelsior Springs MO
+Pleasant View,UT,11083,Pleasant View UT
+Canyon Lake,CA,11082,Canyon Lake CA
+Franklin Lakes,NJ,11079,Franklin Lakes NJ
+Peru,IN,11073,Peru IN
+Lake Grove,NY,11072,Lake Grove NY
+Fredericksburg,TX,11072,Fredericksburg TX
+Clayton,CA,11070,Clayton CA
+Totowa,NJ,11065,Totowa NJ
+Coshocton,OH,11050,Coshocton OH
+Wellington,CO,11047,Wellington CO
+Victoria,MN,11042,Victoria MN
+Castle Pines,CO,11036,Castle Pines CO
+Bedford Heights,OH,11020,Bedford Heights OH
+Waterloo,IL,11013,Waterloo IL
+West Caldwell,NJ,11012,West Caldwell NJ
+Petal,MS,11010,Petal MS
+Lyndon,KY,11008,Lyndon KY
+Springdale,OH,11007,Springdale OH
+Columbia,IL,10999,Columbia IL
+Fife,WA,10999,Fife WA
+Webb City,MO,10996,Webb City MO
+Little Ferry,NJ,10987,Little Ferry NJ
+North Logan,UT,10986,North Logan UT
+Newcastle,OK,10984,Newcastle OK
+Roscoe,IL,10983,Roscoe IL
+Chatham Township,NJ,10983,Chatham Township NJ
+Fox Lake,IL,10978,Fox Lake IL
+Alcoa,TN,10978,Alcoa TN
+Burkburnett,TX,10975,Burkburnett TX
+Worth,IL,10970,Worth IL
+Marinette,WI,10968,Marinette WI
+West Point,UT,10963,West Point UT
+Troy,IL,10960,Troy IL
+Mount Kisco,NY,10959,Mount Kisco NY
+Manville,NJ,10953,Manville NJ
+Brandon,SD,10950,Brandon SD
+Canton,MS,10948,Canton MS
+Celina,OH,10935,Celina OH
+Rincon,GA,10934,Rincon GA
+Kennett ,MO,10932,Kennett  MO
+Lincoln Park,NJ,10915,Lincoln Park NJ
+Grandview,WA,10907,Grandview WA
+Granby,CT,10903,Granby CT
+Campton Hills,IL,10885,Campton Hills IL
+Atchison ,KS,10885,Atchison  KS
+Iowa Colony,TX,10883,Iowa Colony TX
+Port Wentworth,GA,10878,Port Wentworth GA
+Malvern,AK,10867,Malvern AK
+Malvern,AR,10867,Malvern AR
+Bellefontaine Neighbors,MO,10860,Bellefontaine Neighbors MO
+Beachwood,NJ,10859,Beachwood NJ
+Russellville,AL,10855,Russellville AL
+Montgomery,OH,10853,Montgomery OH
+Monroe,WI,10827,Monroe WI
+Crestwood,IL,10826,Crestwood IL
+New Albany,OH,10825,New Albany OH
+Martin,TN,10825,Martin TN
+Lyons,IL,10817,Lyons IL
+Town and Country,MO,10815,Town and Country MO
+Wantage Township,NJ,10811,Wantage Township NJ
+Richmond Heights,OH,10801,Richmond Heights OH
+Vidalia,GA,10785,Vidalia GA
+Pleasanton,TX,10780,Pleasanton TX
+Pine Hill,NJ,10764,Pine Hill NJ
+Jackson,WY,10760,Jackson WY
+Morro Bay,CA,10757,Morro Bay CA
+Airway Heights,WA,10757,Airway Heights WA
+Guthrie ,OK,10749,Guthrie  OK
+Placerville,CA,10747,Placerville CA
+Maynard,MA,10746,Maynard MA
+Sonoma,CA,10739,Sonoma CA
+Prineville ,OR,10736,Prineville  OR
+Sebring,FL,10729,Sebring FL
+Milton,VT,10723,Milton VT
+Barrington,IL,10722,Barrington IL
+Newberry,SC,10691,Newberry SC
+Hartford,VT,10686,Hartford VT
+Raymond,NH,10684,Raymond NH
+Fairview,TX,10683,Fairview TX
+Riverton,WY,10682,Riverton WY
+Lowell,IN,10680,Lowell IN
+West Haverstraw,NY,10678,West Haverstraw NY
+Riverdale,IL,10663,Riverdale IL
+Bel Air,MD,10661,Bel Air MD
+Bogalusa,LA,10659,Bogalusa LA
+Vermilion,OH,10659,Vermilion OH
+Malibu,CA,10654,Malibu CA
+Hanson,MA,10639,Hanson MA
+St Albans,WV,10635,St Albans WV
+Nanticoke,PA,10628,Nanticoke PA
+Doraville,GA,10623,Doraville GA
+Sumner,WA,10621,Sumner WA
+Verona,WI,10619,Verona WI
+Forest Acres,SC,10617,Forest Acres SC
+Yelm,WA,10617,Yelm WA
+Camden,AK,10612,Camden AK
+Camden,AR,10612,Camden AR
+River Grove,IL,10612,River Grove IL
+Reading,OH,10600,Reading OH
+Freeport,TX,10594,Freeport TX
+Clute,TX,10593,Clute TX
+Millington,TN,10582,Millington TN
+Canandaigua,NY,10576,Canandaigua NY
+Vienna,WV,10576,Vienna WV
+Bellmead,TX,10575,Bellmead TX
+Alachua,FL,10574,Alachua FL
+Cottage Grove,OR,10574,Cottage Grove OR
+Le Mars,IA,10571,Le Mars IA
+Ironton,OH,10571,Ironton OH
+Danville,IN,10559,Danville IN
+Acushnet,MA,10559,Acushnet MA
+Bonham,TX,10559,Bonham TX
+Corning,NY,10551,Corning NY
+Elgin,TX,10549,Elgin TX
+Troy ,MO,10540,Troy  MO
+Valley,AL,10529,Valley AL
+Espanola,NM,10526,Espanola NM
+Branson,MO,10520,Branson MO
+Sweetwater,TX,10513,Sweetwater TX
+Raymondville,TX,10510,Raymondville TX
+Taylorville,IL,10506,Taylorville IL
+Chestnut Ridge,NY,10505,Chestnut Ridge NY
+Fair Oaks Ranch,TX,10505,Fair Oaks Ranch TX
+Little Canada,MN,10499,Little Canada MN
+Lighthouse Point,FL,10486,Lighthouse Point FL
+Silverton,OR,10484,Silverton OR
+Old Saybrook,CT,10481,Old Saybrook CT
+Somers Point,NJ,10469,Somers Point NJ
+Wood River,IL,10464,Wood River IL
+Pella,IA,10464,Pella IA
+Burlington,WI,10464,Burlington WI
+Galena Park,TX,10461,Galena Park TX
+Belgrade,MT,10460,Belgrade MT
+Galion,OH,10453,Galion OH
+Warr Acres,OK,10452,Warr Acres OK
+Southborough,MA,10450,Southborough MA
+Palatka,FL,10446,Palatka FL
+Wabash,IN,10440,Wabash IN
+Rifle,CO,10437,Rifle CO
+Rockport,TX,10436,Rockport TX
+Bastrop,TX,10434,Bastrop TX
+Fairview,OR,10424,Fairview OR
+Fort Oglethorpe,GA,10423,Fort Oglethorpe GA
+Waterford Township,NJ,10421,Waterford Township NJ
+Fountain Inn,SC,10416,Fountain Inn SC
+Heath,OH,10412,Heath OH
+Fairmont ,MN,10410,Fairmont  MN
+Monument,CO,10399,Monument CO
+Farmersville,CA,10397,Farmersville CA
+Waverly,IA,10394,Waverly IA
+Scituate,RI,10384,Scituate RI
+Arkadelphia,AK,10380,Arkadelphia AK
+Arkadelphia,AR,10380,Arkadelphia AR
+Millstone Township,NJ,10376,Millstone Township NJ
+Watervliet,NY,10375,Watervliet NY
+Shasta Lake,CA,10371,Shasta Lake CA
+Shelton,WA,10371,Shelton WA
+Pingree Grove,IL,10365,Pingree Grove IL
+Winchendon,MA,10364,Winchendon MA
+Weston,CT,10354,Weston CT
+Lexington,NE,10348,Lexington NE
+Versailles,KY,10347,Versailles KY
+Alexandria,KY,10341,Alexandria KY
+Berthoud,CO,10332,Berthoud CO
+Oneida,NY,10329,Oneida NY
+Bolivar ,MO,10325,Bolivar  MO
+Portage,WI,10324,Portage WI
+Exeter,CA,10321,Exeter CA
+Carroll,IA,10321,Carroll IA
+Ridgefield,WA,10319,Ridgefield WA
+Brewster,MA,10318,Brewster MA
+Southampton Township,NJ,10317,Southampton Township NJ
+North Bend,OR,10317,North Bend OR
+Yazoo City,MS,10316,Yazoo City MS
+Paris,TN,10316,Paris TN
+Bluffton,IN,10308,Bluffton IN
+Clay,AL,10291,Clay AL
+Garden City,GA,10289,Garden City GA
+London,OH,10279,London OH
+Tipp City,OH,10274,Tipp City OH
+Kendallville,IN,10271,Kendallville IN
+Fort Madison,IA,10270,Fort Madison IA
+Heath,TX,10266,Heath TX
+New Hyde Park,NY,10257,New Hyde Park NY
+Newport ,OR,10256,Newport  OR
+Somers,CT,10255,Somers CT
+Alpine,UT,10251,Alpine UT
+Hackettstown,NJ,10248,Hackettstown NJ
+Standish,ME,10244,Standish ME
+Molalla,OR,10228,Molalla OR
+Winchester,CT,10224,Winchester CT
+Corte Madera,CA,10222,Corte Madera CA
+Cordele ,GA,10220,Cordele  GA
+Plymouth,IN,10214,Plymouth IN
+Hermantown,MN,10211,Hermantown MN
+Union ,MO,10204,Union  MO
+Flowood,MS,10202,Flowood MS
+Milton,FL,10197,Milton FL
+Rainbow City,AL,10191,Rainbow City AL
+Cedartown ,GA,10190,Cedartown  GA
+Eureka,MO,10189,Eureka MO
+Astoria ,OR,10181,Astoria  OR
+Cairo ,GA,10179,Cairo  GA
+Whitestown,IN,10178,Whitestown IN
+Franklin,KY,10176,Franklin KY
+Paris,KY,10171,Paris KY
+Airmont,NY,10166,Airmont NY
+La Plata,MD,10159,La Plata MD
+East Rockaway,NY,10159,East Rockaway NY
+Robstown,TX,10157,Robstown TX
+Massena,NY,10151,Massena NY
+DuPont,WA,10151,DuPont WA
+Port Townsend,WA,10148,Port Townsend WA
+Pleasant Hill,IA,10147,Pleasant Hill IA
+Hillsdale,NJ,10143,Hillsdale NJ
+Littleton,MA,10141,Littleton MA
+WoodRidge,NJ,10137,WoodRidge NJ
+Safford,AZ,10129,Safford AZ
+Snohomish,WA,10126,Snohomish WA
+Canton,CT,10124,Canton CT
+Lovejoy,GA,10122,Lovejoy GA
+Lenoir City,TN,10117,Lenoir City TN
+Boaz,AL,10107,Boaz AL
+West Point,MS,10105,West Point MS
+Williston,VT,10103,Williston VT
+Baker City ,OR,10099,Baker City  OR
+San Elizario,TX,10093,San Elizario TX
+Cambridge,OH,10089,Cambridge OH
+Elkhorn,WI,10084,Elkhorn WI
+Maywood,NJ,10080,Maywood NJ
+Vernal,UT,10079,Vernal UT
+Hull,MA,10072,Hull MA
+Kittery,ME,10070,Kittery ME
+La Grange,KY,10067,La Grange KY
+Ware,MA,10066,Ware MA
+Ogdensburg,NY,10064,Ogdensburg NY
+Struthers,OH,10063,Struthers OH
+Waldwick,NJ,10058,Waldwick NJ
+Clinton,TN,10056,Clinton TN
+Spanish Fort,AL,10049,Spanish Fort AL
+Rye Brook,NY,10047,Rye Brook NY
+Vernon,TX,10045,Vernon TX
+Cody,WY,10028,Cody WY
+Lancaster,NY,10027,Lancaster NY
+Calimesa,CA,10026,Calimesa CA
+East Rutherford,NJ,10022,East Rutherford NJ
+Harrisonville ,MO,10019,Harrisonville  MO
+Willoughby Hills,OH,10019,Willoughby Hills OH
+Cedar Hills,UT,10019,Cedar Hills UT
+Mayfield,KY,10017,Mayfield KY
+Reedsburg,WI,10014,Reedsburg WI
+Atoka,TN,10008,Atoka TN
+Rio Vista,CA,10005,Rio Vista CA
+Fairfield,AL,10000,Fairfield AL
+Highland,IL,9991,Highland IL
+Sleepy Hollow,NY,9986,Sleepy Hollow NY
+Uniontown,PA,9984,Uniontown PA
+Mount Holly,NJ,9981,Mount Holly NJ
+Glocester,RI,9974,Glocester RI
+Cape Canaveral,FL,9972,Cape Canaveral FL
+Kinnelon,NJ,9966,Kinnelon NJ
+Glenwood Springs,CO,9963,Glenwood Springs CO
+Woodbury,NJ,9963,Woodbury NJ
+East Liverpool,OH,9958,East Liverpool OH
+Colts Neck Township,NJ,9957,Colts Neck Township NJ
+Wapakoneta,OH,9957,Wapakoneta OH
+Mission,KS,9954,Mission KS
+Plainville,MA,9945,Plainville MA
+Capitola,CA,9938,Capitola CA
+Cameron,MO,9933,Cameron MO
+Sauk Village,IL,9921,Sauk Village IL
+Cambridge ,MN,9915,Cambridge  MN
+Decatur,IN,9913,Decatur IN
+River Vale,NJ,9909,River Vale NJ
+College Place,WA,9902,College Place WA
+Keokuk,IA,9900,Keokuk IA
+Ingleside,TX,9898,Ingleside TX
+Peru,IL,9896,Peru IL
+Tremonton,UT,9894,Tremonton UT
+Columbia City,IN,9892,Columbia City IN
+Roanoke,TX,9878,Roanoke TX
+Fultondale,AL,9876,Fultondale AL
+Sturbridge,MA,9867,Sturbridge MA
+DeRidder,LA,9852,DeRidder LA
+Lowell,AK,9839,Lowell AK
+Lowell,AR,9839,Lowell AR
+Jennings,LA,9837,Jennings LA
+Winfield,IL,9835,Winfield IL
+Independence,OR,9828,Independence OR
+Sweet Home,OR,9828,Sweet Home OR
+Conway,NH,9822,Conway NH
+Greencastle,IN,9820,Greencastle IN
+Thomaston ,GA,9816,Thomaston  GA
+Lincoln City,OR,9815,Lincoln City OR
+Jesup ,GA,9809,Jesup  GA
+Alamosa,CO,9806,Alamosa CO
+Detroit Lakes ,MN,9795,Detroit Lakes  MN
+Brownsville,TN,9788,Brownsville TN
+Green Cove Springs,FL,9786,Green Cove Springs FL
+Middleton,MA,9779,Middleton MA
+Keansburg,NJ,9755,Keansburg NJ
+Burlington City,NJ,9743,Burlington City NJ
+Woodbury,CT,9723,Woodbury CT
+Sunbury,PA,9719,Sunbury PA
+Vidor,TX,9712,Vidor TX
+Lisbon,ME,9711,Lisbon ME
+Middletown,KY,9706,Middletown KY
+Flossmoor,IL,9704,Flossmoor IL
+Silver City,NM,9704,Silver City NM
+Hamburg,NY,9696,Hamburg NY
+Bastrop,LA,9691,Bastrop LA
+Marathon,FL,9689,Marathon FL
+Eagle Point,OR,9686,Eagle Point OR
+Sedona,AZ,9684,Sedona AZ
+New Square,NY,9679,New Square NY
+Brewer,ME,9672,Brewer ME
+North College Hill,OH,9663,North College Hill OH
+Merrill,WI,9661,Merrill WI
+Avon Park,FL,9658,Avon Park FL
+Bladensburg,MD,9657,Bladensburg MD
+Mount Airy,MD,9654,Mount Airy MD
+Coweta,OK,9654,Coweta OK
+Orange Cove,CA,9649,Orange Cove CA
+Indianola,MS,9646,Indianola MS
+Arden Hills,MN,9637,Arden Hills MN
+Oil City,PA,9613,Oil City PA
+Girard,OH,9603,Girard OH
+Parsons,KS,9600,Parsons KS
+Fredonia,NY,9585,Fredonia NY
+Steger,IL,9584,Steger IL
+LaSalle,IL,9582,LaSalle IL
+Oakwood,OH,9572,Oakwood OH
+Cusseta ,GA,9565,Cusseta  GA
+Matawan,NJ,9565,Matawan NJ
+Grinnell,IA,9564,Grinnell IA
+Bargersville,IN,9560,Bargersville IN
+Topsham,ME,9560,Topsham ME
+Pleasant Grove,AL,9544,Pleasant Grove AL
+Itasca,IL,9543,Itasca IL
+The Village,OK,9538,The Village OK
+Cape Elizabeth,ME,9535,Cape Elizabeth ME
+Diamondhead,MS,9529,Diamondhead MS
+Sparta,WI,9522,Sparta WI
+Louisville,OH,9521,Louisville OH
+HelenaWest Helena,AK,9519,HelenaWest Helena AK
+HelenaWest Helena,AR,9519,HelenaWest Helena AR
+Burlington,CT,9519,Burlington CT
+Bridge City,TX,9519,Bridge City TX
+Greenwood,AK,9516,Greenwood AK
+Greenwood,AR,9516,Greenwood AR
+Chillicothe ,MO,9515,Chillicothe  MO
+Amityville,NY,9500,Amityville NY
+Bluefield,WV,9499,Bluefield WV
+Madeira,OH,9487,Madeira OH
+Woodway,TX,9474,Woodway TX
+Harvard,IL,9469,Harvard IL
+Rochelle,IL,9446,Rochelle IL
+Pryor Creek ,OK,9444,Pryor Creek  OK
+Pike Road,AL,9439,Pike Road AL
+Mahomet,IL,9434,Mahomet IL
+Newmarket,NH,9430,Newmarket NH
+Southside,AL,9426,Southside AL
+Middleton,ID,9425,Middleton ID
+Berlin,NH,9425,Berlin NH
+Eunice,LA,9422,Eunice LA
+Chesterfield Township,NJ,9422,Chesterfield Township NJ
+Anaconda,MT,9421,Anaconda MT
+Fairfield,IA,9416,Fairfield IA
+Mooresville,IN,9411,Mooresville IN
+South Amboy,NJ,9411,South Amboy NJ
+Middlesboro,KY,9405,Middlesboro KY
+Warren,PA,9404,Warren PA
+Sheffield,AL,9403,Sheffield AL
+Prospect,CT,9401,Prospect CT
+Florence,OR,9396,Florence OR
+Tuskegee,AL,9395,Tuskegee AL
+Flowery Branch,GA,9391,Flowery Branch GA
+Manhattan,IL,9385,Manhattan IL
+Portland,CT,9384,Portland CT
+Clarksville,AK,9381,Clarksville AK
+Clarksville,AR,9381,Clarksville AR
+Sanger,TX,9380,Sanger TX
+Jacinto City,TX,9378,Jacinto City TX
+Winchester,TN,9375,Winchester TN
+St Francis,WI,9365,St Francis WI
+Havre,MT,9362,Havre MT
+Hyrum,UT,9362,Hyrum UT
+Sutton,MA,9357,Sutton MA
+Fairview,TN,9357,Fairview TN
+Lago Vista,TX,9348,Lago Vista TX
+Monroe,NY,9343,Monroe NY
+Riverdale,UT,9343,Riverdale UT
+Angola,IN,9340,Angola IN
+Laurens,SC,9335,Laurens SC
+Fallon,NV,9327,Fallon NV
+Barrington,NH,9326,Barrington NH
+Bethalto,IL,9310,Bethalto IL
+Sellersburg,IN,9310,Sellersburg IN
+Shawano,WI,9305,Shawano WI
+Leonia,NJ,9304,Leonia NJ
+Riverside,IL,9298,Riverside IL
+Salem,UT,9298,Salem UT
+Denham Springs,LA,9286,Denham Springs LA
+Washington Township,NJ,9285,Washington Township NJ
+Bay St Louis,MS,9284,Bay St Louis MS
+Shelby,OH,9282,Shelby OH
+Sugar Grove,IL,9278,Sugar Grove IL
+Mount Pleasant,IA,9274,Mount Pleasant IA
+Carencro,LA,9272,Carencro LA
+Washington Terrace,UT,9267,Washington Terrace UT
+Bridgeport,WV,9257,Bridgeport WV
+Augusta,KS,9256,Augusta KS
+Palm Beach,FL,9245,Palm Beach FL
+Waseca ,MN,9241,Waseca  MN
+Aliquippa,PA,9238,Aliquippa PA
+Willowbrook,IL,9236,Willowbrook IL
+Salisbury,MA,9236,Salisbury MA
+Southwick,MA,9232,Southwick MA
+Putnam,CT,9224,Putnam CT
+Chatham Borough,NJ,9212,Chatham Borough NJ
+Rathdrum,ID,9211,Rathdrum ID
+Manteno,IL,9210,Manteno IL
+Ventnor City,NJ,9210,Ventnor City NJ
+Rensselaer,NY,9210,Rensselaer NY
+Blackstone,MA,9208,Blackstone MA
+Freetown,MA,9206,Freetown MA
+Thompson,CT,9189,Thompson CT
+Mound,MN,9187,Mound MN
+Helotes,TX,9178,Helotes TX
+Grants,NM,9163,Grants NM
+Hailey ,ID,9161,Hailey  ID
+Elsmere,KY,9159,Elsmere KY
+Cresskill,NJ,9155,Cresskill NJ
+Middlebury,VT,9152,Middlebury VT
+Burlington,WA,9152,Burlington WA
+Tiburon,CA,9146,Tiburon CA
+Sturgeon Bay,WI,9144,Sturgeon Bay WI
+Huntertown,IN,9141,Huntertown IN
+Absecon,NJ,9137,Absecon NJ
+Dayton,TX,9134,Dayton TX
+Toccoa ,GA,9133,Toccoa  GA
+Ellisville,MO,9133,Ellisville MO
+Townsend,MA,9127,Townsend MA
+Booneville,MS,9126,Booneville MS
+Westampton,NJ,9121,Westampton NJ
+Waterford,CA,9120,Waterford CA
+Lynwood,IL,9116,Lynwood IL
+Harahan,LA,9116,Harahan LA
+Canal Winchester,OH,9107,Canal Winchester OH
+Live Oak,CA,9106,Live Oak CA
+Hebron,CT,9098,Hebron CT
+Tomah,WI,9093,Tomah WI
+Weare,NH,9092,Weare NH
+Orange Park,FL,9089,Orange Park FL
+Woodbridge,CT,9087,Woodbridge CT
+Hooper,UT,9087,Hooper UT
+East Grand Forks,MN,9079,East Grand Forks MN
+Harwood Heights,IL,9065,Harwood Heights IL
+Harrodsburg,KY,9064,Harrodsburg KY
+Hawthorn Woods,IL,9062,Hawthorn Woods IL
+Springfield,VT,9062,Springfield VT
+Little Falls ,MN,9061,Little Falls  MN
+Craig,CO,9060,Craig CO
+Oak Grove,MN,9058,Oak Grove MN
+Tuscumbia,AL,9054,Tuscumbia AL
+Haledon,NJ,9052,Haledon NJ
+Rutland,MA,9049,Rutland MA
+Lake Park,FL,9047,Lake Park FL
+Davenport,FL,9043,Davenport FL
+Orting,WA,9041,Orting WA
+Delta,CO,9035,Delta CO
+Bee Cave,TX,9028,Bee Cave TX
+Caldwell,NJ,9027,Caldwell NJ
+Indian Harbour Beach,FL,9019,Indian Harbour Beach FL
+Newark,NY,9017,Newark NY
+Clinton ,MO,9008,Clinton  MO
+St Anthony Village,MN,9007,St Anthony Village MN
+Fitzgerald ,GA,9006,Fitzgerald  GA
+Winslow,AZ,9005,Winslow AZ
+Beaver Falls,PA,9005,Beaver Falls PA
+Hampstead,NH,8998,Hampstead NH
+Cloverdale,CA,8996,Cloverdale CA
+Yarmouth,ME,8990,Yarmouth ME
+Douglas,MA,8983,Douglas MA
+Berkeley,MO,8978,Berkeley MO
+Ivins,UT,8978,Ivins UT
+Bernalillo,NM,8977,Bernalillo NM
+Old Orchard Beach,ME,8960,Old Orchard Beach ME
+Sheffield Lake,OH,8957,Sheffield Lake OH
+Hope,AK,8952,Hope AK
+Hope,AR,8952,Hope AR
+Locust Grove,GA,8947,Locust Grove GA
+Oakland,TN,8936,Oakland TN
+Edgewater Park,NJ,8930,Edgewater Park NJ
+North Haledon,NJ,8927,North Haledon NJ
+Brownfield,TX,8916,Brownfield TX
+Monmouth,IL,8902,Monmouth IL
+Mansfield Township,NJ,8897,Mansfield Township NJ
+Brooksville,FL,8890,Brooksville FL
+Park Ridge,NJ,8883,Park Ridge NJ
+St Pete Beach,FL,8879,St Pete Beach FL
+Blanchard,OK,8879,Blanchard OK
+East Haddam,CT,8875,East Haddam CT
+Maysville,KY,8873,Maysville KY
+Monett,MO,8873,Monett MO
+Napoleon,OH,8862,Napoleon OH
+Savoy,IL,8857,Savoy IL
+Toppenish,WA,8854,Toppenish WA
+Signal Mountain,TN,8852,Signal Mountain TN
+Seneca,SC,8850,Seneca SC
+Glencoe,IL,8849,Glencoe IL
+Ocean Township,NJ,8835,Ocean Township NJ
+Baxter,MN,8830,Baxter MN
+Carbondale,PA,8828,Carbondale PA
+Commerce,TX,8828,Commerce TX
+Coffeyville,KS,8826,Coffeyville KS
+Boonton Town,NJ,8815,Boonton Town NJ
+Clayton,NJ,8807,Clayton NJ
+Poteau ,OK,8807,Poteau  OK
+Andalusia,AL,8805,Andalusia AL
+Presque Isle,ME,8797,Presque Isle ME
+Rock Falls,IL,8789,Rock Falls IL
+Fort Valley ,GA,8780,Fort Valley  GA
+Pitman,NJ,8780,Pitman NJ
+Jeannette,PA,8780,Jeannette PA
+Bogota,NJ,8778,Bogota NJ
+Pittsgrove Township,NJ,8777,Pittsgrove Township NJ
+Lopatcong Township,NJ,8776,Lopatcong Township NJ
+Hoquiam,WA,8776,Hoquiam WA
+Port Jervis,NY,8775,Port Jervis NY
+Clanton,AL,8768,Clanton AL
+Cortez,CO,8766,Cortez CO
+Bath,ME,8766,Bath ME
+Redding,CT,8765,Redding CT
+Graham,TX,8765,Graham TX
+Park Hills,MO,8759,Park Hills MO
+Wyoming,OH,8756,Wyoming OH
+Mascoutah,IL,8754,Mascoutah IL
+Lamesa,TX,8751,Lamesa TX
+Highland Park,TX,8747,Highland Park TX
+Lake Villa,IL,8741,Lake Villa IL
+Franklin,NH,8741,Franklin NH
+Freeport,ME,8737,Freeport ME
+Whitehouse,TX,8734,Whitehouse TX
+Bryan,OH,8729,Bryan OH
+Chanute,KS,8722,Chanute KS
+Highland Heights,OH,8719,Highland Heights OH
+Audubon,NJ,8707,Audubon NJ
+Socorro,NM,8707,Socorro NM
+Clarendon Hills,IL,8702,Clarendon Hills IL
+Fort Mitchell,KY,8702,Fort Mitchell KY
+Olney,IL,8701,Olney IL
+Milton,WA,8697,Milton WA
+Anthony,NM,8693,Anthony NM
+Thief River Falls ,MN,8674,Thief River Falls  MN
+Covington,TN,8663,Covington TN
+Glenwood,IL,8662,Glenwood IL
+Cheviot,OH,8658,Cheviot OH
+Gonzales,CA,8647,Gonzales CA
+Sandpoint ,ID,8639,Sandpoint  ID
+Carneys Point Township,NJ,8637,Carneys Point Township NJ
+Long Hill Township,NJ,8629,Long Hill Township NJ
+Hillview,KY,8622,Hillview KY
+Skowhegan,ME,8620,Skowhegan ME
+Richmond Heights,MO,8603,Richmond Heights MO
+Closter,NJ,8594,Closter NJ
+HastingsonHudson,NY,8590,HastingsonHudson NY
+Wharton,TX,8589,Wharton TX
+West Long Branch,NJ,8587,West Long Branch NJ
+Olmsted Falls,OH,8582,Olmsted Falls OH
+Montague,MA,8580,Montague MA
+Westwego,LA,8568,Westwego LA
+Gering,NE,8564,Gering NE
+Malverne,NY,8560,Malverne NY
+Minnetrista,MN,8557,Minnetrista MN
+Oberlin,OH,8555,Oberlin OH
+Guntersville,AL,8553,Guntersville AL
+Othello,WA,8549,Othello WA
+Independence ,KS,8548,Independence  KS
+Taft,CA,8546,Taft CA
+Liberty,TX,8539,Liberty TX
+Sutherlin,OR,8524,Sutherlin OR
+Ladue,MO,8521,Ladue MO
+Clinton,OK,8521,Clinton OK
+Sallisaw ,OK,8510,Sallisaw  OK
+McCordsville,IN,8503,McCordsville IN
+York,SC,8503,York SC
+Sunset Hills,MO,8496,Sunset Hills MO
+Corrales,NM,8493,Corrales NM
+Los Altos Hills,CA,8489,Los Altos Hills CA
+Richland Hills,TX,8484,Richland Hills TX
+Ayer,MA,8479,Ayer MA
+Litchfield,NH,8478,Litchfield NH
+Ephrata,WA,8477,Ephrata WA
+Cumberland,ME,8473,Cumberland ME
+Georgetown,MA,8470,Georgetown MA
+Farmingdale,NY,8466,Farmingdale NY
+Crete,IL,8465,Crete IL
+Kennedale,TX,8463,Kennedale TX
+Delavan,WI,8463,Delavan WI
+Arab,AL,8461,Arab AL
+Millis,MA,8460,Millis MA
+Lancaster,SC,8460,Lancaster SC
+Haddam,CT,8452,Haddam CT
+Orrville,OH,8452,Orrville OH
+Brooklyn,CT,8450,Brooklyn CT
+Skiatook,OK,8450,Skiatook OK
+Plymouth,WI,8445,Plymouth WI
+Monticello,AK,8442,Monticello AK
+Monticello,AR,8442,Monticello AR
+Lancaster,MA,8441,Lancaster MA
+Rice Lake,WI,8438,Rice Lake WI
+Beebe,AK,8437,Beebe AK
+Beebe,AR,8437,Beebe AR
+Montvale,NJ,8436,Montvale NJ
+Edgewood,KY,8435,Edgewood KY
+Northfield,NJ,8434,Northfield NJ
+Winnemucca,NV,8431,Winnemucca NV
+Kenilworth,NJ,8427,Kenilworth NJ
+Smithville,MO,8425,Smithville MO
+Fort Stockton,TX,8423,Fort Stockton TX
+Jefferson City,TN,8419,Jefferson City TN
+Elwood,IN,8410,Elwood IN
+Georgetown,SC,8403,Georgetown SC
+Seabrook,NH,8401,Seabrook NH
+Ellsworth,ME,8399,Ellsworth ME
+Hopkinton,RI,8398,Hopkinton RI
+Saint Marys,OH,8397,Saint Marys OH
+Pulaski,TN,8397,Pulaski TN
+Park City,UT,8396,Park City UT
+Atmore,AL,8391,Atmore AL
+Hondo,TX,8387,Hondo TX
+Milliken,CO,8386,Milliken CO
+Nevada ,MO,8386,Nevada  MO
+Cohasset,MA,8381,Cohasset MA
+Kearney,MO,8381,Kearney MO
+Buxton,ME,8376,Buxton ME
+Eaton,OH,8375,Eaton OH
+New Richmond,WI,8375,New Richmond WI
+Newton,NJ,8374,Newton NJ
+Denison,IA,8373,Denison IA
+Des Peres,MO,8373,Des Peres MO
+Hampton,GA,8368,Hampton GA
+Gilberts,IL,8366,Gilberts IL
+Long Grove,IL,8366,Long Grove IL
+Waite Park,MN,8360,Waite Park MN
+Senatobia,MS,8354,Senatobia MS
+Miles City,MT,8354,Miles City MT
+Upper Saddle River,NJ,8353,Upper Saddle River NJ
+Dalhart,TX,8347,Dalhart TX
+St Francis,MN,8342,St Francis MN
+Hollis,NH,8342,Hollis NH
+Jerseyville,IL,8337,Jerseyville IL
+Virginia,MN,8337,Virginia MN
+Mont Belvieu,TX,8337,Mont Belvieu TX
+Park City,KS,8333,Park City KS
+Mount Rainier,MD,8333,Mount Rainier MD
+Trinidad,CO,8329,Trinidad CO
+CrotononHudson,NY,8327,CrotononHudson NY
+Cushing,OK,8327,Cushing OK
+Fruitland Park,FL,8325,Fruitland Park FL
+Runnemede,NJ,8324,Runnemede NJ
+Hillside,IL,8320,Hillside IL
+Boonville ,MO,8319,Boonville  MO
+Wynne,AK,8314,Wynne AK
+Wynne,AR,8314,Wynne AR
+Hood River ,OR,8313,Hood River  OR
+Potsdam,NY,8312,Potsdam NY
+Hillsboro,TX,8305,Hillsboro TX
+Princeton,IN,8301,Princeton IN
+Orland,CA,8298,Orland CA
+Paris,IL,8291,Paris IL
+Perryton,TX,8289,Perryton TX
+Rolling Hills Estates,CA,8280,Rolling Hills Estates CA
+Bedminster,NJ,8272,Bedminster NJ
+Gray,ME,8269,Gray ME
+Stuttgart,AK,8264,Stuttgart AK
+Stuttgart,AR,8264,Stuttgart AR
+Hornell,NY,8263,Hornell NY
+Bel Aire,KS,8262,Bel Aire KS
+Bellevue,OH,8249,Bellevue OH
+New Prague,MN,8247,New Prague MN
+Franklin,VA,8247,Franklin VA
+Corning,CA,8244,Corning CA
+Oradell,NJ,8244,Oradell NJ
+Stayton,OR,8244,Stayton OR
+Cuero,TX,8235,Cuero TX
+Antigo,WI,8234,Antigo WI
+Sioux Center,IA,8229,Sioux Center IA
+Bow,NH,8229,Bow NH
+Centerville,GA,8228,Centerville GA
+Dayton,MN,8226,Dayton MN
+Perryville ,MO,8225,Perryville  MO
+Woodstock,CT,8221,Woodstock CT
+Maryville,IL,8221,Maryville IL
+Rawlins,WY,8221,Rawlins WY
+Harrisburg,IL,8219,Harrisburg IL
+Providence,UT,8218,Providence UT
+Price,UT,8216,Price UT
+Ashland,WI,8216,Ashland WI
+Westminster,MA,8213,Westminster MA
+Orono,MN,8212,Orono MN
+Johnstown,NY,8204,Johnstown NY
+Boxford,MA,8203,Boxford MA
+Richfield,UT,8201,Richfield UT
+Litchfield,CT,8192,Litchfield CT
+Brazil,IN,8181,Brazil IN
+Union,SC,8174,Union SC
+Milan,TN,8171,Milan TN
+Adams,MA,8166,Adams MA
+Oak Brook,IL,8163,Oak Brook IL
+Spotswood,NJ,8163,Spotswood NJ
+North Bay Village,FL,8159,North Bay Village FL
+Selah,WA,8153,Selah WA
+Los Fresnos,TX,8152,Los Fresnos TX
+Alliance,NE,8151,Alliance NE
+Monson,MA,8150,Monson MA
+Templeton,MA,8149,Templeton MA
+Payette ,ID,8127,Payette  ID
+Hardyston Township,NJ,8125,Hardyston Township NJ
+Scott,LA,8119,Scott LA
+Pleasant Hill,MO,8113,Pleasant Hill MO
+Lock Haven,PA,8108,Lock Haven PA
+Bay Minette,AL,8107,Bay Minette AL
+Dighton,MA,8101,Dighton MA
+Kirby,TX,8100,Kirby TX
+Joshua,TX,8098,Joshua TX
+Firebaugh,CA,8096,Firebaugh CA
+Orange Beach,AL,8095,Orange Beach AL
+Lochbuie,CO,8088,Lochbuie CO
+Grandview Heights,OH,8085,Grandview Heights OH
+Springfield,FL,8075,Springfield FL
+Mahtomedi,MN,8075,Mahtomedi MN
+Pismo Beach,CA,8072,Pismo Beach CA
+Plumsted Township,NJ,8072,Plumsted Township NJ
+Navasota,TX,8068,Navasota TX
+York,NE,8066,York NE
+Wyoming,MN,8063,Wyoming MN
+Sunnyvale,TX,8062,Sunnyvale TX
+Guadalupe,CA,8057,Guadalupe CA
+Brentwood,MO,8055,Brentwood MO
+Island Lake,IL,8051,Island Lake IL
+Butler,NJ,8047,Butler NJ
+Maplewood,MO,8046,Maplewood MO
+Gypsum,CO,8040,Gypsum CO
+Livingston,MT,8040,Livingston MT
+Oak Hill,WV,8040,Oak Hill WV
+Duvall,WA,8034,Duvall WA
+Westlake Village,CA,8029,Westlake Village CA
+Lucas,TX,8029,Lucas TX
+Byram Township,NJ,8028,Byram Township NJ
+Sequim,WA,8024,Sequim WA
+Richmond,RI,8020,Richmond RI
+Aransas Pass,TX,8011,Aransas Pass TX
+Scappoose,OR,8010,Scappoose OR
+Newport,AK,8005,Newport AK
+Newport,AR,8005,Newport AR
+Silvis,IL,8003,Silvis IL
+Riverside Township,NJ,8003,Riverside Township NJ
+Upton,MA,8000,Upton MA
+Cleveland,TX,7999,Cleveland TX
+Broadview,IL,7998,Broadview IL
+Charlestown,RI,7997,Charlestown RI
+South Beloit,IL,7989,South Beloit IL
+Sterling,MA,7985,Sterling MA
+Moundsville ,WV,7981,Moundsville  WV
+Jefferson,WI,7973,Jefferson WI
+Quincy,FL,7970,Quincy FL
+Albertville,MN,7970,Albertville MN
+North Hanover Township,NJ,7963,North Hanover Township NJ
+Port Jefferson,NY,7962,Port Jefferson NY
+Seaford,DE,7957,Seaford DE
+Lexington,TN,7956,Lexington TN
+Fort Lupton,CO,7955,Fort Lupton CO
+Spring Hill,KS,7952,Spring Hill KS
+Berwick,ME,7950,Berwick ME
+Winslow,ME,7948,Winslow ME
+Kenton,OH,7947,Kenton OH
+Wahpeton,ND,7943,Wahpeton ND
+Lincolnshire,IL,7940,Lincolnshire IL
+Waterboro,ME,7936,Waterboro ME
+Oak Grove,KY,7931,Oak Grove KY
+Barre,VT,7923,Barre VT
+Woodland Park,CO,7920,Woodland Park CO
+Baldwinsville,NY,7898,Baldwinsville NY
+Bernardsville,NJ,7893,Bernardsville NJ
+Park City,IL,7885,Park City IL
+Collinsville,OK,7881,Collinsville OK
+Warrenton ,MO,7880,Warrenton  MO
+West Boylston,MA,7877,West Boylston MA
+Humboldt,TN,7874,Humboldt TN
+Fairfield,NJ,7872,Fairfield NJ
+South Weber,UT,7867,South Weber UT
+Dexter,MO,7864,Dexter MO
+Rockton,IL,7863,Rockton IL
+Corbin,KY,7856,Corbin KY
+Campbell,OH,7852,Campbell OH
+Bradford,PA,7849,Bradford PA
+Bonner Springs,KS,7837,Bonner Springs KS
+Perry,IA,7836,Perry IA
+Raritan,NJ,7835,Raritan NJ
+Plain City,UT,7833,Plain City UT
+Princeton,IL,7832,Princeton IL
+Plaistow,NH,7830,Plaistow NH
+Webster City,IA,7825,Webster City IA
+Ponchatoula,LA,7822,Ponchatoula LA
+Providence Village,TX,7812,Providence Village TX
+Yreka,CA,7807,Yreka CA
+Glen Ridge,NJ,7802,Glen Ridge NJ
+Ripley,TN,7800,Ripley TN
+Rhinelander,WI,7798,Rhinelander WI
+Oak Grove,MO,7795,Oak Grove MO
+Blair,NE,7790,Blair NE
+Camden,SC,7788,Camden SC
+Travelers Rest,SC,7788,Travelers Rest SC
+Mansfield Township,NJ,7781,Mansfield Township NJ
+Colonie,NY,7781,Colonie NY
+Bloomingdale,NJ,7777,Bloomingdale NJ
+Charlestown,IN,7775,Charlestown IN
+Sheboygan Falls,WI,7775,Sheboygan Falls WI
+Fanwood,NJ,7774,Fanwood NJ
+Brunswick,MD,7762,Brunswick MD
+Pikeville,KY,7754,Pikeville KY
+Whitefish,MT,7751,Whitefish MT
+Halifax,MA,7749,Halifax MA
+Olivette,MO,7737,Olivette MO
+Ripon,WI,7733,Ripon WI
+Jersey Village,TX,7731,Jersey Village TX
+Shorewood,MN,7728,Shorewood MN
+Lake Dallas,TX,7722,Lake Dallas TX
+Shelburne,VT,7717,Shelburne VT
+Brigantine,NJ,7716,Brigantine NJ
+Wellington ,KS,7715,Wellington  KS
+Austell,GA,7713,Austell GA
+Chester Township,NJ,7713,Chester Township NJ
+Fairlawn,OH,7710,Fairlawn OH
+Hampden,ME,7709,Hampden ME
+West Bridgewater,MA,7707,West Bridgewater MA
+Stanwood,WA,7705,Stanwood WA
+Gilford,NH,7699,Gilford NH
+Canfield,OH,7699,Canfield OH
+Farr West,UT,7691,Farr West UT
+Lamar,CO,7687,Lamar CO
+Clear Lake,IA,7687,Clear Lake IA
+West Dundee,IL,7686,West Dundee IL
+Severance,CO,7683,Severance CO
+Round Lake Park,IL,7680,Round Lake Park IL
+Ruidoso,NM,7679,Ruidoso NM
+Stratham,NH,7669,Stratham NH
+Hampshire,IL,7667,Hampshire IL
+Tyrone,GA,7658,Tyrone GA
+Lake Geneva,WI,7651,Lake Geneva WI
+Emmett ,ID,7647,Emmett  ID
+Ilion,NY,7646,Ilion NY
+Upper Deerfield Township,NJ,7645,Upper Deerfield Township NJ
+Seward,NE,7643,Seward NE
+Harrisburg,SD,7638,Harrisburg SD
+Ojai,CA,7637,Ojai CA
+Dunellen,NJ,7637,Dunellen NJ
+Pearsall,TX,7637,Pearsall TX
+Hubbard,OH,7636,Hubbard OH
+Clinton,SC,7633,Clinton SC
+Old Lyme,CT,7628,Old Lyme CT
+New Albany,MS,7626,New Albany MS
+Wagoner ,OK,7621,Wagoner  OK
+Inverness,IL,7616,Inverness IL
+Southwest Ranches,FL,7607,Southwest Ranches FL
+Fairfax,CA,7605,Fairfax CA
+Easton,CT,7605,Easton CT
+Knoxville,IA,7595,Knoxville IA
+Farmington,ME,7592,Farmington ME
+Williston Park,NY,7591,Williston Park NY
+Pittston,PA,7591,Pittston PA
+Decorah,IA,7587,Decorah IA
+Farmington,AK,7584,Farmington AK
+Farmington,AR,7584,Farmington AR
+Cotati,CA,7584,Cotati CA
+Independence,OH,7584,Independence OH
+Middlebury,CT,7574,Middlebury CT
+Geneseo,NY,7574,Geneseo NY
+London,KY,7572,London KY
+Orange,MA,7569,Orange MA
+Briarcliff Manor,NY,7569,Briarcliff Manor NY
+Marengo,IL,7568,Marengo IL
+Wauseon,OH,7568,Wauseon OH
+Hamilton,MA,7561,Hamilton MA
+Mount Sterling,KY,7558,Mount Sterling KY
+Floresville,TX,7554,Floresville TX
+Santa Clara,UT,7553,Santa Clara UT
+Fort Scott ,KS,7552,Fort Scott  KS
+Lander,WY,7546,Lander WY
+Inverness,FL,7543,Inverness FL
+Quincy,WA,7543,Quincy WA
+Dahlonega ,GA,7537,Dahlonega  GA
+Creston,IA,7536,Creston IA
+Monona,WI,7533,Monona WI
+River Oaks,TX,7524,River Oaks TX
+Batesville,MS,7523,Batesville MS
+Sebastopol,CA,7521,Sebastopol CA
+Lampasas,TX,7517,Lampasas TX
+Breaux Bridge,LA,7513,Breaux Bridge LA
+Williamstown,MA,7513,Williamstown MA
+Pleasantville,NY,7513,Pleasantville NY
+Eagle,CO,7511,Eagle CO
+DuBois,PA,7510,DuBois PA
+Aurora,MO,7508,Aurora MO
+Tell City,IN,7506,Tell City IN
+Longboat Key,FL,7505,Longboat Key FL
+Monahans,TX,7498,Monahans TX
+Auburn,GA,7495,Auburn GA
+Haddon Heights,NJ,7495,Haddon Heights NJ
+Berlin Borough,NJ,7489,Berlin Borough NJ
+Thompsons Station,TN,7485,Thompsons Station TN
+Great Neck Plaza,NY,7482,Great Neck Plaza NY
+Hughson,CA,7481,Hughson CA
+Wickenburg,AZ,7474,Wickenburg AZ
+Hardeeville,SC,7473,Hardeeville SC
+Escalon,CA,7472,Escalon CA
+South Berwick,ME,7467,South Berwick ME
+North Bend,WA,7461,North Bend WA
+Vandalia,IL,7458,Vandalia IL
+Lexington,VA,7457,Lexington VA
+Madras ,OR,7456,Madras  OR
+McCook,NE,7446,McCook NE
+Hartsville,SC,7446,Hartsville SC
+Carl Junction,MO,7445,Carl Junction MO
+Thomaston,CT,7442,Thomaston CT
+Page,AZ,7440,Page AZ
+Catoosa,OK,7440,Catoosa OK
+Chehalis,WA,7439,Chehalis WA
+Palmyra,NJ,7438,Palmyra NJ
+Old Town,ME,7431,Old Town ME
+Shirley,MA,7431,Shirley MA
+LaFollette,TN,7430,LaFollette TN
+Hudson Falls,NY,7427,Hudson Falls NY
+North Riverside,IL,7426,North Riverside IL
+Swainsboro ,GA,7425,Swainsboro  GA
+Gridley,CA,7421,Gridley CA
+Bloomfield,NM,7421,Bloomfield NM
+Arcadia,FL,7420,Arcadia FL
+Woodlake,CA,7419,Woodlake CA
+Union,KY,7416,Union KY
+Tuttle,OK,7413,Tuttle OK
+Hitchcock,TX,7408,Hitchcock TX
+Piedmont,OK,7402,Piedmont OK
+Trumann,AK,7399,Trumann AK
+Trumann,AR,7399,Trumann AR
+Charles City,IA,7396,Charles City IA
+Caribou,ME,7396,Caribou ME
+Belle Plaine,MN,7396,Belle Plaine MN
+Alamo Heights,TX,7392,Alamo Heights TX
+Commerce,GA,7387,Commerce GA
+Kaufman,TX,7379,Kaufman TX
+Greenville,AL,7374,Greenville AL
+Cedarhurst,NY,7374,Cedarhurst NY
+Enoch,UT,7374,Enoch UT
+Pocahontas,AK,7371,Pocahontas AK
+Pocahontas,AR,7371,Pocahontas AR
+Bondurant,IA,7365,Bondurant IA
+St Johnsbury,VT,7364,St Johnsbury VT
+Umatilla,OR,7363,Umatilla OR
+Belen,NM,7360,Belen NM
+Washington,IA,7352,Washington IA
+Riverdale Park,MD,7351,Riverdale Park MD
+Northport,NY,7347,Northport NY
+Scottsburg,IN,7345,Scottsburg IN
+Rumson,NJ,7343,Rumson NJ
+Newberry,FL,7342,Newberry FL
+Valley Center,KS,7340,Valley Center KS
+Dunbar,WV,7330,Dunbar WV
+Nibley,UT,7328,Nibley UT
+Clewiston,FL,7327,Clewiston FL
+Pelham,NY,7326,Pelham NY
+Flatwoods,KY,7325,Flatwoods KY
+New Paltz,NY,7324,New Paltz NY
+La Junta,CO,7322,La Junta CO
+Cumming ,GA,7318,Cumming  GA
+Bellbrook,OH,7317,Bellbrook OH
+Crookston ,MN,7315,Crookston  MN
+Belmont,NH,7314,Belmont NH
+Villa Hills,KY,7310,Villa Hills KY
+Macclenny,FL,7304,Macclenny FL
+Washington Borough,NJ,7299,Washington Borough NJ
+Logan,OH,7296,Logan OH
+New London,WI,7295,New London WI
+Emerson,NJ,7290,Emerson NJ
+Jasper,TX,7285,Jasper TX
+East Hills,NY,7284,East Hills NY
+Salem,IL,7282,Salem IL
+Green Brook Township,NJ,7281,Green Brook Township NJ
+Dade City,FL,7275,Dade City FL
+West Frankfort,IL,7275,West Frankfort IL
+Upper Freehold Township,NJ,7273,Upper Freehold Township NJ
+Scotia,NY,7272,Scotia NY
+Swanzey,NH,7270,Swanzey NH
+Sausalito,CA,7269,Sausalito CA
+Nyack,NY,7265,Nyack NY
+Globe,AZ,7249,Globe AZ
+Wharton,NJ,7241,Wharton NJ
+Rayne,LA,7236,Rayne LA
+Pacific,WA,7235,Pacific WA
+Taneytown,MD,7234,Taneytown MD
+Herkimer,NY,7234,Herkimer NY
+West Miami,FL,7233,West Miami FL
+Montevallo,AL,7229,Montevallo AL
+Marble Falls,TX,7227,Marble Falls TX
+Laurel,MT,7222,Laurel MT
+Nebraska City,NE,7222,Nebraska City NE
+Sandwich,IL,7221,Sandwich IL
+Wetumpka,AL,7220,Wetumpka AL
+Neptune Beach,FL,7217,Neptune Beach FL
+Tolleson,AZ,7216,Tolleson AZ
+Pinson,AL,7215,Pinson AL
+Savannah,TN,7213,Savannah TN
+Waveland,MS,7210,Waveland MS
+Pembroke,NH,7207,Pembroke NH
+Keyport,NJ,7204,Keyport NJ
+Batesville,IN,7202,Batesville IN
+Mammoth Lakes,CA,7191,Mammoth Lakes CA
+Atherton,CA,7188,Atherton CA
+Bremen,GA,7185,Bremen GA
+Hiawatha,IA,7183,Hiawatha IA
+Devils Lake,ND,7182,Devils Lake ND
+Winfield,IN,7181,Winfield IN
+Stow,MA,7174,Stow MA
+Monticello,NY,7173,Monticello NY
+Great Barrington,MA,7172,Great Barrington MA
+Russellville,KY,7164,Russellville KY
+Demopolis,AL,7162,Demopolis AL
+Clarkston,WA,7161,Clarkston WA
+Spring Lake Park,MN,7157,Spring Lake Park MN
+Fircrest,WA,7156,Fircrest WA
+Canton,NY,7155,Canton NY
+Durham,CT,7152,Durham CT
+Morehead,KY,7151,Morehead KY
+MiltonFreewater,OR,7151,MiltonFreewater OR
+Robinson,IL,7150,Robinson IL
+Seminole,OK,7146,Seminole OK
+University Park,IL,7145,University Park IL
+Lebanon,CT,7142,Lebanon CT
+Richland,MS,7137,Richland MS
+Georgetown,DE,7134,Georgetown DE
+MentorontheLake,OH,7131,MentorontheLake OH
+Epping,NH,7125,Epping NH
+Philadelphia,MS,7118,Philadelphia MS
+Delphos,OH,7117,Delphos OH
+Winters,CA,7115,Winters CA
+Seaside,OR,7115,Seaside OR
+Kosciusko,MS,7114,Kosciusko MS
+Stickney,IL,7110,Stickney IL
+Islamorada,FL,7107,Islamorada FL
+Sturgis ,SD,7107,Sturgis  SD
+Cortland,OH,7105,Cortland OH
+Brockport,NY,7104,Brockport NY
+Crete,NE,7099,Crete NE
+Gonzales,TX,7098,Gonzales TX
+Murphysboro,IL,7093,Murphysboro IL
+LacyLakeview,TX,7090,LacyLakeview TX
+Atkinson,NH,7087,Atkinson NH
+Delafield,WI,7085,Delafield WI
+Tuckahoe,NY,7084,Tuckahoe NY
+Greenville,IL,7083,Greenville IL
+Sullivan,MO,7081,Sullivan MO
+Barrington,NJ,7075,Barrington NJ
+Fayetteville,TN,7068,Fayetteville TN
+Dayton,TN,7065,Dayton TN
+Isanti,MN,7064,Isanti MN
+Mendota,IL,7061,Mendota IL
+Youngtown,AZ,7056,Youngtown AZ
+Norwich,NY,7051,Norwich NY
+Prairie Grove,AK,7045,Prairie Grove AK
+Prairie Grove,AR,7045,Prairie Grove AR
+Hamilton,AL,7042,Hamilton AL
+Milltown,NJ,7037,Milltown NJ
+Harrisville,UT,7036,Harrisville UT
+Buena Vista Township,NJ,7033,Buena Vista Township NJ
+Belle Isle,FL,7032,Belle Isle FL
+Connellsville,PA,7031,Connellsville PA
+Frostburg,MD,7027,Frostburg MD
+Seminole,TX,7026,Seminole TX
+Calumet Park,IL,7025,Calumet Park IL
+Mountainside,NJ,7020,Mountainside NJ
+Bennettsville,SC,7020,Bennettsville SC
+Mount Carmel,IL,7015,Mount Carmel IL
+Lincoln,MA,7014,Lincoln MA
+Midland Park,NJ,7014,Midland Park NJ
+Aspen,CO,7004,Aspen CO
+Clinton,IL,7004,Clinton IL
+Pacific,MO,7002,Pacific MO
+Church Hill,TN,6998,Church Hill TN
+Mount Healthy,OH,6996,Mount Healthy OH
+Morrilton,AK,6992,Morrilton AK
+Morrilton,AR,6992,Morrilton AR
+Rockport,MA,6992,Rockport MA
+St Albans,VT,6988,St Albans VT
+Noble,OK,6985,Noble OK
+Fort Bragg,CA,6983,Fort Bragg CA
+Stratford,NJ,6981,Stratford NJ
+Osceola,AK,6976,Osceola AK
+Osceola,AR,6976,Osceola AR
+Linwood,NJ,6971,Linwood NJ
+Lanett,AL,6970,Lanett AL
+Heber Springs,AK,6969,Heber Springs AK
+Heber Springs,AR,6969,Heber Springs AR
+Holly Springs,MS,6968,Holly Springs MS
+Idabel ,OK,6961,Idabel  OK
+Manorhaven,NY,6956,Manorhaven NY
+Grove,OK,6956,Grove OK
+Nappanee,IN,6949,Nappanee IN
+Valley Park,MO,6942,Valley Park MO
+Shamokin,PA,6942,Shamokin PA
+Oneonta,AL,6938,Oneonta AL
+Belfast,ME,6938,Belfast ME
+Kirtland,OH,6937,Kirtland OH
+Rockland,ME,6936,Rockland ME
+St Joseph,MN,6932,St Joseph MN
+Kasson,MN,6931,Kasson MN
+Black Jack,MO,6929,Black Jack MO
+Nevada,IA,6925,Nevada IA
+Huron,OH,6922,Huron OH
+Hurricane,WV,6919,Hurricane WV
+Perry,FL,6898,Perry FL
+Greenbrier,TN,6898,Greenbrier TN
+Basehor,KS,6896,Basehor KS
+Elkins ,WV,6895,Elkins  WV
+Orland Hills,IL,6893,Orland Hills IL
+LaFayette ,GA,6888,LaFayette  GA
+Dacula,GA,6882,Dacula GA
+Monessen,PA,6876,Monessen PA
+Mexia,TX,6876,Mexia TX
+Decatur,TX,6875,Decatur TX
+Taylor Mill,KY,6873,Taylor Mill KY
+Roeland Park,KS,6871,Roeland Park KS
+Newport,TN,6868,Newport TN
+Bonne Terre,MO,6864,Bonne Terre MO
+Millsboro,DE,6863,Millsboro DE
+Union,OH,6859,Union OH
+Harvard,MA,6851,Harvard MA
+Silsbee,TX,6851,Silsbee TX
+Allendale,NJ,6848,Allendale NJ
+Litchfield Park,AZ,6847,Litchfield Park AZ
+Lincoln,AL,6845,Lincoln AL
+Ocean City,MD,6844,Ocean City MD
+Prairie View,TX,6843,Prairie View TX
+Loomis,CA,6836,Loomis CA
+Northlake,TX,6829,Northlake TX
+Walden,NY,6818,Walden NY
+Thomson ,GA,6814,Thomson  GA
+Chester,IL,6814,Chester IL
+La Feria,TX,6814,La Feria TX
+Medina,MN,6809,Medina MN
+Lawrence,NY,6809,Lawrence NY
+St Augustine Beach,FL,6803,St Augustine Beach FL
+Liberty Hill,TX,6801,Liberty Hill TX
+Pepper Pike,OH,6796,Pepper Pike OH
+Atlantic,IA,6792,Atlantic IA
+Junction City,OR,6787,Junction City OR
+Jordan,MN,6777,Jordan MN
+Tabernacle Township,NJ,6776,Tabernacle Township NJ
+Sealy,TX,6775,Sealy TX
+Opp,AL,6771,Opp AL
+Normandy Park,WA,6771,Normandy Park WA
+Corcoran,MN,6770,Corcoran MN
+Westbrook,CT,6769,Westbrook CT
+Berkley,MA,6764,Berkley MA
+Stewartville,MN,6759,Stewartville MN
+Groveland,MA,6752,Groveland MA
+Satsuma,AL,6749,Satsuma AL
+Bayville,NY,6748,Bayville NY
+Roosevelt,UT,6747,Roosevelt UT
+Brookings,OR,6744,Brookings OR
+North Syracuse,NY,6739,North Syracuse NY
+Live Oak,FL,6735,Live Oak FL
+Essex,CT,6733,Essex CT
+Addis,LA,6731,Addis LA
+Galax,VA,6730,Galax VA
+Franklin,LA,6728,Franklin LA
+Belpre,OH,6728,Belpre OH
+Eldridge,IA,6726,Eldridge IA
+Merrimac,MA,6723,Merrimac MA
+Farmington,NH,6722,Farmington NH
+Eliot,ME,6717,Eliot ME
+Newbury,MA,6716,Newbury MA
+Ocean Shores,WA,6715,Ocean Shores WA
+Boonville,IN,6712,Boonville IN
+Elletsville,IN,6712,Elletsville IN
+Willis,TX,6710,Willis TX
+Benton,IL,6709,Benton IL
+Robertsdale,AL,6708,Robertsdale AL
+Altoona,WI,6706,Altoona WI
+Winthrop Harbor,IL,6705,Winthrop Harbor IL
+Stone Mountain,GA,6703,Stone Mountain GA
+Swanton,VT,6701,Swanton VT
+Fowler,CA,6700,Fowler CA
+Upper Sandusky,OH,6698,Upper Sandusky OH
+Donaldsonville,LA,6695,Donaldsonville LA
+North Caldwell,NJ,6694,North Caldwell NJ
+Oakdale,LA,6692,Oakdale LA
+Plymouth,NH,6682,Plymouth NH
+Burnet,TX,6676,Burnet TX
+Crescent City,CA,6673,Crescent City CA
+Clover,SC,6671,Clover SC
+Amory,MS,6666,Amory MS
+Highland Heights,KY,6662,Highland Heights KY
+Meredith,NH,6662,Meredith NH
+New Hartford,CT,6658,New Hartford CT
+Bronxville,NY,6656,Bronxville NY
+Ontario,OH,6656,Ontario OH
+Irvington,NY,6652,Irvington NY
+Warwick,NY,6652,Warwick NY
+Purcell ,OK,6651,Purcell  OK
+Solvay,NY,6645,Solvay NY
+Delano,MN,6638,Delano MN
+Marshfield ,MO,6633,Marshfield  MO
+Larchmont,NY,6630,Larchmont NY
+Sunbury,OH,6614,Sunbury OH
+Mascotte,FL,6609,Mascotte FL
+North Vernon,IN,6608,North Vernon IN
+Horseheads,NY,6606,Horseheads NY
+Litchfield,IL,6605,Litchfield IL
+Pratt ,KS,6603,Pratt  KS
+Rockaway Borough,NJ,6598,Rockaway Borough NJ
+Chatham,MA,6594,Chatham MA
+Buena Vista,VA,6591,Buena Vista VA
+Treasure Island,FL,6584,Treasure Island FL
+Milford,OH,6582,Milford OH
+Morrow,GA,6569,Morrow GA
+Topsfield,MA,6569,Topsfield MA
+Union Gap,WA,6568,Union Gap WA
+Gunnison,CO,6560,Gunnison CO
+Indiantown,FL,6560,Indiantown FL
+Brier,WA,6560,Brier WA
+Pea Ridge,AK,6559,Pea Ridge AK
+Pea Ridge,AR,6559,Pea Ridge AR
+Vine Grove,KY,6559,Vine Grove KY
+Valley City,ND,6559,Valley City ND
+Columbiana,OH,6559,Columbiana OH
+Hapeville,GA,6553,Hapeville GA
+Sandown,NH,6548,Sandown NH
+Schuyler,NE,6547,Schuyler NE
+Iowa Park,TX,6547,Iowa Park TX
+Byron,MN,6546,Byron MN
+Plattsmouth,NE,6544,Plattsmouth NE
+Garrett,IN,6542,Garrett IN
+Geneseo,IL,6539,Geneseo IL
+Carthage,TX,6533,Carthage TX
+Litchfield ,MN,6532,Litchfield  MN
+Woodland,WA,6531,Woodland WA
+West Greenwich,RI,6528,West Greenwich RI
+Charles Town ,WV,6523,Charles Town  WV
+Nitro,WV,6518,Nitro WV
+St John,MO,6517,St John MO
+Calipatria,CA,6515,Calipatria CA
+Mattapoisett,MA,6508,Mattapoisett MA
+Union Township,NJ,6507,Union Township NJ
+Ralston,NE,6494,Ralston NE
+Mount Vernon,IN,6493,Mount Vernon IN
+Washington Township,NJ,6492,Washington Township NJ
+Aubrey,TX,6490,Aubrey TX
+Timnath,CO,6487,Timnath CO
+Fairfield,ME,6484,Fairfield ME
+Hillsboro,OH,6481,Hillsboro OH
+Eatonton ,GA,6480,Eatonton  GA
+Rindge,NH,6476,Rindge NH
+Taos,NM,6474,Taos NM
+Lebanon,ME,6469,Lebanon ME
+Hermon,ME,6461,Hermon ME
+Lynchburg,TN,6461,Lynchburg TN
+Abilene ,KS,6460,Abilene  KS
+Shamong Township,NJ,6460,Shamong Township NJ
+Exeter,RI,6460,Exeter RI
+Chickasaw,AL,6457,Chickasaw AL
+Watchung,NJ,6449,Watchung NJ
+Marion,SC,6448,Marion SC
+Nephi,UT,6443,Nephi UT
+Cherry Hills Village,CO,6442,Cherry Hills Village CO
+Carbondale,CO,6434,Carbondale CO
+St Gabriel,LA,6433,St Gabriel LA
+Countryside,IL,6420,Countryside IL
+Powell,WY,6419,Powell WY
+Peterborough,NH,6418,Peterborough NH
+Wolfeboro,NH,6416,Wolfeboro NH
+Colusa,CA,6411,Colusa CA
+Sidney,NE,6410,Sidney NE
+Eudora,KS,6408,Eudora KS
+Crockett,TX,6406,Crockett TX
+Leitchfield,KY,6404,Leitchfield KY
+Glenarden,MD,6402,Glenarden MD
+Carver,MN,6401,Carver MN
+De Soto,MO,6400,De Soto MO
+Peitas,TX,6399,Peitas TX
+Zimmerman,MN,6395,Zimmerman MN
+Moraine,OH,6393,Moraine OH
+Douglas,WY,6386,Douglas WY
+South Lebanon,OH,6384,South Lebanon OH
+Dillon,SC,6384,Dillon SC
+Sanibel,FL,6382,Sanibel FL
+Gun Barrel City,TX,6378,Gun Barrel City TX
+Lake Alfred,FL,6374,Lake Alfred FL
+Walker,LA,6374,Walker LA
+Carlstadt,NJ,6372,Carlstadt NJ
+Prospect Park,NJ,6372,Prospect Park NJ
+Salem,IN,6371,Salem IN
+New Hanover Township,NJ,6367,New Hanover Township NJ
+Huntingburg,IN,6362,Huntingburg IN
+Chesapeake Beach,MD,6356,Chesapeake Beach MD
+Johnsburg,IL,6355,Johnsburg IL
+Sidney,MT,6346,Sidney MT
+Keene,TX,6346,Keene TX
+Pigeon Forge,TN,6343,Pigeon Forge TN
+Crystal City,TX,6335,Crystal City TX
+East Rochester,NY,6334,East Rochester NY
+Cynthiana,KY,6333,Cynthiana KY
+Dalton,MA,6330,Dalton MA
+Portland,IN,6320,Portland IN
+Ashburnham,MA,6315,Ashburnham MA
+Lindale,TX,6313,Lindale TX
+Sweetwater,TN,6312,Sweetwater TN
+Henderson,TN,6308,Henderson TN
+Orleans,MA,6307,Orleans MA
+Ville Platte,LA,6303,Ville Platte LA
+Gulf Breeze,FL,6302,Gulf Breeze FL
+Tecumseh,OK,6302,Tecumseh OK
+Munford,TN,6302,Munford TN
+Newport,NH,6299,Newport NH
+Roseland,NJ,6299,Roseland NJ
+Rossford,OH,6299,Rossford OH
+Millersville,TN,6299,Millersville TN
+Dacono,CO,6297,Dacono CO
+Clyde,OH,6294,Clyde OH
+Willows,CA,6293,Willows CA
+Barnesville ,GA,6292,Barnesville  GA
+Mulvane,KS,6286,Mulvane KS
+Tallulah,LA,6286,Tallulah LA
+Dennis Township,NJ,6285,Dennis Township NJ
+Talent,OR,6282,Talent OR
+Warrenton,OR,6277,Warrenton OR
+Lebanon,KY,6274,Lebanon KY
+Rochester,IN,6270,Rochester IN
+Princeton,KY,6270,Princeton KY
+Plaquemine,LA,6269,Plaquemine LA
+Fair Haven,NJ,6269,Fair Haven NJ
+Orange City,IA,6267,Orange City IA
+Pembroke Park,FL,6260,Pembroke Park FL
+Martins Ferry,OH,6260,Martins Ferry OH
+Tea,SD,6256,Tea SD
+Shrewsbury,MO,6254,Shrewsbury MO
+McRaeHelena  ,GA,6253,McRaeHelena   GA
+Jackson,OH,6252,Jackson OH
+Nolanville,TX,6249,Nolanville TX
+Marianna,FL,6245,Marianna FL
+Harrah,OK,6245,Harrah OK
+Hampstead,MD,6241,Hampstead MD
+Oakland,ME,6230,Oakland ME
+Elsmere,DE,6229,Elsmere DE
+Mendon,MA,6228,Mendon MA
+Southampton,MA,6224,Southampton MA
+Maurice River Township,NJ,6218,Maurice River Township NJ
+Cold Spring,KY,6216,Cold Spring KY
+High Springs,FL,6215,High Springs FL
+Thurmont,MD,6213,Thurmont MD
+Corry,PA,6210,Corry PA
+Rushville,IN,6208,Rushville IN
+Huron,CA,6206,Huron CA
+Kingston,NH,6202,Kingston NH
+Aztec,NM,6201,Aztec NM
+LauderdalebytheSea,FL,6198,LauderdalebytheSea FL
+Willard,OH,6197,Willard OH
+Paulsboro,NJ,6196,Paulsboro NJ
+Lebanon Township,NJ,6195,Lebanon Township NJ
+Braidwood,IL,6194,Braidwood IL
+Eastampton Township,NJ,6191,Eastampton Township NJ
+Henniker,NH,6185,Henniker NH
+Crestwood,KY,6183,Crestwood KY
+Lakemoor,IL,6182,Lakemoor IL
+Clairton,PA,6181,Clairton PA
+Elburn,IL,6175,Elburn IL
+Killingworth,CT,6174,Killingworth CT
+Edgewood,NM,6174,Edgewood NM
+Lyman,SC,6173,Lyman SC
+Cheverly,MD,6170,Cheverly MD
+White Oak,TX,6169,White Oak TX
+Caruthersville ,MO,6168,Caruthersville  MO
+Rowley,MA,6161,Rowley MA
+Tequesta,FL,6158,Tequesta FL
+Gas City,IN,6157,Gas City IN
+Walkersville,MD,6156,Walkersville MD
+Adel,IA,6153,Adel IA
+Morris Plains,NJ,6153,Morris Plains NJ
+Oceanport,NJ,6150,Oceanport NJ
+Darlington,SC,6149,Darlington SC
+Gladewater,TX,6137,Gladewater TX
+Marlborough,CT,6133,Marlborough CT
+Little Silver,NJ,6131,Little Silver NJ
+Rittman,OH,6131,Rittman OH
+Chillicothe,IL,6128,Chillicothe IL
+Maquoketa,IA,6128,Maquoketa IA
+Woodcliff Lake,NJ,6128,Woodcliff Lake NJ
+Solvang,CA,6126,Solvang CA
+Tarrant,AL,6124,Tarrant AL
+Volo,IL,6122,Volo IL
+Winthrop,ME,6121,Winthrop ME
+Torrington,WY,6119,Torrington WY
+De Soto,KS,6118,De Soto KS
+Wesley Hills,NY,6116,Wesley Hills NY
+Gustine,CA,6110,Gustine CA
+Granby,MA,6110,Granby MA
+New Boston,NH,6108,New Boston NH
+De Queen,AK,6105,De Queen AK
+De Queen,AR,6105,De Queen AR
+Sheridan,CO,6105,Sheridan CO
+Snowflake,AZ,6104,Snowflake AZ
+Wappingers Falls,NY,6103,Wappingers Falls NY
+Fruit Heights,UT,6101,Fruit Heights UT
+The Village of Indian Hill,OH,6087,The Village of Indian Hill OH
+Hartford City,IN,6086,Hartford City IN
+Blackwell,OK,6085,Blackwell OK
+Erwin,TN,6083,Erwin TN
+Rupert ,ID,6082,Rupert  ID
+Franklin,PA,6077,Franklin PA
+Avon,CO,6072,Avon CO
+Fruitland,ID,6072,Fruitland ID
+Louisville,MS,6072,Louisville MS
+Madison ,SD,6071,Madison  SD
+Waupaca,WI,6069,Waupaca WI
+Everman,TX,6067,Everman TX
+Independence,IA,6064,Independence IA
+Prosser,WA,6062,Prosser WA
+Houlton,ME,6055,Houlton ME
+Ward,AK,6052,Ward AK
+Ward,AR,6052,Ward AR
+Truth or Consequences,NM,6052,Truth or Consequences NM
+Medina,NY,6047,Medina NY
+Raton,NM,6041,Raton NM
+Hainesport Township,NJ,6035,Hainesport Township NJ
+Hempstead,TX,6028,Hempstead TX
+Hilton,NY,6027,Hilton NY
+Port Clinton,OH,6025,Port Clinton OH
+Mount Zion,IL,6019,Mount Zion IL
+Hopedale,MA,6017,Hopedale MA
+Mendham Township,NJ,6016,Mendham Township NJ
+Kermit,TX,6016,Kermit TX
+Groveport,OH,6009,Groveport OH
+Wolfforth,TX,6008,Wolfforth TX
+Littleton,NH,6005,Littleton NH
+Waterville,OH,6003,Waterville OH
+Midway,UT,6003,Midway UT
+Trenton ,MO,6001,Trenton  MO
+Beacon Falls,CT,6000,Beacon Falls CT
+Logan Township,NJ,6000,Logan Township NJ
+Wilmore,KY,5999,Wilmore KY
+East Aurora,NY,5998,East Aurora NY
+Andover Township,NJ,5996,Andover Township NJ
+Bulverde,TX,5996,Bulverde TX
+Pauls Valley ,OK,5992,Pauls Valley  OK
+Loudon,TN,5991,Loudon TN
+Brookville,OH,5989,Brookville OH
+Social Circle,GA,5974,Social Circle GA
+Wayne,NE,5973,Wayne NE
+Bridgeport,TX,5972,Bridgeport TX
+Metropolis,IL,5969,Metropolis IL
+Gardiner,ME,5961,Gardiner ME
+District Heights,MD,5959,District Heights MD
+Cumberland,IN,5954,Cumberland IN
+Kingston,TN,5953,Kingston TN
+Lewistown,MT,5952,Lewistown MT
+Monroeville,AL,5951,Monroeville AL
+Beardstown,IL,5951,Beardstown IL
+Charleston ,MO,5947,Charleston  MO
+Auburn,NH,5946,Auburn NH
+Granville,OH,5946,Granville OH
+Bartonville,IL,5945,Bartonville IL
+Edna,TX,5944,Edna TX
+Asbury,IA,5943,Asbury IA
+Monticello,IL,5941,Monticello IL
+Hillsborough,NH,5939,Hillsborough NH
+Manasquan,NJ,5938,Manasquan NJ
+Holdenville ,OK,5934,Holdenville  OK
+Patterson,LA,5931,Patterson LA
+Salamanca,NY,5929,Salamanca NY
+Glendale,MO,5925,Glendale MO
+Geneva,OH,5924,Geneva OH
+Dover,MA,5923,Dover MA
+Yoakum,TX,5923,Yoakum TX
+Bay Harbor Islands,FL,5922,Bay Harbor Islands FL
+Oelwein,IA,5920,Oelwein IA
+DeFuniak Springs,FL,5919,DeFuniak Springs FL
+Northfield,VT,5918,Northfield VT
+West Bountiful,UT,5917,West Bountiful UT
+Hopkinton,NH,5914,Hopkinton NH
+Prairie du Chien,WI,5911,Prairie du Chien WI
+Mount Arlington,NJ,5909,Mount Arlington NJ
+Peoria Heights,IL,5908,Peoria Heights IL
+Belmar,NJ,5907,Belmar NJ
+Poland,ME,5906,Poland ME
+Estes Park,CO,5904,Estes Park CO
+Estherville,IA,5904,Estherville IA
+Lake City,SC,5903,Lake City SC
+Hillsboro,IL,5902,Hillsboro IL
+Hightstown,NJ,5900,Hightstown NJ
+Wake Village,TX,5897,Wake Village TX
+Grafton,OH,5895,Grafton OH
+Alton,NH,5894,Alton NH
+Hudson,NY,5894,Hudson NY
+Harriman,TN,5892,Harriman TN
+Old Tappan,NJ,5888,Old Tappan NJ
+Blaine,WA,5884,Blaine WA
+Pontoon Beach,IL,5876,Pontoon Beach IL
+Los Ranchos de Albuquerque,NM,5874,Los Ranchos de Albuquerque NM
+Littlefield,TX,5871,Littlefield TX
+Tewksbury Township,NJ,5870,Tewksbury Township NJ
+Berlin Township,NJ,5867,Berlin Township NJ
+Watford City,ND,5866,Watford City ND
+Columbia,MS,5864,Columbia MS
+Freeport,FL,5861,Freeport FL
+Jonesborough,TN,5860,Jonesborough TN
+Rumford,ME,5858,Rumford ME
+Willow Springs,IL,5857,Willow Springs IL
+Fort Wright,KY,5851,Fort Wright KY
+Carterville,IL,5848,Carterville IL
+Childress,TX,5844,Childress TX
+Villa Park,CA,5843,Villa Park CA
+Parker,TX,5833,Parker TX
+Livingston,TX,5829,Livingston TX
+Windcrest,TX,5828,Windcrest TX
+Attalla,AL,5827,Attalla AL
+Du Quoin,IL,5827,Du Quoin IL
+Alma,AK,5825,Alma AK
+Alma,AR,5825,Alma AR
+Krum,TX,5823,Krum TX
+Central City,KY,5819,Central City KY
+Turner,ME,5817,Turner ME
+Mullica Township,NJ,5816,Mullica Township NJ
+Alpine,TX,5815,Alpine TX
+Rochelle Park,NJ,5814,Rochelle Park NJ
+Sandersville ,GA,5813,Sandersville  GA
+Slaton,TX,5811,Slaton TX
+Eaton,CO,5802,Eaton CO
+Waynesboro ,GA,5799,Waynesboro  GA
+Dos Palos,CA,5798,Dos Palos CA
+Princeton ,WV,5798,Princeton  WV
+Richmond ,MO,5797,Richmond  MO
+Starke,FL,5796,Starke FL
+Germantown,OH,5796,Germantown OH
+Ulysses ,KS,5788,Ulysses  KS
+Lee,MA,5788,Lee MA
+Dripping Springs,TX,5787,Dripping Springs TX
+East Alton,IL,5786,East Alton IL
+Jamesburg,NJ,5783,Jamesburg NJ
+Goshen,NY,5777,Goshen NY
+Paola ,KS,5768,Paola  KS
+Monticello,KY,5753,Monticello KY
+Eastham,MA,5752,Eastham MA
+Pelham Manor,NY,5752,Pelham Manor NY
+Northfield,IL,5751,Northfield IL
+Anadarko ,OK,5745,Anadarko  OK
+Poolesville,MD,5742,Poolesville MD
+Maize,KS,5735,Maize KS
+Rensselaer,IN,5733,Rensselaer IN
+Venus,TX,5727,Venus TX
+Ranson,WV,5726,Ranson WV
+Union Beach,NJ,5723,Union Beach NJ
+International Falls ,MN,5718,International Falls  MN
+Rochester,MA,5717,Rochester MA
+Carlinville,IL,5710,Carlinville IL
+Glencoe ,MN,5710,Glencoe  MN
+Lake Mills,WI,5708,Lake Mills WI
+Greenbrier,AK,5707,Greenbrier AK
+Greenbrier,AR,5707,Greenbrier AR
+Coal City,IL,5705,Coal City IL
+Blairstown,NJ,5704,Blairstown NJ
+Byron,GA,5702,Byron GA
+Belle Fourche ,SD,5699,Belle Fourche  SD
+Surfside,FL,5689,Surfside FL
+Pass Christian,MS,5686,Pass Christian MS
+Berryville,AK,5682,Berryville AK
+Berryville,AR,5682,Berryville AR
+La Habra Heights,CA,5682,La Habra Heights CA
+Elsa,TX,5680,Elsa TX
+Covington,VA,5679,Covington VA
+New Gloucester,ME,5676,New Gloucester ME
+Salida,CO,5666,Salida CO
+Dayton,KY,5666,Dayton KY
+Bolton,MA,5665,Bolton MA
+Wilmington,IL,5664,Wilmington IL
+Eastman ,GA,5658,Eastman  GA
+Washingtonville,NY,5657,Washingtonville NY
+Webster,NY,5651,Webster NY
+Leesville,LA,5649,Leesville LA
+Chisago City,MN,5649,Chisago City MN
+Sylvester ,GA,5644,Sylvester  GA
+Norwood,NJ,5641,Norwood NJ
+Creswell,OR,5641,Creswell OR
+Pontotoc,MS,5640,Pontotoc MS
+Henryetta,OK,5640,Henryetta OK
+Brookline,NH,5639,Brookline NH
+Albion,NY,5637,Albion NY
+Posen,IL,5632,Posen IL
+Weiser ,ID,5630,Weiser  ID
+Winston,OR,5625,Winston OR
+Kings Point,NY,5619,Kings Point NY
+Lake Bluff,IL,5616,Lake Bluff IL
+Ephraim,UT,5611,Ephraim UT
+Holtville,CA,5605,Holtville CA
+Red Oak,IA,5596,Red Oak IA
+Preston ,ID,5591,Preston  ID
+Battlefield,MO,5590,Battlefield MO
+Mena,AK,5589,Mena AK
+Mena,AR,5589,Mena AR
+Lafayette,TN,5584,Lafayette TN
+Fort Myers Beach,FL,5582,Fort Myers Beach FL
+Spring Valley,IL,5582,Spring Valley IL
+White Hall,AK,5581,White Hall AK
+White Hall,AR,5581,White Hall AR
+Loudon,NH,5576,Loudon NH
+Tonganoxie,KS,5573,Tonganoxie KS
+Adel ,GA,5571,Adel  GA
+Bath,NY,5571,Bath NY
+Colby ,KS,5570,Colby  KS
+Willington,CT,5566,Willington CT
+Somerdale,NJ,5566,Somerdale NJ
+Hutchins,TX,5566,Hutchins TX
+Sinton,TX,5562,Sinton TX
+New Carlisle,OH,5559,New Carlisle OH
+Jamestown,RI,5559,Jamestown RI
+Jackson ,GA,5557,Jackson  GA
+Oak Point,TX,5557,Oak Point TX
+Perry,UT,5555,Perry UT
+Parkville,MO,5554,Parkville MO
+New Castle,DE,5551,New Castle DE
+New Whiteland,IN,5550,New Whiteland IN
+Bellevue,KY,5548,Bellevue KY
+Fairfield Township,NJ,5546,Fairfield Township NJ
+Milton,WI,5546,Milton WI
+Walterboro,SC,5544,Walterboro SC
+Polk City,IA,5543,Polk City IA
+Rye,NH,5543,Rye NH
+Marlin,TX,5543,Marlin TX
+Williams,CA,5538,Williams CA
+Rusk,TX,5537,Rusk TX
+Fruitland,MD,5534,Fruitland MD
+Bowie,TX,5534,Bowie TX
+Chestertown,MD,5532,Chestertown MD
+Barre,MA,5530,Barre MA
+McKenzie,TN,5529,McKenzie TN
+Pahokee,FL,5524,Pahokee FL
+Berlin,WI,5524,Berlin WI
+McGregor,TX,5522,McGregor TX
+White City,UT,5522,White City UT
+Luling,TX,5518,Luling TX
+Holdrege,NE,5515,Holdrege NE
+DeWitt,IA,5514,DeWitt IA
+Sheldon,IA,5512,Sheldon IA
+Monticello,IN,5508,Monticello IN
+Boxborough,MA,5506,Boxborough MA
+Rainsville,AL,5505,Rainsville AL
+Fairport,NY,5501,Fairport NY
+Carlisle,OH,5501,Carlisle OH
+Brookshire,TX,5501,Brookshire TX
+Cave Springs,AK,5495,Cave Springs AK
+Cave Springs,AR,5495,Cave Springs AR
+Kaser,NY,5491,Kaser NY
+Lyndon,VT,5491,Lyndon VT
+Obetz,OH,5489,Obetz OH
+Spring Grove,IL,5487,Spring Grove IL
+Algona,IA,5487,Algona IA
+St Paul Park,MN,5486,St Paul Park MN
+Harwinton,CT,5484,Harwinton CT
+Pevely,MO,5484,Pevely MO
+Malone,NY,5483,Malone NY
+Emporia,VA,5481,Emporia VA
+Sunset,UT,5475,Sunset UT
+Greenwich Township,NJ,5473,Greenwich Township NJ
+Mount Carmel,TN,5473,Mount Carmel TN
+Macon ,MO,5471,Macon  MO
+Independence Township,NJ,5469,Independence Township NJ
+North Hills,NY,5464,North Hills NY
+New Hempstead,NY,5463,New Hempstead NY
+Ripley,MS,5462,Ripley MS
+Edgerton,WI,5461,Edgerton WI
+Walton,KY,5460,Walton KY
+Douglass Hills,KY,5456,Douglass Hills KY
+Warren,AK,5453,Warren AK
+Warren,AR,5453,Warren AR
+Anamosa,IA,5450,Anamosa IA
+Rockwood,TN,5444,Rockwood TN
+Weldon Spring,MO,5443,Weldon Spring MO
+Connell,WA,5441,Connell WA
+Spirit Lake,IA,5439,Spirit Lake IA
+Morristown,VT,5434,Morristown VT
+Deer Park,OH,5432,Deer Park OH
+St Helena,CA,5430,St Helena CA
+Forest,MS,5430,Forest MS
+Williamsville,NY,5423,Williamsville NY
+Bridgton,ME,5418,Bridgton ME
+Osceola,IA,5415,Osceola IA
+Belleview,FL,5413,Belleview FL
+Centerville,IA,5412,Centerville IA
+Reminderville,OH,5412,Reminderville OH
+Wellston,OH,5412,Wellston OH
+Atlanta,TX,5409,Atlanta TX
+Manchester,MD,5408,Manchester MD
+Rockdale,TX,5398,Rockdale TX
+Iola ,KS,5396,Iola  KS
+ManchesterbytheSea,MA,5395,ManchesterbytheSea MA
+Sansom Park,TX,5388,Sansom Park TX
+Smiths Station,AL,5384,Smiths Station AL
+Walnut Ridge,AK,5384,Walnut Ridge AK
+Walnut Ridge,AR,5384,Walnut Ridge AR
+Aledo,TX,5380,Aledo TX
+St Martinville,LA,5379,St Martinville LA
+Glencoe,AL,5372,Glencoe AL
+Blakely ,GA,5371,Blakely  GA
+Clarinda,IA,5369,Clarinda IA
+Moab,UT,5366,Moab UT
+Dunlap,TN,5357,Dunlap TN
+Benson,AZ,5355,Benson AZ
+South Pasadena,FL,5353,South Pasadena FL
+Winterset,IA,5353,Winterset IA
+Cameron,TX,5352,Cameron TX
+Philomath,OR,5350,Philomath OR
+Marion,MA,5347,Marion MA
+Englewood Cliffs,NJ,5342,Englewood Cliffs NJ
+Lavon,TX,5342,Lavon TX
+Oak Bluffs,MA,5341,Oak Bluffs MA
+Brush,CO,5339,Brush CO
+Hollywood,SC,5339,Hollywood SC
+Berkeley,IL,5338,Berkeley IL
+Clementon,NJ,5338,Clementon NJ
+Allamuchy Township,NJ,5335,Allamuchy Township NJ
+Bowling Green ,MO,5334,Bowling Green  MO
+Ada,OH,5334,Ada OH
+Wilmer,TX,5332,Wilmer TX
+Waterbury,VT,5331,Waterbury VT
+Williamsburg,KY,5326,Williamsburg KY
+Hadley,MA,5325,Hadley MA
+Canal Fulton,OH,5325,Canal Fulton OH
+Guadalupe,AZ,5322,Guadalupe AZ
+Jaffrey,NH,5320,Jaffrey NH
+Margate City,NJ,5317,Margate City NJ
+Roanoke,AL,5311,Roanoke AL
+Woodside,CA,5309,Woodside CA
+Columbia Falls,MT,5308,Columbia Falls MT
+Toronto,OH,5303,Toronto OH
+Primera,TX,5303,Primera TX
+Frankford Township,NJ,5302,Frankford Township NJ
+Cicero,IN,5301,Cicero IN
+Odessa,MO,5300,Odessa MO
+Genoa,IL,5298,Genoa IL
+Bethany,CT,5297,Bethany CT
+Lake City,MN,5297,Lake City MN
+Salem,NJ,5296,Salem NJ
+Montevideo ,MN,5292,Montevideo  MN
+Willard,MO,5288,Willard MO
+Tucumcari,NM,5278,Tucumcari NM
+Brewton,AL,5276,Brewton AL
+Tipton,IN,5275,Tipton IN
+La Crescent,MN,5274,La Crescent MN
+Columbia,CT,5272,Columbia CT
+Uhrichsville,OH,5272,Uhrichsville OH
+BatesburgLeesville,SC,5270,BatesburgLeesville SC
+Chester,SC,5269,Chester SC
+Buckhannon ,WV,5265,Buckhannon  WV
+Hazard,KY,5263,Hazard KY
+Titusville,PA,5262,Titusville PA
+Westville,IN,5257,Westville IN
+Verdigris,OK,5256,Verdigris OK
+Okeechobee,FL,5254,Okeechobee FL
+Duquesne,PA,5254,Duquesne PA
+Windsor Heights,IA,5252,Windsor Heights IA
+Central,SC,5247,Central SC
+Breckenridge,TX,5244,Breckenridge TX
+Hickory Creek,TX,5244,Hickory Creek TX
+Chardon,OH,5242,Chardon OH
+Grambling,LA,5239,Grambling LA
+Elmsford,NY,5239,Elmsford NY
+Carlisle,MA,5237,Carlisle MA
+Dundee,FL,5235,Dundee FL
+Hyde Park,UT,5234,Hyde Park UT
+Camden,ME,5232,Camden ME
+Chester,NH,5232,Chester NH
+Thatcher,AZ,5231,Thatcher AZ
+Nottingham,NH,5229,Nottingham NH
+Calistoga,CA,5228,Calistoga CA
+Eureka,IL,5227,Eureka IL
+North Manchester,IN,5227,North Manchester IN
+Falcon Heights,MN,5227,Falcon Heights MN
+Stowe,VT,5223,Stowe VT
+Granite Shoals,TX,5222,Granite Shoals TX
+Greenwood,MO,5221,Greenwood MO
+East Granby,CT,5214,East Granby CT
+Veneta,OR,5214,Veneta OR
+Nassau Bay,TX,5213,Nassau Bay TX
+Midfield,AL,5211,Midfield AL
+Porter,IN,5210,Porter IN
+Morris ,MN,5206,Morris  MN
+Chadron,NE,5206,Chadron NE
+Bolivar,TN,5205,Bolivar TN
+New Ipswich,NH,5204,New Ipswich NH
+Tillamook ,OR,5204,Tillamook  OR
+Wakefield,NH,5201,Wakefield NH
+Pana,IL,5199,Pana IL
+Cherokee,IA,5199,Cherokee IA
+Willow Park,TX,5194,Willow Park TX
+Vinita ,OK,5193,Vinita  OK
+Ashland City,TN,5193,Ashland City TN
+Camilla ,GA,5187,Camilla  GA
+King City,OR,5184,King City OR
+Richland Center,WI,5184,Richland Center WI
+Johnstown,OH,5182,Johnstown OH
+Daytona Beach Shores,FL,5179,Daytona Beach Shores FL
+Paris,ME,5179,Paris ME
+Holland Township,NJ,5177,Holland Township NJ
+New Martinsville ,WV,5174,New Martinsville  WV
+Edgartown,MA,5168,Edgartown MA
+Hugo ,OK,5166,Hugo  OK
+Van Alstyne,TX,5165,Van Alstyne TX
+North Oaks,MN,5164,North Oaks MN
+Mechanicville,NY,5163,Mechanicville NY
+Buellton,CA,5161,Buellton CA
+Flagler Beach,FL,5160,Flagler Beach FL
+Northwood,OH,5160,Northwood OH
+Wildwood,NJ,5157,Wildwood NJ
+Waldoboro,ME,5154,Waldoboro ME
+Mayville,WI,5154,Mayville WI
+North Stonington,CT,5149,North Stonington CT
+Alexandria,IN,5149,Alexandria IN
+Polson,MT,5148,Polson MT
+Sultan,WA,5146,Sultan WA
+Ione,CA,5141,Ione CA
+Linton,IN,5133,Linton IN
+Center,TX,5133,Center TX
+Sandy Oaks,TX,5133,Sandy Oaks TX
+Madisonville,TN,5132,Madisonville TN
+Lawrenceburg,IN,5129,Lawrenceburg IN
+Monee,IL,5128,Monee IL
+Medina,TN,5126,Medina TN
+Buckley,WA,5114,Buckley WA
+Concordia ,KS,5111,Concordia  KS
+Ballston Spa,NY,5111,Ballston Spa NY
+Alvarado,TX,5111,Alvarado TX
+Margaret,AL,5106,Margaret AL
+Iowa Falls,IA,5106,Iowa Falls IA
+Jericho,VT,5104,Jericho VT
+Fort Meade,FL,5100,Fort Meade FL
+Lake Barrington,IL,5100,Lake Barrington IL
+Bar Harbor,ME,5098,Bar Harbor ME
+Milan,IL,5097,Milan IL
+Saint Clairsville,OH,5096,Saint Clairsville OH
+Lenox,MA,5095,Lenox MA
+Redwood Falls ,MN,5095,Redwood Falls  MN
+Port Isabel,TX,5094,Port Isabel TX
+Deerfield,MA,5090,Deerfield MA
+Muleshoe,TX,5090,Muleshoe TX
+Temple,GA,5089,Temple GA
+Goddard,KS,5084,Goddard KS
+Gretna,NE,5083,Gretna NE
+Ardsley,NY,5079,Ardsley NY
+Viroqua,WI,5079,Viroqua WI
+Breckenridge,CO,5078,Breckenridge CO
+South Barrington,IL,5077,South Barrington IL
+Norway,ME,5077,Norway ME
+Highwood,IL,5074,Highwood IL
+Glenwood,IA,5073,Glenwood IA
+Palmetto,GA,5071,Palmetto GA
+Giddings,TX,5067,Giddings TX
+Pinckneyville,IL,5066,Pinckneyville IL
+Manchester,IA,5065,Manchester IA
+Marksville,LA,5065,Marksville LA
+Sulphur ,OK,5065,Sulphur  OK
+Sea Cliff,NY,5062,Sea Cliff NY
+Savannah ,MO,5057,Savannah  MO
+Penn Yan,NY,5056,Penn Yan NY
+Staunton,IL,5054,Staunton IL
+Desloge,MO,5054,Desloge MO
+Winona Lake,IN,5053,Winona Lake IN
+Poplar Grove,IL,5049,Poplar Grove IL
+Kenneth City,FL,5047,Kenneth City FL
+Big Bear Lake,CA,5046,Big Bear Lake CA
+Canterbury,CT,5045,Canterbury CT
+Colona,IL,5045,Colona IL
+Sabattus,ME,5044,Sabattus ME
+Munroe Falls,OH,5044,Munroe Falls OH
+Cheraw,SC,5040,Cheraw SC
+Rigby ,ID,5038,Rigby  ID
+Forest Hills,TN,5038,Forest Hills TN
+Terrell Hills,TX,5037,Terrell Hills TX
+Brady,TX,5032,Brady TX
+Harpswell,ME,5031,Harpswell ME
+Justin,TX,5031,Justin TX
+Alva ,OK,5028,Alva  OK
+Lakeport,CA,5026,Lakeport CA
+Cochran ,GA,5026,Cochran  GA
+Berlin,MD,5026,Berlin MD
+Dellwood,MO,5025,Dellwood MO
+Jackson,CA,5019,Jackson CA
+Senoia,GA,5016,Senoia GA
+Sergeant Bluff,IA,5015,Sergeant Bluff IA
+Fairfax,VT,5014,Fairfax VT
+Evansville,WI,5012,Evansville WI
+Normandy,MO,5008,Normandy MO
+Edgewater,CO,5005,Edgewater CO
+Circle Pines,MN,5005,Circle Pines MN
+Paxton,MA,5004,Paxton MA
+Smithville,TN,5004,Smithville TN
+Sonora,CA,5003,Sonora CA
+Columbus,WI,4991,Columbus WI
+Whitehouse,OH,4990,Whitehouse OH
+Willits,CA,4988,Willits CA
+Hudson,TX,4986,Hudson TX
+Brielle,NJ,4982,Brielle NJ
+Demarest,NJ,4981,Demarest NJ
+Mendham Borough,NJ,4981,Mendham Borough NJ
+Wenham,MA,4979,Wenham MA
+North Berwick,ME,4978,North Berwick ME
+Warren,MA,4975,Warren MA
+Nashville ,GA,4974,Nashville  GA
+Headland,AL,4973,Headland AL
+Becker,MN,4970,Becker MN
+Odenville,AL,4969,Odenville AL
+LaBelle,FL,4966,LaBelle FL
+Hampden,MA,4966,Hampden MA
+Aberdeen,MS,4961,Aberdeen MS
+Lindstrom,MN,4956,Lindstrom MN
+Salem ,MO,4950,Salem  MO
+Mineola,TX,4949,Mineola TX
+Bucksport,ME,4944,Bucksport ME
+Middletown,MD,4943,Middletown MD
+Baxley ,GA,4942,Baxley  GA
+Port Allen,LA,4939,Port Allen LA
+Vinton,IA,4938,Vinton IA
+Creve Coeur,IL,4934,Creve Coeur IL
+Luverne ,MN,4934,Luverne  MN
+Needles,CA,4931,Needles CA
+Island Park,NY,4928,Island Park NY
+Rio Communities,NM,4926,Rio Communities NM
+Shenandoah,IA,4925,Shenandoah IA
+Sparta,TN,4925,Sparta TN
+Bisbee,AZ,4923,Bisbee AZ
+New Castle,CO,4923,New Castle CO
+Saltillo,MS,4922,Saltillo MS
+Sheridan,AK,4920,Sheridan AK
+Sheridan,AR,4920,Sheridan AR
+Moultonborough,NH,4918,Moultonborough NH
+Elko New Market,MN,4917,Elko New Market MN
+Greenwich Township,NJ,4917,Greenwich Township NJ
+Colville,WA,4917,Colville WA
+Hoopeston,IL,4915,Hoopeston IL
+Barnstead,NH,4915,Barnstead NH
+Franklin Borough,NJ,4912,Franklin Borough NJ
+Silverton,OH,4908,Silverton OH
+Progreso,TX,4904,Progreso TX
+Carthage,MS,4901,Carthage MS
+Wauchula,FL,4900,Wauchula FL
+Palos Park,IL,4899,Palos Park IL
+Chittenango,NY,4896,Chittenango NY
+Gilmer,TX,4894,Gilmer TX
+Harlan,IA,4893,Harlan IA
+Hampton Township,NJ,4893,Hampton Township NJ
+Cave Creek,AZ,4892,Cave Creek AZ
+Spring Lake Heights,NJ,4890,Spring Lake Heights NJ
+Saranac Lake,NY,4887,Saranac Lake NY
+Fairfield,IL,4883,Fairfield IL
+Princeton,MN,4883,Princeton MN
+Adairsville,GA,4878,Adairsville GA
+Ogallala,NE,4878,Ogallala NE
+Flemington,NJ,4876,Flemington NJ
+Abbeville,SC,4874,Abbeville SC
+Medical Lake,WA,4874,Medical Lake WA
+Glendive,MT,4873,Glendive MT
+Northfield,NH,4872,Northfield NH
+Daleville,AL,4866,Daleville AL
+Carmi,IL,4865,Carmi IL
+Warren,ME,4865,Warren ME
+South Bound Brook,NJ,4863,South Bound Brook NJ
+Winnsboro,LA,4862,Winnsboro LA
+Crystal Springs,MS,4862,Crystal Springs MS
+South Bay,FL,4860,South Bay FL
+Omak,WA,4860,Omak WA
+Keyser ,WV,4860,Keyser  WV
+Holbrook,AZ,4858,Holbrook AZ
+Manitou Springs,CO,4858,Manitou Springs CO
+Bolton,CT,4858,Bolton CT
+Crystal City,MO,4855,Crystal City MO
+Deerfield,NH,4855,Deerfield NH
+Lincoln,ME,4853,Lincoln ME
+Brisbane,CA,4851,Brisbane CA
+Boylston,MA,4849,Boylston MA
+Denton,MD,4848,Denton MD
+Lexington,OH,4848,Lexington OH
+Winfield,AL,4845,Winfield AL
+Marseilles,IL,4845,Marseilles IL
+Columbia,KY,4845,Columbia KY
+Georgia,VT,4845,Georgia VT
+Penns Grove,NJ,4837,Penns Grove NJ
+Vail,CO,4835,Vail CO
+Fellsmere,FL,4834,Fellsmere FL
+Epsom,NH,4834,Epsom NH
+Carrizo Springs,TX,4833,Carrizo Springs TX
+Rockingham,VT,4832,Rockingham VT
+Waynesville ,MO,4830,Waynesville  MO
+Delanco Township,NJ,4824,Delanco Township NJ
+Crossett,AK,4822,Crossett AK
+Crossett,AR,4822,Crossett AR
+Oakwood,GA,4822,Oakwood GA
+Newton,NH,4820,Newton NH
+Wahoo,NE,4818,Wahoo NE
+Windom ,MN,4816,Windom  MN
+Tisbury,MA,4815,Tisbury MA
+Whiting,IN,4814,Whiting IN
+Jeanerette,LA,4813,Jeanerette LA
+Waterloo,NY,4810,Waterloo NY
+Lonsdale,MN,4809,Lonsdale MN
+Alexandria Township,NJ,4809,Alexandria Township NJ
+Charlestown,NH,4806,Charlestown NH
+Flora,IL,4803,Flora IL
+Watertown,MN,4803,Watertown MN
+Springhill,LA,4801,Springhill LA
+Wellington,OH,4799,Wellington OH
+West Salem,WI,4799,West Salem WI
+Higginsville,MO,4797,Higginsville MO
+Flower Hill,NY,4794,Flower Hill NY
+Humboldt,IA,4792,Humboldt IA
+Post,TX,4791,Post TX
+Ottawa Hills,OH,4790,Ottawa Hills OH
+Mountain Grove,MO,4789,Mountain Grove MO
+Preston,CT,4788,Preston CT
+Piedmont,AL,4787,Piedmont AL
+Falfurrias,TX,4787,Falfurrias TX
+Springville,AL,4786,Springville AL
+Shelley,ID,4785,Shelley ID
+Fortville,IN,4784,Fortville IN
+Barling,AK,4782,Barling AK
+Barling,AR,4782,Barling AR
+Mead,CO,4781,Mead CO
+Westlake,LA,4781,Westlake LA
+Cherokee Village,AK,4780,Cherokee Village AK
+Cherokee Village,AR,4780,Cherokee Village AR
+Avon,MA,4777,Avon MA
+Coldwater,OH,4774,Coldwater OH
+Randolph,VT,4774,Randolph VT
+Worland,WY,4773,Worland WY
+Arnold,PA,4772,Arnold PA
+Blythewood,SC,4772,Blythewood SC
+Berwick,LA,4771,Berwick LA
+Point Pleasant Beach,NJ,4766,Point Pleasant Beach NJ
+Paradise,CA,4764,Paradise CA
+Tallassee,AL,4763,Tallassee AL
+Northvale,NJ,4761,Northvale NJ
+East Palestine,OH,4761,East Palestine OH
+Richwood,TX,4761,Richwood TX
+Indian Wells,CA,4757,Indian Wells CA
+Benton,KY,4756,Benton KY
+Childersburg,AL,4754,Childersburg AL
+Valparaiso,FL,4752,Valparaiso FL
+Oak Park Heights,MN,4750,Oak Park Heights MN
+Jackson,AL,4748,Jackson AL
+Breckenridge Hills,MO,4746,Breckenridge Hills MO
+Hollis,ME,4745,Hollis ME
+Harrington Park,NJ,4741,Harrington Park NJ
+Fremont,NH,4739,Fremont NH
+North Brookfield,MA,4735,North Brookfield MA
+Grayson,GA,4730,Grayson GA
+Rockmart,GA,4730,Rockmart GA
+Centreville,MD,4727,Centreville MD
+St James ,MN,4727,St James  MN
+Madison,ME,4726,Madison ME
+Lexington ,MO,4726,Lexington  MO
+St Clair,MO,4724,St Clair MO
+Chisholm,MN,4723,Chisholm MN
+Olympia Fields,IL,4718,Olympia Fields IL
+Pendleton,IN,4717,Pendleton IN
+Mansfield,LA,4714,Mansfield LA
+Beecher,IL,4713,Beecher IL
+Morgans Point Resort,TX,4713,Morgans Point Resort TX
+Le Claire,IA,4710,Le Claire IA
+Allenstown,NH,4707,Allenstown NH
+Argyle,TX,4707,Argyle TX
+Fox River Grove,IL,4702,Fox River Grove IL
+Liberty,NY,4700,Liberty NY
+Hinesburg,VT,4698,Hinesburg VT
+Dodgeville,WI,4698,Dodgeville WI
+West Milton,OH,4697,West Milton OH
+Black Diamond,WA,4697,Black Diamond WA
+Bremen,IN,4696,Bremen IN
+Lebanon,IL,4691,Lebanon IL
+Platte City ,MO,4691,Platte City  MO
+Elk Ridge,UT,4687,Elk Ridge UT
+Hurstbourne,KY,4683,Hurstbourne KY
+Kanab,UT,4683,Kanab UT
+Watseka,IL,4679,Watseka IL
+Aurora,NE,4678,Aurora NE
+Shelbyville,IL,4674,Shelbyville IL
+Lake Worth,TX,4674,Lake Worth TX
+Sherman,IL,4673,Sherman IL
+Meadows Place,TX,4671,Meadows Place TX
+Commercial Township,NJ,4669,Commercial Township NJ
+Manlius,NY,4662,Manlius NY
+Hamilton,MT,4659,Hamilton MT
+Ellisville,MS,4652,Ellisville MS
+Barnwell,SC,4652,Barnwell SC
+Mount Ephraim,NJ,4651,Mount Ephraim NJ
+Pilot Point,TX,4651,Pilot Point TX
+Grafton ,WV,4651,Grafton  WV
+Glenburn,ME,4648,Glenburn ME
+Sidney,ME,4645,Sidney ME
+Breese,IL,4641,Breese IL
+Northwood,NH,4641,Northwood NH
+Elberton ,GA,4640,Elberton  GA
+Sheridan,OR,4639,Sheridan OR
+Whiteville,TN,4638,Whiteville TN
+Tuscola,IL,4636,Tuscola IL
+Rock Hill,MO,4635,Rock Hill MO
+Dilworth,MN,4634,Dilworth MN
+Robbins,IL,4629,Robbins IL
+Kimberly,ID,4626,Kimberly ID
+Neptune City,NJ,4626,Neptune City NJ
+Highlands,NJ,4621,Highlands NJ
+Jay,ME,4620,Jay ME
+Clinton,IN,4618,Clinton IN
+South Tucson,AZ,4613,South Tucson AZ
+Glendale,CO,4613,Glendale CO
+Nelsonville,OH,4612,Nelsonville OH
+Peculiar,MO,4608,Peculiar MO
+Wapato,WA,4607,Wapato WA
+White Township,NJ,4606,White Township NJ
+Little Falls,NY,4605,Little Falls NY
+Whiteland,IN,4599,Whiteland IN
+Sauk Centre,MN,4599,Sauk Centre MN
+Prospect,KY,4592,Prospect KY
+Rockford,MN,4592,Rockford MN
+Wellsville,NY,4587,Wellsville NY
+La Joya,TX,4587,La Joya TX
+Haverhill,NH,4585,Haverhill NH
+Freeburg,IL,4582,Freeburg IL
+New Boston,TX,4579,New Boston TX
+Derby,VT,4579,Derby VT
+Stone Park,IL,4576,Stone Park IL
+Mount Vernon ,MO,4575,Mount Vernon  MO
+Auburn,IL,4574,Auburn IL
+Florence,MS,4572,Florence MS
+Camanche,IA,4570,Camanche IA
+American Falls ,ID,4568,American Falls  ID
+Waynesboro,MS,4567,Waynesboro MS
+Eldon,MO,4567,Eldon MO
+Winchester,IN,4566,Winchester IN
+Scott City,MO,4565,Scott City MO
+Josephine,TX,4565,Josephine TX
+Madisonville,TX,4565,Madisonville TX
+Leonardtown,MD,4563,Leonardtown MD
+Mabank,TX,4562,Mabank TX
+Evansdale,IA,4561,Evansdale IA
+Mount Pleasant,TN,4561,Mount Pleasant TN
+Delaware Township,NJ,4560,Delaware Township NJ
+Clintonville,WI,4559,Clintonville WI
+Buhl,ID,4558,Buhl ID
+Newton Falls,OH,4557,Newton Falls OH
+Canastota,NY,4556,Canastota NY
+Menands,NY,4554,Menands NY
+Southampton,NY,4550,Southampton NY
+New Roads,LA,4549,New Roads LA
+Fulton,MS,4542,Fulton MS
+Brookfield,MO,4542,Brookfield MO
+Haughton,LA,4539,Haughton LA
+North Hampton,NH,4538,North Hampton NH
+Nowthen,MN,4537,Nowthen MN
+Raymond,ME,4536,Raymond ME
+Lamar ,MO,4532,Lamar  MO
+Hearne,TX,4531,Hearne TX
+Ashville,OH,4529,Ashville OH
+Oak Hill,TN,4529,Oak Hill TN
+Hallsville,TX,4528,Hallsville TX
+Mount Vernon,IA,4527,Mount Vernon IA
+Lyman,ME,4525,Lyman ME
+Crestline,OH,4525,Crestline OH
+Seat Pleasant,MD,4522,Seat Pleasant MD
+Vassalboro,ME,4520,Vassalboro ME
+Lee,NH,4520,Lee NH
+Dardanelle,AK,4517,Dardanelle AK
+Dardanelle,AR,4517,Dardanelle AR
+Archbold,OH,4516,Archbold OH
+Oconto,WI,4513,Oconto WI
+Tiffin,IA,4512,Tiffin IA
+West Wendover,NV,4512,West Wendover NV
+GrantValkaria,FL,4509,GrantValkaria FL
+Montebello,NY,4507,Montebello NY
+Winona,MS,4505,Winona MS
+Cornelia,GA,4503,Cornelia GA
+Buena,NJ,4501,Buena NJ
+West Newbury,MA,4500,West Newbury MA
+Greenville,KY,4492,Greenville KY
+Shannon Hills,AK,4490,Shannon Hills AK
+Shannon Hills,AR,4490,Shannon Hills AR
+Brentwood,NH,4490,Brentwood NH
+Horseshoe Bay,TX,4490,Horseshoe Bay TX
+Manchester,VT,4484,Manchester VT
+Milton,NH,4482,Milton NH
+Dyersville,IA,4477,Dyersville IA
+Phoenix,OR,4475,Phoenix OR
+Tulia,TX,4474,Tulia TX
+Mountain Lakes,NJ,4472,Mountain Lakes NJ
+Hartwell ,GA,4470,Hartwell  GA
+Foster,RI,4469,Foster RI
+Enfield,NH,4465,Enfield NH
+Folkston ,GA,4464,Folkston  GA
+Tiptonville,TN,4464,Tiptonville TN
+Columbiana,AL,4462,Columbiana AL
+Castleton,VT,4458,Castleton VT
+Portola Valley,CA,4456,Portola Valley CA
+Ottawa,OH,4456,Ottawa OH
+Garwood,NJ,4454,Garwood NJ
+Georgetown,OH,4453,Georgetown OH
+Paxton,IL,4450,Paxton IL
+Granite Falls,WA,4450,Granite Falls WA
+Diboll,TX,4449,Diboll TX
+Madison ,GA,4447,Madison  GA
+Hokes Bluff,AL,4446,Hokes Bluff AL
+Summerville ,GA,4435,Summerville  GA
+Edinburgh,IN,4435,Edinburgh IN
+New Lexington,OH,4435,New Lexington OH
+Dansville,NY,4433,Dansville NY
+Hollister,MO,4426,Hollister MO
+Clarkdale,AZ,4424,Clarkdale AZ
+Elk Township,NJ,4424,Elk Township NJ
+Lafayette,OR,4423,Lafayette OR
+La Grange,TX,4423,La Grange TX
+Mauston,WI,4423,Mauston WI
+DoverFoxcroft,ME,4422,DoverFoxcroft ME
+Rogersville,TN,4420,Rogersville TN
+Palacios,TX,4418,Palacios TX
+Deep River,CT,4415,Deep River CT
+Buffalo,WY,4415,Buffalo WY
+Dawson ,GA,4414,Dawson  GA
+Atlantic Highlands,NJ,4414,Atlantic Highlands NJ
+Sullivan,IL,4413,Sullivan IL
+Ligonier,IN,4411,Ligonier IN
+Ste Genevieve ,MO,4410,Ste Genevieve  MO
+Devine,TX,4410,Devine TX
+China,ME,4408,China ME
+Danville,NH,4408,Danville NH
+Silverthorne,CO,4402,Silverthorne CO
+Sherborn,MA,4401,Sherborn MA
+Caseyville,IL,4400,Caseyville IL
+New London,NH,4400,New London NH
+Rio Bravo,TX,4400,Rio Bravo TX
+Cortland,IL,4398,Cortland IL
+Egg Harbor City,NJ,4396,Egg Harbor City NJ
+Selmer,TN,4396,Selmer TN
+Eagar,AZ,4395,Eagar AZ
+Perryville,MD,4391,Perryville MD
+Hopewell Township,NJ,4391,Hopewell Township NJ
+Colorado City,TX,4391,Colorado City TX
+Denver City,TX,4390,Denver City TX
+Harrogate,TN,4389,Harrogate TN
+Wood Village,OR,4387,Wood Village OR
+Ludlow,KY,4385,Ludlow KY
+Forsyth ,GA,4384,Forsyth  GA
+Deer Park,WA,4383,Deer Park WA
+Boonton Township,NJ,4380,Boonton Township NJ
+Wayzata,MN,4378,Wayzata MN
+Greene,ME,4376,Greene ME
+Pittsburg,TX,4374,Pittsburg TX
+Waverly,NY,4373,Waverly NY
+Ossipee,NH,4372,Ossipee NH
+Argo,AL,4368,Argo AL
+Adamsville,AL,4366,Adamsville AL
+Haleyville,AL,4361,Haleyville AL
+Estacada,OR,4356,Estacada OR
+Mathis,TX,4354,Mathis TX
+La Verkin,UT,4354,La Verkin UT
+Kaplan,LA,4352,Kaplan LA
+Magnolia,NJ,4352,Magnolia NJ
+Osage Beach,MO,4351,Osage Beach MO
+Ovilla,TX,4349,Ovilla TX
+Mount Orab,OH,4347,Mount Orab OH
+Isle of Palms,SC,4347,Isle of Palms SC
+Hometown,IL,4343,Hometown IL
+St Robert,MO,4340,St Robert MO
+Greendale,IN,4339,Greendale IN
+Greenfield,OH,4339,Greenfield OH
+Hampton,IA,4337,Hampton IA
+Wadena ,MN,4335,Wadena  MN
+Belton,SC,4335,Belton SC
+Garden Ridge,TX,4335,Garden Ridge TX
+Lincoln,ND,4334,Lincoln ND
+Hubbardston,MA,4328,Hubbardston MA
+Newport,MN,4328,Newport MN
+DeweyHumboldt,AZ,4326,DeweyHumboldt AZ
+Moxee,WA,4326,Moxee WA
+Medford,WI,4326,Medford WI
+Crescent Springs,KY,4319,Crescent Springs KY
+Sykesville,MD,4316,Sykesville MD
+Hunters Creek Village,TX,4314,Hunters Creek Village TX
+Paintsville,KY,4312,Paintsville KY
+Canton,TX,4312,Canton TX
+Reedsport,OR,4310,Reedsport OR
+Anna,IL,4303,Anna IL
+Tontitown,AK,4301,Tontitown AK
+Tontitown,AR,4301,Tontitown AR
+Le Roy,NY,4300,Le Roy NY
+Chatsworth ,GA,4299,Chatsworth  GA
+Scottsville,KY,4299,Scottsville KY
+Highland Beach,FL,4295,Highland Beach FL
+Pocomoke City,MD,4295,Pocomoke City MD
+Ashburn ,GA,4291,Ashburn  GA
+Barboursville,WV,4291,Barboursville WV
+Old Westbury,NY,4289,Old Westbury NY
+Vilonia,AK,4288,Vilonia AK
+Vilonia,AR,4288,Vilonia AR
+Indian Rocks Beach,FL,4286,Indian Rocks Beach FL
+Fayette,AL,4285,Fayette AL
+Forest City,IA,4285,Forest City IA
+Lakewood,IL,4283,Lakewood IL
+Bradley Beach,NJ,4282,Bradley Beach NJ
+Southside,AK,4279,Southside AK
+Southside,AR,4279,Southside AR
+Waverly,NE,4279,Waverly NE
+California ,MO,4278,California  MO
+Coopertown,TN,4278,Coopertown TN
+Crandall,TX,4278,Crandall TX
+Lonoke,AK,4276,Lonoke AK
+Lonoke,AR,4276,Lonoke AR
+Malden,MO,4275,Malden MO
+Belleair,FL,4273,Belleair FL
+Wiggins,MS,4272,Wiggins MS
+Mitchell,IN,4269,Mitchell IN
+Euharlee,GA,4268,Euharlee GA
+Pomfret,CT,4266,Pomfret CT
+Arundel,ME,4264,Arundel ME
+Medford Lakes,NJ,4264,Medford Lakes NJ
+Westville,NJ,4264,Westville NJ
+Trenton,TN,4264,Trenton TN
+West Peoria,IL,4263,West Peoria IL
+Berne,IN,4262,Berne IN
+Ashdown,AK,4261,Ashdown AK
+Ashdown,AR,4261,Ashdown AR
+HoHoKus,NJ,4258,HoHoKus NJ
+Farrell,PA,4258,Farrell PA
+Prescott,WI,4258,Prescott WI
+Cedarville,OH,4257,Cedarville OH
+Monte Vista,CO,4247,Monte Vista CO
+Geneva,AL,4245,Geneva AL
+Huxley,IA,4244,Huxley IA
+Indian River Shores,FL,4241,Indian River Shores FL
+Lyons ,GA,4239,Lyons  GA
+Cannon Falls,MN,4237,Cannon Falls MN
+Jonesboro ,GA,4235,Jonesboro  GA
+Comanche,TX,4235,Comanche TX
+Aumsville,OR,4234,Aumsville OR
+Centreville,IL,4232,Centreville IL
+Columbus,MN,4231,Columbus MN
+Strafford,NH,4230,Strafford NH
+Oxford,ME,4229,Oxford ME
+Northwoods,MO,4227,Northwoods MO
+Fayetteville,NY,4225,Fayetteville NY
+Springville,NY,4225,Springville NY
+Blanchester,OH,4224,Blanchester OH
+Chelan,WA,4222,Chelan WA
+Butler ,MO,4219,Butler  MO
+Middlefield,CT,4217,Middlefield CT
+Spring Valley Village,TX,4217,Spring Valley Village TX
+Whitesboro,TX,4217,Whitesboro TX
+St James,MO,4216,St James MO
+Salem,CT,4213,Salem CT
+Woodruff,SC,4212,Woodruff SC
+Jacksboro,TX,4209,Jacksboro TX
+North Kansas City,MO,4208,North Kansas City MO
+Pittsfield,IL,4206,Pittsfield IL
+McLendonChisholm,TX,4206,McLendonChisholm TX
+Cold Spring,MN,4205,Cold Spring MN
+Lisbon,CT,4195,Lisbon CT
+Salisbury,CT,4194,Salisbury CT
+Chariton,IA,4193,Chariton IA
+Ashford,CT,4191,Ashford CT
+Sebring,OH,4191,Sebring OH
+Valley Grande,AL,4190,Valley Grande AL
+Chagrin Falls,OH,4188,Chagrin Falls OH
+Shrewsbury Borough,NJ,4184,Shrewsbury Borough NJ
+Pilesgrove Township,NJ,4183,Pilesgrove Township NJ
+Jefferson,IA,4182,Jefferson IA
+Church Point,LA,4179,Church Point LA
+Le Sueur,MN,4178,Le Sueur MN
+Durham,ME,4173,Durham ME
+Cobleskill,NY,4173,Cobleskill NY
+DeMotte,IN,4168,DeMotte IN
+Ellenville,NY,4167,Ellenville NY
+Dimmitt,TX,4167,Dimmitt TX
+Richmond,VT,4167,Richmond VT
+Waverly,OH,4165,Waverly OH
+Lawrenceville,IL,4164,Lawrenceville IL
+Carlisle,IA,4160,Carlisle IA
+Pipestone ,MN,4160,Pipestone  MN
+Monongahela,PA,4159,Monongahela PA
+Jena,LA,4155,Jena LA
+Surfside Beach,SC,4155,Surfside Beach SC
+Nashville,AK,4153,Nashville AK
+Nashville,AR,4153,Nashville AR
+Winnfield,LA,4153,Winnfield LA
+Peotone,IL,4150,Peotone IL
+Winchester,NH,4150,Winchester NH
+Pleasant View,TN,4149,Pleasant View TN
+Friona,TX,4144,Friona TX
+Lambertville,NJ,4139,Lambertville NJ
+Grafton,ND,4139,Grafton ND
+Goodview,MN,4138,Goodview MN
+Montesano,WA,4138,Montesano WA
+West Jefferson,OH,4137,West Jefferson OH
+Sheffield,OH,4135,Sheffield OH
+Falls City,NE,4133,Falls City NE
+Brandon,VT,4129,Brandon VT
+Green Oaks,IL,4128,Green Oaks IL
+Jourdanton,TX,4127,Jourdanton TX
+Park Rapids ,MN,4122,Park Rapids  MN
+Barrington Hills,IL,4114,Barrington Hills IL
+Millinocket,ME,4114,Millinocket ME
+Cayuga Heights,NY,4114,Cayuga Heights NY
+Caldwell,TX,4109,Caldwell TX
+Bellville,TX,4108,Bellville TX
+Riverdale,NJ,4107,Riverdale NJ
+Hamilton,NY,4107,Hamilton NY
+Jonesboro,LA,4106,Jonesboro LA
+Waverly,TN,4105,Waverly TN
+Rice Lake,MN,4101,Rice Lake MN
+Sparta,IL,4095,Sparta IL
+Austin,IN,4094,Austin IN
+Kildeer,IL,4091,Kildeer IL
+Sullivan,IN,4089,Sullivan IN
+Hazlehurst ,GA,4088,Hazlehurst  GA
+Morrison,IL,4085,Morrison IL
+North East,MD,4085,North East MD
+Jasper ,GA,4084,Jasper  GA
+Pittsfield,NH,4075,Pittsfield NH
+Westover,WV,4075,Westover WV
+North Yarmouth,ME,4072,North Yarmouth ME
+Walhalla,SC,4072,Walhalla SC
+Millstadt,IL,4071,Millstadt IL
+Morgan,UT,4071,Morgan UT
+St Bernard,OH,4070,St Bernard OH
+Fort Kent,ME,4067,Fort Kent ME
+Greenland,NH,4067,Greenland NH
+Monmouth,ME,4066,Monmouth ME
+Indian Head Park,IL,4065,Indian Head Park IL
+Plain City,OH,4065,Plain City OH
+Brookland,AK,4064,Brookland AK
+Brookland,AR,4064,Brookland AR
+Quitman ,GA,4064,Quitman  GA
+Woodson Terrace,MO,4063,Woodson Terrace MO
+Weston Lakes,TX,4061,Weston Lakes TX
+Wellsville,UT,4060,Wellsville UT
+Rock Valley,IA,4059,Rock Valley IA
+Livingston,TN,4058,Livingston TN
+Capitol Heights,MD,4050,Capitol Heights MD
+Smithville,TX,4047,Smithville TX
+Burnham,IL,4046,Burnham IL
+Williamston,SC,4043,Williamston SC
+Duncan,SC,4041,Duncan SC
+Monticello,IA,4040,Monticello IA
+Mills,WY,4034,Mills WY
+Dwight,IL,4032,Dwight IL
+Point Pleasant ,WV,4031,Point Pleasant  WV
+PinetopLakeside,AZ,4030,PinetopLakeside AZ
+Vidalia,LA,4027,Vidalia LA
+Centralia,MO,4027,Centralia MO
+South Chicago Heights,IL,4026,South Chicago Heights IL
+Alfred,NY,4026,Alfred NY
+Mullins,SC,4026,Mullins SC
+Crittenden,KY,4023,Crittenden KY
+Fenton,MO,4022,Fenton MO
+Bosque Farms,NM,4020,Bosque Farms NM
+Mine Hill Township,NJ,4015,Mine Hill Township NJ
+Coquille ,OR,4015,Coquille  OR
+Candia,NH,4013,Candia NH
+Parker,FL,4010,Parker FL
+Barnesville,OH,4008,Barnesville OH
+Smithton,IL,4006,Smithton IL
+Amite City,LA,4005,Amite City LA
+Metter ,GA,4004,Metter  GA
+Stillwater Township,NJ,4004,Stillwater Township NJ
+Dumas,AK,4001,Dumas AK
+Dumas,AR,4001,Dumas AR
+Boscawen,NH,3998,Boscawen NH
+Dupo,IL,3996,Dupo IL
+Taylor,AZ,3995,Taylor AZ
+Bordentown City,NJ,3993,Bordentown City NJ
+Chester,NY,3993,Chester NY
+Jackson,LA,3990,Jackson LA
+St Charles,MN,3989,St Charles MN
+Leland,MS,3988,Leland MS
+Cozad,NE,3988,Cozad NE
+Mosinee,WI,3988,Mosinee WI
+Fredericktown ,MO,3985,Fredericktown  MO
+Huntingdon,TN,3985,Huntingdon TN
+Basalt,CO,3984,Basalt CO
+Mary Esther,FL,3982,Mary Esther FL
+Hawkinsville ,GA,3980,Hawkinsville  GA
+Rossville,GA,3980,Rossville GA
+Wonder Lake,IL,3973,Wonder Lake IL
+South Blooming Grove,NY,3973,South Blooming Grove NY
+South Russell,OH,3972,South Russell OH
+Fairbury,NE,3970,Fairbury NE
+Bluffton,OH,3967,Bluffton OH
+Grant,MN,3965,Grant MN
+Scandia,MN,3963,Scandia MN
+Tilton,NH,3962,Tilton NH
+Clayton,DE,3961,Clayton DE
+Ball,LA,3961,Ball LA
+Haskell,AK,3956,Haskell AK
+Haskell,AR,3956,Haskell AR
+Del Mar,CA,3954,Del Mar CA
+Dell Rapids,SD,3953,Dell Rapids SD
+Mulberry,FL,3952,Mulberry FL
+Rosemont,IL,3952,Rosemont IL
+Centerville,MN,3948,Centerville MN
+Hinsdale,NH,3948,Hinsdale NH
+Marshall,IL,3947,Marshall IL
+Castle Hills,TX,3947,Castle Hills TX
+Citronelle,AL,3946,Citronelle AL
+Gilmanton,NH,3945,Gilmanton NH
+Gatlinburg,TN,3944,Gatlinburg TN
+Montpelier,OH,3942,Montpelier OH
+Clifton,AZ,3933,Clifton AZ
+Chilton,WI,3933,Chilton WI
+Oaklyn,NJ,3930,Oaklyn NJ
+Naples,ME,3925,Naples ME
+Ely,NV,3924,Ely NV
+Rutland,VT,3924,Rutland VT
+Clyde,TX,3923,Clyde TX
+East Amwell Township,NJ,3917,East Amwell Township NJ
+Coleman,TX,3917,Coleman TX
+Elmira Heights,NY,3916,Elmira Heights NY
+Woodlawn,OH,3916,Woodlawn OH
+Pittsfield,ME,3908,Pittsfield ME
+Sullivan City,TX,3905,Sullivan City TX
+Metamora,IL,3904,Metamora IL
+Lancaster,KY,3899,Lancaster KY
+Vandalia,MO,3899,Vandalia MO
+Saugerties,NY,3899,Saugerties NY
+Swanton,OH,3897,Swanton OH
+Norwood Young America,MN,3896,Norwood Young America MN
+Wilton,NH,3896,Wilton NH
+Madeira Beach,FL,3895,Madeira Beach FL
+Williamstown,KY,3894,Williamstown KY
+Indian Head,MD,3894,Indian Head MD
+Limington,ME,3892,Limington ME
+Carrollton,KY,3890,Carrollton KY
+Weston ,WV,3890,Weston  WV
+Cresco,IA,3888,Cresco IA
+Bayport,MN,3885,Bayport MN
+Cisco,TX,3883,Cisco TX
+Richwood,LA,3881,Richwood LA
+Dillon,MT,3880,Dillon MT
+Manning,SC,3878,Manning SC
+Rocky Ford,CO,3876,Rocky Ford CO
+Coal Valley,IL,3873,Coal Valley IL
+Harding Township,NJ,3871,Harding Township NJ
+Bellaire,OH,3870,Bellaire OH
+Lewisburg ,WV,3868,Lewisburg  WV
+Lancaster,WI,3868,Lancaster WI
+Madawaska,ME,3867,Madawaska ME
+Laurel,DE,3865,Laurel DE
+Rochester,IL,3863,Rochester IL
+Wills Point,TX,3863,Wills Point TX
+Juno Beach,FL,3858,Juno Beach FL
+West Liberty,IA,3858,West Liberty IA
+McGehee,AK,3849,McGehee AK
+McGehee,AR,3849,McGehee AR
+Ravenswood,WV,3847,Ravenswood WV
+Cranbury,NJ,3842,Cranbury NJ
+Kimberly,AL,3841,Kimberly AL
+Montrose,MN,3841,Montrose MN
+Pine Island,MN,3841,Pine Island MN
+Amberley,OH,3840,Amberley OH
+Cambridge,VT,3839,Cambridge VT
+South Point,OH,3836,South Point OH
+Wilton,ME,3835,Wilton ME
+Glennville,GA,3834,Glennville GA
+Grayson,KY,3834,Grayson KY
+Deephaven,MN,3834,Deephaven MN
+Montgomery,NY,3834,Montgomery NY
+West Brookfield,MA,3833,West Brookfield MA
+Nash,TX,3831,Nash TX
+Hephzibah,GA,3830,Hephzibah GA
+Brentwood,MD,3828,Brentwood MD
+Boardman,OR,3828,Boardman OR
+Waukon,IA,3827,Waukon IA
+Pomona,NY,3824,Pomona NY
+Florence,CO,3822,Florence CO
+Upland,IN,3821,Upland IN
+Merchantville,NJ,3820,Merchantville NJ
+Bishop,CA,3819,Bishop CA
+Hardin,MT,3818,Hardin MT
+Winterport,ME,3817,Winterport ME
+Golf Manor,OH,3814,Golf Manor OH
+Orrington,ME,3812,Orrington ME
+Mogadore,OH,3811,Mogadore OH
+St Joseph,IL,3810,St Joseph IL
+Booneville,AK,3809,Booneville AK
+Booneville,AR,3809,Booneville AR
+Farmersville,TX,3808,Farmersville TX
+Georgetown,IN,3805,Georgetown IN
+Red Bud,IL,3804,Red Bud IL
+Dexter,ME,3803,Dexter ME
+Kingwood Township,NJ,3802,Kingwood Township NJ
+Boonsboro,MD,3799,Boonsboro MD
+Delmar,MD,3798,Delmar MD
+Houston,MS,3797,Houston MS
+Zumbrota,MN,3796,Zumbrota MN
+New Lebanon,OH,3796,New Lebanon OH
+Canaan,NH,3794,Canaan NH
+Montague Township,NJ,3792,Montague Township NJ
+Carter Lake,IA,3791,Carter Lake IA
+Gentry,AK,3790,Gentry AK
+Gentry,AR,3790,Gentry AR
+Riverwoods,IL,3790,Riverwoods IL
+Byron,IL,3784,Byron IL
+Carrollton ,MO,3784,Carrollton  MO
+Charlotte,VT,3783,Charlotte VT
+Bristol,VT,3782,Bristol VT
+Leakesville,MS,3775,Leakesville MS
+Sloan,NY,3775,Sloan NY
+Harrington,DE,3774,Harrington DE
+Wintersville,OH,3765,Wintersville OH
+Bunker Hill Village,TX,3761,Bunker Hill Village TX
+Edgecliff Village,TX,3761,Edgecliff Village TX
+Ridgeland,SC,3758,Ridgeland SC
+Hohenwald,TN,3757,Hohenwald TN
+Hebron,IN,3755,Hebron IN
+San Diego,TX,3755,San Diego TX
+Washington ,GA,3754,Washington  GA
+Oneida,TN,3752,Oneida TN
+Chester,CT,3749,Chester CT
+Bethlehem Township,NJ,3745,Bethlehem Township NJ
+Catskill,NY,3745,Catskill NY
+Russell,KY,3744,Russell KY
+South Glens Falls,NY,3744,South Glens Falls NY
+Eldorado,IL,3743,Eldorado IL
+Hanover,IN,3743,Hanover IN
+Wiscasset,ME,3742,Wiscasset ME
+Greenhills,OH,3741,Greenhills OH
+Kiel,WI,3738,Kiel WI
+Forsyth,IL,3734,Forsyth IL
+Richfield,OH,3729,Richfield OH
+Cotulla,TX,3725,Cotulla TX
+Albia,IA,3721,Albia IA
+Dawsonville ,GA,3720,Dawsonville  GA
+West Point,GA,3719,West Point GA
+Cockrell Hill,TX,3719,Cockrell Hill TX
+Camdenton ,MO,3718,Camdenton  MO
+Camden,DE,3715,Camden DE
+Wheatland,CA,3712,Wheatland CA
+Oglesby,IL,3712,Oglesby IL
+Morton,MS,3711,Morton MS
+Loxley,AL,3710,Loxley AL
+Gooding ,ID,3707,Gooding  ID
+Ashland,MO,3707,Ashland MO
+Emmetsburg,IA,3706,Emmetsburg IA
+Bullard,TX,3706,Bullard TX
+Newcomerstown,OH,3702,Newcomerstown OH
+San Joaquin,CA,3701,San Joaquin CA
+Independence,MN,3701,Independence MN
+Heyburn,ID,3700,Heyburn ID
+Aurora,IN,3698,Aurora IN
+Echols County,GA,3697,Echols County GA
+Long Prairie ,MN,3697,Long Prairie  MN
+Sidney,NY,3697,Sidney NY
+Yellow Springs,OH,3697,Yellow Springs OH
+Brimfield,MA,3694,Brimfield MA
+Chandler,IN,3693,Chandler IN
+Carefree,AZ,3690,Carefree AZ
+McCall,ID,3686,McCall ID
+Honea Path,SC,3686,Honea Path SC
+Umatilla,FL,3685,Umatilla FL
+Spencerport,NY,3685,Spencerport NY
+Highland Falls,NY,3684,Highland Falls NY
+Minerva,OH,3684,Minerva OH
+Manila,AK,3682,Manila AK
+Manila,AR,3682,Manila AR
+Pittsboro,IN,3682,Pittsboro IN
+Deer Park,IL,3681,Deer Park IL
+Prestonsburg,KY,3681,Prestonsburg KY
+Walthourville,GA,3680,Walthourville GA
+Woodstown,NJ,3678,Woodstown NJ
+Essex,MA,3675,Essex MA
+Erda,UT,3673,Erda UT
+West Gardiner,ME,3671,West Gardiner ME
+Angels Camp,CA,3667,Angels Camp CA
+Paoli,IN,3666,Paoli IN
+Anthony,TX,3665,Anthony TX
+Provincetown,MA,3664,Provincetown MA
+Sunderland,MA,3663,Sunderland MA
+Franklinton,LA,3662,Franklinton LA
+Chipley,FL,3660,Chipley FL
+Minoa,NY,3657,Minoa NY
+Mount Pleasant,UT,3655,Mount Pleasant UT
+Horicon,WI,3655,Horicon WI
+Owego,NY,3654,Owego NY
+Harrisburg,OR,3652,Harrisburg OR
+Thomasville,AL,3649,Thomasville AL
+Greensboro ,GA,3648,Greensboro  GA
+Southgate,KY,3648,Southgate KY
+Lansing,NY,3648,Lansing NY
+Barkhamsted,CT,3647,Barkhamsted CT
+Fulton,IL,3647,Fulton IL
+Washington,CT,3646,Washington CT
+Casco,ME,3646,Casco ME
+Warsaw,NY,3646,Warsaw NY
+Groesbeck,TX,3645,Groesbeck TX
+Rockport,ME,3644,Rockport ME
+Centerville,TN,3644,Centerville TN
+South Toms River,NJ,3643,South Toms River NJ
+Stanford,KY,3640,Stanford KY
+Aledo,IL,3633,Aledo IL
+Fairbury,IL,3633,Fairbury IL
+Walpole,NH,3633,Walpole NH
+Unicoi,TN,3632,Unicoi TN
+Baldwin,GA,3629,Baldwin GA
+Kennebunkport,ME,3629,Kennebunkport ME
+Osage,IA,3627,Osage IA
+Green Township,NJ,3627,Green Township NJ
+Kenedy,TX,3626,Kenedy TX
+LeoCedarville,IN,3624,LeoCedarville IN
+Granger,WA,3624,Granger WA
+Piggott,AK,3622,Piggott AK
+Piggott,AR,3622,Piggott AR
+Delta,UT,3622,Delta UT
+Black River Falls,WI,3622,Black River Falls WI
+Jasper,FL,3621,Jasper FL
+Two Harbors ,MN,3621,Two Harbors  MN
+North Wildwood,NJ,3621,North Wildwood NJ
+Eastland,TX,3621,Eastland TX
+Hazlehurst,MS,3619,Hazlehurst MS
+Mora ,MN,3617,Mora  MN
+Taylor Lake Village,TX,3617,Taylor Lake Village TX
+Little Compton,RI,3616,Little Compton RI
+Howe,TX,3615,Howe TX
+Whitesboro,NY,3612,Whitesboro NY
+Norwich,VT,3612,Norwich VT
+West Columbia,TX,3611,West Columbia TX
+Johnson,AK,3609,Johnson AK
+Johnson,AR,3609,Johnson AR
+Melrose,MN,3609,Melrose MN
+Norton,VA,3609,Norton VA
+Stanley,WI,3608,Stanley WI
+St Anthony ,ID,3606,St Anthony  ID
+Laguna Vista,TX,3605,Laguna Vista TX
+Oregon,IL,3604,Oregon IL
+Tolono,IL,3604,Tolono IL
+Elkins,AK,3602,Elkins AK
+Elkins,AR,3602,Elkins AR
+Eagle Grove,IA,3601,Eagle Grove IA
+Shaftsbury,VT,3598,Shaftsbury VT
+Palmyra ,MO,3595,Palmyra  MO
+Hanover,MN,3594,Hanover MN
+El Dorado Springs,MO,3593,El Dorado Springs MO
+Shenandoah,TX,3593,Shenandoah TX
+Beaver,UT,3592,Beaver UT
+Sweeny,TX,3591,Sweeny TX
+Wheatland,WY,3588,Wheatland WY
+Centre,AL,3587,Centre AL
+Lake Providence,LA,3587,Lake Providence LA
+Columbus,TX,3587,Columbus TX
+Litchfield,ME,3586,Litchfield ME
+Manchester,GA,3584,Manchester GA
+Camden,TN,3582,Camden TN
+ONeill,NE,3581,ONeill NE
+Ballinger,TX,3580,Ballinger TX
+Sterling,CT,3578,Sterling CT
+Tuckerton,NJ,3577,Tuckerton NJ
+Marianna,AK,3575,Marianna AK
+Marianna,AR,3575,Marianna AR
+St Augusta,MN,3574,St Augusta MN
+Perham,MN,3572,Perham MN
+Oakwood,OH,3572,Oakwood OH
+Harlem,GA,3571,Harlem GA
+Lloyd Harbor,NY,3571,Lloyd Harbor NY
+Shavano Park,TX,3569,Shavano Park TX
+Avondale Estates,GA,3567,Avondale Estates GA
+Islandia,NY,3567,Islandia NY
+Wellfleet,MA,3566,Wellfleet MA
+Carey,OH,3565,Carey OH
+Lake Clarke Shores,FL,3564,Lake Clarke Shores FL
+Lake View,AL,3560,Lake View AL
+Windsor,VT,3559,Windsor VT
+Ketchum,ID,3555,Ketchum ID
+West Tisbury,MA,3555,West Tisbury MA
+Paulding,OH,3555,Paulding OH
+Knox,IN,3552,Knox IN
+Chesterfield,NH,3552,Chesterfield NH
+Gravette,AK,3547,Gravette AK
+Gravette,AR,3547,Gravette AR
+Hainesville,IL,3546,Hainesville IL
+High Bridge,NJ,3546,High Bridge NJ
+Toledo,OR,3546,Toledo OR
+Ozark,AK,3542,Ozark AK
+Ozark,AR,3542,Ozark AR
+Northfield,OH,3541,Northfield OH
+Bloomer,WI,3539,Bloomer WI
+Blanchard,LA,3538,Blanchard LA
+Midway,FL,3537,Midway FL
+Silt,CO,3536,Silt CO
+Perry,NY,3536,Perry NY
+Riverton,IL,3532,Riverton IL
+Beaver Dam,KY,3531,Beaver Dam KY
+Sherman,CT,3527,Sherman CT
+Winnsboro,TX,3527,Winnsboro TX
+Stanhope,NJ,3526,Stanhope NJ
+Gouverneur,NY,3526,Gouverneur NY
+Richmond,ME,3522,Richmond ME
+Evergreen,AL,3520,Evergreen AL
+Mariemont,OH,3518,Mariemont OH
+Wadsworth,IL,3517,Wadsworth IL
+Omro,WI,3517,Omro WI
+Oakland,FL,3516,Oakland FL
+Williamstown,VT,3515,Williamstown VT
+Cleveland ,GA,3514,Cleveland  GA
+Lockland,OH,3514,Lockland OH
+Priceville,AL,3512,Priceville AL
+Le Roy,IL,3512,Le Roy IL
+Muttontown,NY,3512,Muttontown NY
+Gunnison,UT,3509,Gunnison UT
+Elba,AL,3508,Elba AL
+Pelham,GA,3507,Pelham GA
+Blackshear ,GA,3506,Blackshear  GA
+Broken Bow,NE,3506,Broken Bow NE
+Mount Gilead,OH,3503,Mount Gilead OH
+Peshtigo,WI,3502,Peshtigo WI
+Plainview,MN,3500,Plainview MN
+West Point,NE,3500,West Point NE
+Ocilla ,GA,3498,Ocilla  GA
+Princeton,MA,3495,Princeton MA
+Algood,TN,3495,Algood TN
+New Hampton,IA,3494,New Hampton IA
+Pleasant Valley,WV,3492,Pleasant Valley WV
+Johnson,VT,3491,Johnson VT
+Etowah,TN,3490,Etowah TN
+Pendleton,SC,3489,Pendleton SC
+Clifton,TX,3488,Clifton TX
+Hot Springs ,SD,3485,Hot Springs  SD
+Crane,TX,3484,Crane TX
+Eagle Lake,TX,3484,Eagle Lake TX
+Frontenac,MO,3482,Frontenac MO
+Myrtle Creek,OR,3481,Myrtle Creek OR
+Leesburg ,GA,3480,Leesburg  GA
+Monte Sereno,CA,3479,Monte Sereno CA
+Benton City,WA,3479,Benton City WA
+Gothenburg,NE,3478,Gothenburg NE
+Gibson City,IL,3475,Gibson City IL
+Milbank ,SD,3474,Milbank  SD
+Highgate,VT,3472,Highgate VT
+Auburn,NE,3470,Auburn NE
+Herculaneum,MO,3468,Herculaneum MO
+Middlebury,IN,3466,Middlebury IN
+Moreland Hills,OH,3466,Moreland Hills OH
+Eveleth,MN,3461,Eveleth MN
+Austin,AK,3460,Austin AK
+Austin,AR,3460,Austin AR
+Avalon,CA,3460,Avalon CA
+Reno,TX,3460,Reno TX
+Yuma,CO,3456,Yuma CO
+Shadyside,OH,3454,Shadyside OH
+Goldendale,WA,3453,Goldendale WA
+Seymour,WI,3451,Seymour WI
+Wrightsville ,GA,3449,Wrightsville  GA
+Teague,TX,3447,Teague TX
+Princess Anne,MD,3446,Princess Anne MD
+Hartland,VT,3446,Hartland VT
+North Plains,OR,3441,North Plains OR
+Brookfield,MA,3439,Brookfield MA
+Elma,WA,3438,Elma WA
+Livingston,AL,3436,Livingston AL
+Yountville,CA,3436,Yountville CA
+Gray ,GA,3436,Gray  GA
+Iowa,LA,3436,Iowa LA
+Madison,OH,3435,Madison OH
+Alma ,GA,3433,Alma  GA
+Dublin,TX,3433,Dublin TX
+West Orange,TX,3433,West Orange TX
+Upper Pittsgrove Township,NJ,3432,Upper Pittsgrove Township NJ
+Heflin,AL,3431,Heflin AL
+Hicksville,OH,3431,Hicksville OH
+Manti,UT,3429,Manti UT
+New Baden,IL,3428,New Baden IL
+Sleepy Eye,MN,3428,Sleepy Eye MN
+Hubbard,OR,3426,Hubbard OR
+La Center,WA,3424,La Center WA
+Barron,WI,3423,Barron WI
+Orange,OH,3421,Orange OH
+Parker,AZ,3417,Parker AZ
+St Johns,AZ,3417,St Johns AZ
+Ringgold ,GA,3414,Ringgold  GA
+Cleves,OH,3414,Cleves OH
+Ladysmith,WI,3414,Ladysmith WI
+Germantown Hills,IL,3412,Germantown Hills IL
+Summersville ,WV,3408,Summersville  WV
+Grantham,NH,3404,Grantham NH
+Vinton,LA,3400,Vinton LA
+Chandler,TX,3400,Chandler TX
+Avon,NY,3399,Avon NY
+Moulton,AL,3398,Moulton AL
+Breckenridge ,MN,3398,Breckenridge  MN
+Tomahawk,WI,3397,Tomahawk WI
+Fordyce,AK,3396,Fordyce AK
+Fordyce,AR,3396,Fordyce AR
+Crystal River,FL,3396,Crystal River FL
+South Harrison Township,NJ,3395,South Harrison Township NJ
+Blanding,UT,3394,Blanding UT
+Mt Angel,OR,3392,Mt Angel OR
+Pickens,SC,3388,Pickens SC
+Waldron,AK,3386,Waldron AK
+Waldron,AR,3386,Waldron AR
+Alexander,AK,3385,Alexander AK
+Alexander,AR,3385,Alexander AR
+Bethlehem,CT,3385,Bethlehem CT
+Union City,IN,3385,Union City IN
+Hahira,GA,3384,Hahira GA
+Johnston City,IL,3384,Johnston City IL
+Water Valley,MS,3380,Water Valley MS
+Rio Dell,CA,3379,Rio Dell CA
+Benson ,MN,3379,Benson  MN
+Montgomery,MN,3379,Montgomery MN
+Hartford,SD,3376,Hartford SD
+Netcong,NJ,3375,Netcong NJ
+Newcastle,WY,3374,Newcastle WY
+Saddle River,NJ,3372,Saddle River NJ
+Clinton,ME,3370,Clinton ME
+Annandale,MN,3370,Annandale MN
+Fryeburg,ME,3369,Fryeburg ME
+North Baltimore,OH,3369,North Baltimore OH
+Farmerville,LA,3366,Farmerville LA
+Liberty,SC,3366,Liberty SC
+Ponce Inlet,FL,3364,Ponce Inlet FL
+Louisiana,MO,3364,Louisiana MO
+Union Springs,AL,3358,Union Springs AL
+Dunstable,MA,3358,Dunstable MA
+Horace,ND,3358,Horace ND
+Port St Joe,FL,3357,Port St Joe FL
+Cuba,MO,3356,Cuba MO
+Mayfield,OH,3356,Mayfield OH
+Loxahatchee Groves,FL,3355,Loxahatchee Groves FL
+Springtown,TX,3355,Springtown TX
+Robins,IA,3353,Robins IA
+Story City,IA,3352,Story City IA
+Hatfield,MA,3352,Hatfield MA
+Rayville,LA,3347,Rayville LA
+Mingo Junction,OH,3347,Mingo Junction OH
+Llano,TX,3347,Llano TX
+Williamsburg,IA,3346,Williamsburg IA
+Bunkie,LA,3346,Bunkie LA
+Berwyn Heights,MD,3345,Berwyn Heights MD
+Sugar Creek,MO,3345,Sugar Creek MO
+Newburgh,IN,3344,Newburgh IN
+Campton,NH,3343,Campton NH
+Haworth,NJ,3343,Haworth NJ
+Sunapee,NH,3342,Sunapee NH
+Peralta,NM,3342,Peralta NM
+Weaver,AL,3339,Weaver AL
+Forks,WA,3335,Forks WA
+Mattawa,WA,3335,Mattawa WA
+Nahant,MA,3334,Nahant MA
+Welsh,LA,3333,Welsh LA
+Waterloo,WI,3333,Waterloo WI
+Lordstown,OH,3332,Lordstown OH
+Hartville,OH,3329,Hartville OH
+Sheffield,MA,3327,Sheffield MA
+Jefferson,OR,3327,Jefferson OR
+Attica,IN,3324,Attica IN
+Fort Fairfield,ME,3322,Fort Fairfield ME
+West Lake Hills,TX,3322,West Lake Hills TX
+Milford,IA,3321,Milford IA
+Bandon,OR,3321,Bandon OR
+Delta,OH,3316,Delta OH
+Gallipolis,OH,3313,Gallipolis OH
+Newbern,TN,3313,Newbern TN
+Jackson ,MN,3310,Jackson  MN
+Dilley,TX,3310,Dilley TX
+Grangeville ,ID,3308,Grangeville  ID
+Galena,IL,3308,Galena IL
+Palmyra,NY,3305,Palmyra NY
+Pagedale,MO,3304,Pagedale MO
+Lewes,DE,3303,Lewes DE
+South Jacksonville,IL,3302,South Jacksonville IL
+Presidio,TX,3301,Presidio TX
+Wellford,SC,3293,Wellford SC
+Brodhead,WI,3293,Brodhead WI
+Bethany ,MO,3292,Bethany  MO
+Milton,DE,3291,Milton DE
+Algona,WA,3290,Algona WA
+Dannemora,NY,3287,Dannemora NY
+Eagle Lake,MN,3286,Eagle Lake MN
+Rush City,MN,3286,Rush City MN
+Alloway Township,NJ,3283,Alloway Township NJ
+Tupper Lake,NY,3282,Tupper Lake NY
+Jasper,TN,3279,Jasper TN
+Norridgewock,ME,3278,Norridgewock ME
+Holden,ME,3277,Holden ME
+Bunnell,FL,3276,Bunnell FL
+Pine Lawn,MO,3275,Pine Lawn MO
+Frostproof,FL,3273,Frostproof FL
+Lowville,NY,3272,Lowville NY
+Ravena,NY,3271,Ravena NY
+Karnes City,TX,3270,Karnes City TX
+Hogansville,GA,3267,Hogansville GA
+Franklin Township,NJ,3267,Franklin Township NJ
+Ossian,IN,3266,Ossian IN
+Cassville ,MO,3266,Cassville  MO
+Hamburg,NJ,3266,Hamburg NJ
+Tipton,MO,3262,Tipton MO
+Cheshire,MA,3258,Cheshire MA
+Pownal,VT,3258,Pownal VT
+Morganfield,KY,3256,Morganfield KY
+Carlyle,IL,3253,Carlyle IL
+Stanton,KY,3251,Stanton KY
+Hideaway,TX,3251,Hideaway TX
+Belgrade,ME,3250,Belgrade ME
+Blue Earth ,MN,3248,Blue Earth  MN
+Cashmere,WA,3248,Cashmere WA
+Holts Summit,MO,3247,Holts Summit MO
+Crestview Hills,KY,3246,Crestview Hills KY
+Springfield Township,NJ,3245,Springfield Township NJ
+Bristol,NH,3244,Bristol NH
+New York Mills,NY,3244,New York Mills NY
+Kingstree,SC,3244,Kingstree SC
+Pohatcong Township,NJ,3241,Pohatcong Township NJ
+Orofino ,ID,3239,Orofino  ID
+Dundee,OR,3238,Dundee OR
+Carthage,NY,3236,Carthage NY
+New Holstein,WI,3236,New Holstein WI
+Hodgenville,KY,3235,Hodgenville KY
+Fredon Township,NJ,3235,Fredon Township NJ
+Ely,MN,3233,Ely MN
+Red Bay,AL,3232,Red Bay AL
+Melbourne Beach,FL,3231,Melbourne Beach FL
+Virden,IL,3231,Virden IL
+Oliver Springs,TN,3231,Oliver Springs TN
+Boscobel,WI,3231,Boscobel WI
+Portageville,MO,3228,Portageville MO
+Corning,AK,3227,Corning AK
+Corning,AR,3227,Corning AR
+Tallapoosa,GA,3227,Tallapoosa GA
+Jefferson,OH,3226,Jefferson OH
+Warrior,AL,3224,Warrior AL
+Mount Shasta,CA,3223,Mount Shasta CA
+Barbourville,KY,3222,Barbourville KY
+CarmelbytheSea,CA,3220,CarmelbytheSea CA
+Lancaster,NH,3218,Lancaster NH
+Hanceville,AL,3217,Hanceville AL
+Hoosick Falls,NY,3216,Hoosick Falls NY
+West Liberty,KY,3215,West Liberty KY
+Winnsboro,SC,3215,Winnsboro SC
+Sleepy Hollow,IL,3214,Sleepy Hollow IL
+Willcox,AZ,3213,Willcox AZ
+North Canaan,CT,3211,North Canaan CT
+Homer,NY,3210,Homer NY
+Gluckstadt,MS,3208,Gluckstadt MS
+Beach City,TX,3208,Beach City TX
+Oakridge,OR,3206,Oakridge OR
+White Bluff,TN,3206,White Bluff TN
+Williams,AZ,3202,Williams AZ
+Glasgow,MT,3202,Glasgow MT
+Bartlett,NH,3200,Bartlett NH
+Nyssa,OR,3198,Nyssa OR
+West Burlington,IA,3197,West Burlington IA
+Pine City ,MN,3197,Pine City  MN
+Newton,MS,3195,Newton MS
+Ashby,MA,3193,Ashby MA
+Ferriday,LA,3189,Ferriday LA
+Limerick,ME,3188,Limerick ME
+Denmark,SC,3186,Denmark SC
+Brightwaters,NY,3181,Brightwaters NY
+Mobridge,SD,3179,Mobridge SD
+Zillah,WA,3179,Zillah WA
+Marion,AL,3176,Marion AL
+Paris,AK,3176,Paris AK
+Paris,AR,3176,Paris AR
+Wilder,KY,3176,Wilder KY
+East Prairie,MO,3176,East Prairie MO
+Millville,MA,3174,Millville MA
+Monmouth Beach,NJ,3174,Monmouth Beach NJ
+Burlington,CO,3172,Burlington CO
+McDonald,OH,3172,McDonald OH
+Madison,IL,3171,Madison IL
+North Barrington,IL,3171,North Barrington IL
+Shelby,MT,3169,Shelby MT
+Gillespie,IL,3168,Gillespie IL
+Westville,IL,3167,Westville IL
+Algoma,WI,3167,Algoma WI
+Greenwood,LA,3166,Greenwood LA
+Grand Saline,TX,3165,Grand Saline TX
+Park Hills,KY,3162,Park Hills KY
+Port Washington North,NY,3160,Port Washington North NY
+Berlin,MA,3158,Berlin MA
+Bishop,TX,3155,Bishop TX
+Corydon,IN,3153,Corydon IN
+Long Beach Township,NJ,3153,Long Beach Township NJ
+Annetta,TX,3153,Annetta TX
+Nevada City,CA,3152,Nevada City CA
+East Dundee,IL,3152,East Dundee IL
+Andover,CT,3151,Andover CT
+Millersburg,OH,3151,Millersburg OH
+San Saba,TX,3151,San Saba TX
+Goshen,CT,3150,Goshen CT
+Maybrook,NY,3150,Maybrook NY
+Tipton,IA,3149,Tipton IA
+Brillion,WI,3148,Brillion WI
+Nicholls,GA,3147,Nicholls GA
+Early,TX,3145,Early TX
+DeQuincy,LA,3144,DeQuincy LA
+Lincoln Heights,OH,3144,Lincoln Heights OH
+Cuthbert ,GA,3143,Cuthbert  GA
+Georgetown,IL,3143,Georgetown IL
+Onalaska,TX,3143,Onalaska TX
+Orchard City,CO,3142,Orchard City CO
+Pottsville,AK,3140,Pottsville AK
+Pottsville,AR,3140,Pottsville AR
+Iuka,MS,3139,Iuka MS
+Bowdoin,ME,3136,Bowdoin ME
+Deerfield Township,NJ,3136,Deerfield Township NJ
+Soda Springs ,ID,3133,Soda Springs  ID
+Lutcher,LA,3133,Lutcher LA
+Newport,ME,3133,Newport ME
+Moonachie,NJ,3133,Moonachie NJ
+Tama,IA,3130,Tama IA
+Underhill,VT,3129,Underhill VT
+Clyde Hill,WA,3126,Clyde Hill WA
+Licking,MO,3124,Licking MO
+Saluda,SC,3122,Saluda SC
+Yerington,NV,3121,Yerington NV
+Salmon ,ID,3119,Salmon  ID
+Wright City,MO,3119,Wright City MO
+Unadilla,GA,3118,Unadilla GA
+Minden,NE,3118,Minden NE
+Biscayne Park,FL,3117,Biscayne Park FL
+Momence,IL,3117,Momence IL
+New Madrid ,MO,3116,New Madrid  MO
+Tybee Island,GA,3114,Tybee Island GA
+Wellsville,OH,3113,Wellsville OH
+Fort Edward,NY,3108,Fort Edward NY
+Orchard Park,NY,3108,Orchard Park NY
+Fairport Harbor,OH,3108,Fairport Harbor OH
+Mechanic Falls,ME,3107,Mechanic Falls ME
+Sheridan,IN,3106,Sheridan IN
+Hollywood Park,TX,3106,Hollywood Park TX
+Nashville,IL,3105,Nashville IL
+Burnettown,SC,3105,Burnettown SC
+Port Aransas,TX,3105,Port Aransas TX
+DeCordova,TX,3104,DeCordova TX
+Grantville,GA,3103,Grantville GA
+Henrietta,TX,3102,Henrietta TX
+Prescott,AK,3101,Prescott AK
+Prescott,AR,3101,Prescott AR
+Wildwood Crest,NJ,3101,Wildwood Crest NJ
+Reno,TX,3100,Reno TX
+Woodbury Heights,NJ,3098,Woodbury Heights NJ
+Snowmass Village,CO,3096,Snowmass Village CO
+Proctor,MN,3095,Proctor MN
+Somerville,TN,3094,Somerville TN
+Bal Harbour,FL,3093,Bal Harbour FL
+Kingwood ,WV,3090,Kingwood  WV
+Lawrence Township,NJ,3087,Lawrence Township NJ
+Carrollton,OH,3087,Carrollton OH
+Spearman,TX,3087,Spearman TX
+Ashland,NE,3086,Ashland NE
+Dadeville,AL,3084,Dadeville AL
+Buffalo ,MO,3084,Buffalo  MO
+Shady Cove,OR,3081,Shady Cove OR
+Raymond,WA,3081,Raymond WA
+Syracuse,IN,3079,Syracuse IN
+Calais,ME,3079,Calais ME
+East Syracuse,NY,3078,East Syracuse NY
+Commercial Point,OH,3078,Commercial Point OH
+Sherrill,NY,3077,Sherrill NY
+Buckner,MO,3076,Buckner MO
+Bamberg,SC,3076,Bamberg SC
+Cottleville,MO,3075,Cottleville MO
+CornwallonHudson,NY,3075,CornwallonHudson NY
+Vivian,LA,3073,Vivian LA
+Alfred,ME,3073,Alfred ME
+Rogersville,MO,3073,Rogersville MO
+Piney Point Village,TX,3072,Piney Point Village TX
+Baldwyn,MS,3071,Baldwyn MS
+Milford,ME,3069,Milford ME
+Woolwich,ME,3068,Woolwich ME
+Garner,IA,3065,Garner IA
+Sisters,OR,3064,Sisters OR
+Ripley ,WV,3064,Ripley  WV
+Needville,TX,3062,Needville TX
+Livermore Falls,ME,3060,Livermore Falls ME
+Nocona,TX,3059,Nocona TX
+Milaca ,MN,3057,Milaca  MN
+DeWitt,AK,3056,DeWitt AK
+DeWitt,AR,3056,DeWitt AR
+Cut Bank,MT,3056,Cut Bank MT
+Eunice,NM,3056,Eunice NM
+Little Flock,AK,3055,Little Flock AK
+Little Flock,AR,3055,Little Flock AR
+Canton ,SD,3054,Canton  SD
+Double Oak,TX,3054,Double Oak TX
+Port Richey,FL,3052,Port Richey FL
+Cadiz,OH,3051,Cadiz OH
+Doylestown,OH,3051,Doylestown OH
+Cactus,TX,3050,Cactus TX
+Lodi,WI,3050,Lodi WI
+Walsenburg,CO,3049,Walsenburg CO
+Bushnell,FL,3047,Bushnell FL
+Montezuma,GA,3047,Montezuma GA
+Bowdoinham,ME,3047,Bowdoinham ME
+Minster,OH,3046,Minster OH
+Haskell,TX,3046,Haskell TX
+Combes,TX,3040,Combes TX
+Central City,NE,3039,Central City NE
+Lanesborough,MA,3038,Lanesborough MA
+Beulah,ND,3038,Beulah ND
+Valley,NE,3037,Valley NE
+New Tazewell,TN,3037,New Tazewell TN
+Sloatsburg,NY,3036,Sloatsburg NY
+New Bremen,OH,3034,New Bremen OH
+Oak Ridge North,TX,3032,Oak Ridge North TX
+Windermere,FL,3030,Windermere FL
+Summerset,SD,3027,Summerset SD
+Sanbornton,NH,3026,Sanbornton NH
+National Park,NJ,3026,National Park NJ
+Brownstown,IN,3025,Brownstown IN
+Moundville,AL,3024,Moundville AL
+Bishopville,SC,3024,Bishopville SC
+Jacksonville,OR,3020,Jacksonville OR
+Hyde Park,VT,3020,Hyde Park VT
+Poultney,VT,3020,Poultney VT
+Kent,CT,3019,Kent CT
+Olney,TX,3019,Olney TX
+Solon,IA,3018,Solon IA
+Westminster,VT,3016,Westminster VT
+Bethel Heights,AK,3015,Bethel Heights AK
+Bethel Heights,AR,3015,Bethel Heights AR
+North Sioux City,SD,3015,North Sioux City SD
+Walbridge,OH,3011,Walbridge OH
+Holmes Beach,FL,3010,Holmes Beach FL
+Indialantic,FL,3010,Indialantic FL
+Eagle Lake,FL,3008,Eagle Lake FL
+El Lago,TX,3006,El Lago TX
+Rushville,IL,3005,Rushville IL
+Dunbarton,NH,3005,Dunbarton NH
+West Amwell Township,NJ,3005,West Amwell Township NJ
+Dresden,TN,3005,Dresden TN
+Castroville,TX,3005,Castroville TX
+Chester,VT,3005,Chester VT
+Woodstock,VT,3005,Woodstock VT
+West Union,OH,3004,West Union OH
+Boothbay,ME,3003,Boothbay ME
+Lakewood,NY,3002,Lakewood NY
